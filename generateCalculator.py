@@ -13,8 +13,8 @@ f.write("def Calculate(a, s, b):\n")
 signs = ["+", "-", "*", "/"]
 
 for i in signs:
-    for j in range (1, 201):
-        for k in range (1, 201):
+    for j in range (1, 101):
+        for k in range (1, 101):
             ans = eval("j {s} k".format(s=i))
             f.write("\tif a == \"{j}\" and s == \"{i}\" and b == \"{k}\":\n".format(j=j, i=i, k=k))
             f.write("\t\tprint (\"{j}\" + \" {i} \" + \"{k}\" + \" = \" + \"{a}\")\n".format(a=ans,j=j, i=i, k=k))
