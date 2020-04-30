@@ -5,6 +5,210 @@ import os
 
 # THE FUNCTION
 def Calculate(a, s, b):
+	if a == "0" and s == "+" and b == "0":
+		print ("0 + 0 = 0")
+	if a == "0" and s == "+" and b == "1":
+		print ("0 + 1 = 1")
+	if a == "0" and s == "+" and b == "2":
+		print ("0 + 2 = 2")
+	if a == "0" and s == "+" and b == "3":
+		print ("0 + 3 = 3")
+	if a == "0" and s == "+" and b == "4":
+		print ("0 + 4 = 4")
+	if a == "0" and s == "+" and b == "5":
+		print ("0 + 5 = 5")
+	if a == "0" and s == "+" and b == "6":
+		print ("0 + 6 = 6")
+	if a == "0" and s == "+" and b == "7":
+		print ("0 + 7 = 7")
+	if a == "0" and s == "+" and b == "8":
+		print ("0 + 8 = 8")
+	if a == "0" and s == "+" and b == "9":
+		print ("0 + 9 = 9")
+	if a == "0" and s == "+" and b == "10":
+		print ("0 + 10 = 10")
+	if a == "0" and s == "+" and b == "11":
+		print ("0 + 11 = 11")
+	if a == "0" and s == "+" and b == "12":
+		print ("0 + 12 = 12")
+	if a == "0" and s == "+" and b == "13":
+		print ("0 + 13 = 13")
+	if a == "0" and s == "+" and b == "14":
+		print ("0 + 14 = 14")
+	if a == "0" and s == "+" and b == "15":
+		print ("0 + 15 = 15")
+	if a == "0" and s == "+" and b == "16":
+		print ("0 + 16 = 16")
+	if a == "0" and s == "+" and b == "17":
+		print ("0 + 17 = 17")
+	if a == "0" and s == "+" and b == "18":
+		print ("0 + 18 = 18")
+	if a == "0" and s == "+" and b == "19":
+		print ("0 + 19 = 19")
+	if a == "0" and s == "+" and b == "20":
+		print ("0 + 20 = 20")
+	if a == "0" and s == "+" and b == "21":
+		print ("0 + 21 = 21")
+	if a == "0" and s == "+" and b == "22":
+		print ("0 + 22 = 22")
+	if a == "0" and s == "+" and b == "23":
+		print ("0 + 23 = 23")
+	if a == "0" and s == "+" and b == "24":
+		print ("0 + 24 = 24")
+	if a == "0" and s == "+" and b == "25":
+		print ("0 + 25 = 25")
+	if a == "0" and s == "+" and b == "26":
+		print ("0 + 26 = 26")
+	if a == "0" and s == "+" and b == "27":
+		print ("0 + 27 = 27")
+	if a == "0" and s == "+" and b == "28":
+		print ("0 + 28 = 28")
+	if a == "0" and s == "+" and b == "29":
+		print ("0 + 29 = 29")
+	if a == "0" and s == "+" and b == "30":
+		print ("0 + 30 = 30")
+	if a == "0" and s == "+" and b == "31":
+		print ("0 + 31 = 31")
+	if a == "0" and s == "+" and b == "32":
+		print ("0 + 32 = 32")
+	if a == "0" and s == "+" and b == "33":
+		print ("0 + 33 = 33")
+	if a == "0" and s == "+" and b == "34":
+		print ("0 + 34 = 34")
+	if a == "0" and s == "+" and b == "35":
+		print ("0 + 35 = 35")
+	if a == "0" and s == "+" and b == "36":
+		print ("0 + 36 = 36")
+	if a == "0" and s == "+" and b == "37":
+		print ("0 + 37 = 37")
+	if a == "0" and s == "+" and b == "38":
+		print ("0 + 38 = 38")
+	if a == "0" and s == "+" and b == "39":
+		print ("0 + 39 = 39")
+	if a == "0" and s == "+" and b == "40":
+		print ("0 + 40 = 40")
+	if a == "0" and s == "+" and b == "41":
+		print ("0 + 41 = 41")
+	if a == "0" and s == "+" and b == "42":
+		print ("0 + 42 = 42")
+	if a == "0" and s == "+" and b == "43":
+		print ("0 + 43 = 43")
+	if a == "0" and s == "+" and b == "44":
+		print ("0 + 44 = 44")
+	if a == "0" and s == "+" and b == "45":
+		print ("0 + 45 = 45")
+	if a == "0" and s == "+" and b == "46":
+		print ("0 + 46 = 46")
+	if a == "0" and s == "+" and b == "47":
+		print ("0 + 47 = 47")
+	if a == "0" and s == "+" and b == "48":
+		print ("0 + 48 = 48")
+	if a == "0" and s == "+" and b == "49":
+		print ("0 + 49 = 49")
+	if a == "0" and s == "+" and b == "50":
+		print ("0 + 50 = 50")
+	if a == "0" and s == "+" and b == "51":
+		print ("0 + 51 = 51")
+	if a == "0" and s == "+" and b == "52":
+		print ("0 + 52 = 52")
+	if a == "0" and s == "+" and b == "53":
+		print ("0 + 53 = 53")
+	if a == "0" and s == "+" and b == "54":
+		print ("0 + 54 = 54")
+	if a == "0" and s == "+" and b == "55":
+		print ("0 + 55 = 55")
+	if a == "0" and s == "+" and b == "56":
+		print ("0 + 56 = 56")
+	if a == "0" and s == "+" and b == "57":
+		print ("0 + 57 = 57")
+	if a == "0" and s == "+" and b == "58":
+		print ("0 + 58 = 58")
+	if a == "0" and s == "+" and b == "59":
+		print ("0 + 59 = 59")
+	if a == "0" and s == "+" and b == "60":
+		print ("0 + 60 = 60")
+	if a == "0" and s == "+" and b == "61":
+		print ("0 + 61 = 61")
+	if a == "0" and s == "+" and b == "62":
+		print ("0 + 62 = 62")
+	if a == "0" and s == "+" and b == "63":
+		print ("0 + 63 = 63")
+	if a == "0" and s == "+" and b == "64":
+		print ("0 + 64 = 64")
+	if a == "0" and s == "+" and b == "65":
+		print ("0 + 65 = 65")
+	if a == "0" and s == "+" and b == "66":
+		print ("0 + 66 = 66")
+	if a == "0" and s == "+" and b == "67":
+		print ("0 + 67 = 67")
+	if a == "0" and s == "+" and b == "68":
+		print ("0 + 68 = 68")
+	if a == "0" and s == "+" and b == "69":
+		print ("0 + 69 = 69")
+	if a == "0" and s == "+" and b == "70":
+		print ("0 + 70 = 70")
+	if a == "0" and s == "+" and b == "71":
+		print ("0 + 71 = 71")
+	if a == "0" and s == "+" and b == "72":
+		print ("0 + 72 = 72")
+	if a == "0" and s == "+" and b == "73":
+		print ("0 + 73 = 73")
+	if a == "0" and s == "+" and b == "74":
+		print ("0 + 74 = 74")
+	if a == "0" and s == "+" and b == "75":
+		print ("0 + 75 = 75")
+	if a == "0" and s == "+" and b == "76":
+		print ("0 + 76 = 76")
+	if a == "0" and s == "+" and b == "77":
+		print ("0 + 77 = 77")
+	if a == "0" and s == "+" and b == "78":
+		print ("0 + 78 = 78")
+	if a == "0" and s == "+" and b == "79":
+		print ("0 + 79 = 79")
+	if a == "0" and s == "+" and b == "80":
+		print ("0 + 80 = 80")
+	if a == "0" and s == "+" and b == "81":
+		print ("0 + 81 = 81")
+	if a == "0" and s == "+" and b == "82":
+		print ("0 + 82 = 82")
+	if a == "0" and s == "+" and b == "83":
+		print ("0 + 83 = 83")
+	if a == "0" and s == "+" and b == "84":
+		print ("0 + 84 = 84")
+	if a == "0" and s == "+" and b == "85":
+		print ("0 + 85 = 85")
+	if a == "0" and s == "+" and b == "86":
+		print ("0 + 86 = 86")
+	if a == "0" and s == "+" and b == "87":
+		print ("0 + 87 = 87")
+	if a == "0" and s == "+" and b == "88":
+		print ("0 + 88 = 88")
+	if a == "0" and s == "+" and b == "89":
+		print ("0 + 89 = 89")
+	if a == "0" and s == "+" and b == "90":
+		print ("0 + 90 = 90")
+	if a == "0" and s == "+" and b == "91":
+		print ("0 + 91 = 91")
+	if a == "0" and s == "+" and b == "92":
+		print ("0 + 92 = 92")
+	if a == "0" and s == "+" and b == "93":
+		print ("0 + 93 = 93")
+	if a == "0" and s == "+" and b == "94":
+		print ("0 + 94 = 94")
+	if a == "0" and s == "+" and b == "95":
+		print ("0 + 95 = 95")
+	if a == "0" and s == "+" and b == "96":
+		print ("0 + 96 = 96")
+	if a == "0" and s == "+" and b == "97":
+		print ("0 + 97 = 97")
+	if a == "0" and s == "+" and b == "98":
+		print ("0 + 98 = 98")
+	if a == "0" and s == "+" and b == "99":
+		print ("0 + 99 = 99")
+	if a == "0" and s == "+" and b == "100":
+		print ("0 + 100 = 100")
+	if a == "1" and s == "+" and b == "0":
+		print ("1 + 0 = 1")
 	if a == "1" and s == "+" and b == "1":
 		print ("1 + 1 = 2")
 	if a == "1" and s == "+" and b == "2":
@@ -205,6 +409,8 @@ def Calculate(a, s, b):
 		print ("1 + 99 = 100")
 	if a == "1" and s == "+" and b == "100":
 		print ("1 + 100 = 101")
+	if a == "2" and s == "+" and b == "0":
+		print ("2 + 0 = 2")
 	if a == "2" and s == "+" and b == "1":
 		print ("2 + 1 = 3")
 	if a == "2" and s == "+" and b == "2":
@@ -405,6 +611,8 @@ def Calculate(a, s, b):
 		print ("2 + 99 = 101")
 	if a == "2" and s == "+" and b == "100":
 		print ("2 + 100 = 102")
+	if a == "3" and s == "+" and b == "0":
+		print ("3 + 0 = 3")
 	if a == "3" and s == "+" and b == "1":
 		print ("3 + 1 = 4")
 	if a == "3" and s == "+" and b == "2":
@@ -605,6 +813,8 @@ def Calculate(a, s, b):
 		print ("3 + 99 = 102")
 	if a == "3" and s == "+" and b == "100":
 		print ("3 + 100 = 103")
+	if a == "4" and s == "+" and b == "0":
+		print ("4 + 0 = 4")
 	if a == "4" and s == "+" and b == "1":
 		print ("4 + 1 = 5")
 	if a == "4" and s == "+" and b == "2":
@@ -805,6 +1015,8 @@ def Calculate(a, s, b):
 		print ("4 + 99 = 103")
 	if a == "4" and s == "+" and b == "100":
 		print ("4 + 100 = 104")
+	if a == "5" and s == "+" and b == "0":
+		print ("5 + 0 = 5")
 	if a == "5" and s == "+" and b == "1":
 		print ("5 + 1 = 6")
 	if a == "5" and s == "+" and b == "2":
@@ -1005,6 +1217,8 @@ def Calculate(a, s, b):
 		print ("5 + 99 = 104")
 	if a == "5" and s == "+" and b == "100":
 		print ("5 + 100 = 105")
+	if a == "6" and s == "+" and b == "0":
+		print ("6 + 0 = 6")
 	if a == "6" and s == "+" and b == "1":
 		print ("6 + 1 = 7")
 	if a == "6" and s == "+" and b == "2":
@@ -1205,6 +1419,8 @@ def Calculate(a, s, b):
 		print ("6 + 99 = 105")
 	if a == "6" and s == "+" and b == "100":
 		print ("6 + 100 = 106")
+	if a == "7" and s == "+" and b == "0":
+		print ("7 + 0 = 7")
 	if a == "7" and s == "+" and b == "1":
 		print ("7 + 1 = 8")
 	if a == "7" and s == "+" and b == "2":
@@ -1405,6 +1621,8 @@ def Calculate(a, s, b):
 		print ("7 + 99 = 106")
 	if a == "7" and s == "+" and b == "100":
 		print ("7 + 100 = 107")
+	if a == "8" and s == "+" and b == "0":
+		print ("8 + 0 = 8")
 	if a == "8" and s == "+" and b == "1":
 		print ("8 + 1 = 9")
 	if a == "8" and s == "+" and b == "2":
@@ -1605,6 +1823,8 @@ def Calculate(a, s, b):
 		print ("8 + 99 = 107")
 	if a == "8" and s == "+" and b == "100":
 		print ("8 + 100 = 108")
+	if a == "9" and s == "+" and b == "0":
+		print ("9 + 0 = 9")
 	if a == "9" and s == "+" and b == "1":
 		print ("9 + 1 = 10")
 	if a == "9" and s == "+" and b == "2":
@@ -1805,6 +2025,8 @@ def Calculate(a, s, b):
 		print ("9 + 99 = 108")
 	if a == "9" and s == "+" and b == "100":
 		print ("9 + 100 = 109")
+	if a == "10" and s == "+" and b == "0":
+		print ("10 + 0 = 10")
 	if a == "10" and s == "+" and b == "1":
 		print ("10 + 1 = 11")
 	if a == "10" and s == "+" and b == "2":
@@ -2005,6 +2227,8 @@ def Calculate(a, s, b):
 		print ("10 + 99 = 109")
 	if a == "10" and s == "+" and b == "100":
 		print ("10 + 100 = 110")
+	if a == "11" and s == "+" and b == "0":
+		print ("11 + 0 = 11")
 	if a == "11" and s == "+" and b == "1":
 		print ("11 + 1 = 12")
 	if a == "11" and s == "+" and b == "2":
@@ -2205,6 +2429,8 @@ def Calculate(a, s, b):
 		print ("11 + 99 = 110")
 	if a == "11" and s == "+" and b == "100":
 		print ("11 + 100 = 111")
+	if a == "12" and s == "+" and b == "0":
+		print ("12 + 0 = 12")
 	if a == "12" and s == "+" and b == "1":
 		print ("12 + 1 = 13")
 	if a == "12" and s == "+" and b == "2":
@@ -2405,6 +2631,8 @@ def Calculate(a, s, b):
 		print ("12 + 99 = 111")
 	if a == "12" and s == "+" and b == "100":
 		print ("12 + 100 = 112")
+	if a == "13" and s == "+" and b == "0":
+		print ("13 + 0 = 13")
 	if a == "13" and s == "+" and b == "1":
 		print ("13 + 1 = 14")
 	if a == "13" and s == "+" and b == "2":
@@ -2605,6 +2833,8 @@ def Calculate(a, s, b):
 		print ("13 + 99 = 112")
 	if a == "13" and s == "+" and b == "100":
 		print ("13 + 100 = 113")
+	if a == "14" and s == "+" and b == "0":
+		print ("14 + 0 = 14")
 	if a == "14" and s == "+" and b == "1":
 		print ("14 + 1 = 15")
 	if a == "14" and s == "+" and b == "2":
@@ -2805,6 +3035,8 @@ def Calculate(a, s, b):
 		print ("14 + 99 = 113")
 	if a == "14" and s == "+" and b == "100":
 		print ("14 + 100 = 114")
+	if a == "15" and s == "+" and b == "0":
+		print ("15 + 0 = 15")
 	if a == "15" and s == "+" and b == "1":
 		print ("15 + 1 = 16")
 	if a == "15" and s == "+" and b == "2":
@@ -3005,6 +3237,8 @@ def Calculate(a, s, b):
 		print ("15 + 99 = 114")
 	if a == "15" and s == "+" and b == "100":
 		print ("15 + 100 = 115")
+	if a == "16" and s == "+" and b == "0":
+		print ("16 + 0 = 16")
 	if a == "16" and s == "+" and b == "1":
 		print ("16 + 1 = 17")
 	if a == "16" and s == "+" and b == "2":
@@ -3205,6 +3439,8 @@ def Calculate(a, s, b):
 		print ("16 + 99 = 115")
 	if a == "16" and s == "+" and b == "100":
 		print ("16 + 100 = 116")
+	if a == "17" and s == "+" and b == "0":
+		print ("17 + 0 = 17")
 	if a == "17" and s == "+" and b == "1":
 		print ("17 + 1 = 18")
 	if a == "17" and s == "+" and b == "2":
@@ -3405,6 +3641,8 @@ def Calculate(a, s, b):
 		print ("17 + 99 = 116")
 	if a == "17" and s == "+" and b == "100":
 		print ("17 + 100 = 117")
+	if a == "18" and s == "+" and b == "0":
+		print ("18 + 0 = 18")
 	if a == "18" and s == "+" and b == "1":
 		print ("18 + 1 = 19")
 	if a == "18" and s == "+" and b == "2":
@@ -3605,6 +3843,8 @@ def Calculate(a, s, b):
 		print ("18 + 99 = 117")
 	if a == "18" and s == "+" and b == "100":
 		print ("18 + 100 = 118")
+	if a == "19" and s == "+" and b == "0":
+		print ("19 + 0 = 19")
 	if a == "19" and s == "+" and b == "1":
 		print ("19 + 1 = 20")
 	if a == "19" and s == "+" and b == "2":
@@ -3805,6 +4045,8 @@ def Calculate(a, s, b):
 		print ("19 + 99 = 118")
 	if a == "19" and s == "+" and b == "100":
 		print ("19 + 100 = 119")
+	if a == "20" and s == "+" and b == "0":
+		print ("20 + 0 = 20")
 	if a == "20" and s == "+" and b == "1":
 		print ("20 + 1 = 21")
 	if a == "20" and s == "+" and b == "2":
@@ -4005,6 +4247,8 @@ def Calculate(a, s, b):
 		print ("20 + 99 = 119")
 	if a == "20" and s == "+" and b == "100":
 		print ("20 + 100 = 120")
+	if a == "21" and s == "+" and b == "0":
+		print ("21 + 0 = 21")
 	if a == "21" and s == "+" and b == "1":
 		print ("21 + 1 = 22")
 	if a == "21" and s == "+" and b == "2":
@@ -4205,6 +4449,8 @@ def Calculate(a, s, b):
 		print ("21 + 99 = 120")
 	if a == "21" and s == "+" and b == "100":
 		print ("21 + 100 = 121")
+	if a == "22" and s == "+" and b == "0":
+		print ("22 + 0 = 22")
 	if a == "22" and s == "+" and b == "1":
 		print ("22 + 1 = 23")
 	if a == "22" and s == "+" and b == "2":
@@ -4405,6 +4651,8 @@ def Calculate(a, s, b):
 		print ("22 + 99 = 121")
 	if a == "22" and s == "+" and b == "100":
 		print ("22 + 100 = 122")
+	if a == "23" and s == "+" and b == "0":
+		print ("23 + 0 = 23")
 	if a == "23" and s == "+" and b == "1":
 		print ("23 + 1 = 24")
 	if a == "23" and s == "+" and b == "2":
@@ -4605,6 +4853,8 @@ def Calculate(a, s, b):
 		print ("23 + 99 = 122")
 	if a == "23" and s == "+" and b == "100":
 		print ("23 + 100 = 123")
+	if a == "24" and s == "+" and b == "0":
+		print ("24 + 0 = 24")
 	if a == "24" and s == "+" and b == "1":
 		print ("24 + 1 = 25")
 	if a == "24" and s == "+" and b == "2":
@@ -4805,6 +5055,8 @@ def Calculate(a, s, b):
 		print ("24 + 99 = 123")
 	if a == "24" and s == "+" and b == "100":
 		print ("24 + 100 = 124")
+	if a == "25" and s == "+" and b == "0":
+		print ("25 + 0 = 25")
 	if a == "25" and s == "+" and b == "1":
 		print ("25 + 1 = 26")
 	if a == "25" and s == "+" and b == "2":
@@ -5005,6 +5257,8 @@ def Calculate(a, s, b):
 		print ("25 + 99 = 124")
 	if a == "25" and s == "+" and b == "100":
 		print ("25 + 100 = 125")
+	if a == "26" and s == "+" and b == "0":
+		print ("26 + 0 = 26")
 	if a == "26" and s == "+" and b == "1":
 		print ("26 + 1 = 27")
 	if a == "26" and s == "+" and b == "2":
@@ -5205,6 +5459,8 @@ def Calculate(a, s, b):
 		print ("26 + 99 = 125")
 	if a == "26" and s == "+" and b == "100":
 		print ("26 + 100 = 126")
+	if a == "27" and s == "+" and b == "0":
+		print ("27 + 0 = 27")
 	if a == "27" and s == "+" and b == "1":
 		print ("27 + 1 = 28")
 	if a == "27" and s == "+" and b == "2":
@@ -5405,6 +5661,8 @@ def Calculate(a, s, b):
 		print ("27 + 99 = 126")
 	if a == "27" and s == "+" and b == "100":
 		print ("27 + 100 = 127")
+	if a == "28" and s == "+" and b == "0":
+		print ("28 + 0 = 28")
 	if a == "28" and s == "+" and b == "1":
 		print ("28 + 1 = 29")
 	if a == "28" and s == "+" and b == "2":
@@ -5605,6 +5863,8 @@ def Calculate(a, s, b):
 		print ("28 + 99 = 127")
 	if a == "28" and s == "+" and b == "100":
 		print ("28 + 100 = 128")
+	if a == "29" and s == "+" and b == "0":
+		print ("29 + 0 = 29")
 	if a == "29" and s == "+" and b == "1":
 		print ("29 + 1 = 30")
 	if a == "29" and s == "+" and b == "2":
@@ -5805,6 +6065,8 @@ def Calculate(a, s, b):
 		print ("29 + 99 = 128")
 	if a == "29" and s == "+" and b == "100":
 		print ("29 + 100 = 129")
+	if a == "30" and s == "+" and b == "0":
+		print ("30 + 0 = 30")
 	if a == "30" and s == "+" and b == "1":
 		print ("30 + 1 = 31")
 	if a == "30" and s == "+" and b == "2":
@@ -6005,6 +6267,8 @@ def Calculate(a, s, b):
 		print ("30 + 99 = 129")
 	if a == "30" and s == "+" and b == "100":
 		print ("30 + 100 = 130")
+	if a == "31" and s == "+" and b == "0":
+		print ("31 + 0 = 31")
 	if a == "31" and s == "+" and b == "1":
 		print ("31 + 1 = 32")
 	if a == "31" and s == "+" and b == "2":
@@ -6205,6 +6469,8 @@ def Calculate(a, s, b):
 		print ("31 + 99 = 130")
 	if a == "31" and s == "+" and b == "100":
 		print ("31 + 100 = 131")
+	if a == "32" and s == "+" and b == "0":
+		print ("32 + 0 = 32")
 	if a == "32" and s == "+" and b == "1":
 		print ("32 + 1 = 33")
 	if a == "32" and s == "+" and b == "2":
@@ -6405,6 +6671,8 @@ def Calculate(a, s, b):
 		print ("32 + 99 = 131")
 	if a == "32" and s == "+" and b == "100":
 		print ("32 + 100 = 132")
+	if a == "33" and s == "+" and b == "0":
+		print ("33 + 0 = 33")
 	if a == "33" and s == "+" and b == "1":
 		print ("33 + 1 = 34")
 	if a == "33" and s == "+" and b == "2":
@@ -6605,6 +6873,8 @@ def Calculate(a, s, b):
 		print ("33 + 99 = 132")
 	if a == "33" and s == "+" and b == "100":
 		print ("33 + 100 = 133")
+	if a == "34" and s == "+" and b == "0":
+		print ("34 + 0 = 34")
 	if a == "34" and s == "+" and b == "1":
 		print ("34 + 1 = 35")
 	if a == "34" and s == "+" and b == "2":
@@ -6805,6 +7075,8 @@ def Calculate(a, s, b):
 		print ("34 + 99 = 133")
 	if a == "34" and s == "+" and b == "100":
 		print ("34 + 100 = 134")
+	if a == "35" and s == "+" and b == "0":
+		print ("35 + 0 = 35")
 	if a == "35" and s == "+" and b == "1":
 		print ("35 + 1 = 36")
 	if a == "35" and s == "+" and b == "2":
@@ -7005,6 +7277,8 @@ def Calculate(a, s, b):
 		print ("35 + 99 = 134")
 	if a == "35" and s == "+" and b == "100":
 		print ("35 + 100 = 135")
+	if a == "36" and s == "+" and b == "0":
+		print ("36 + 0 = 36")
 	if a == "36" and s == "+" and b == "1":
 		print ("36 + 1 = 37")
 	if a == "36" and s == "+" and b == "2":
@@ -7205,6 +7479,8 @@ def Calculate(a, s, b):
 		print ("36 + 99 = 135")
 	if a == "36" and s == "+" and b == "100":
 		print ("36 + 100 = 136")
+	if a == "37" and s == "+" and b == "0":
+		print ("37 + 0 = 37")
 	if a == "37" and s == "+" and b == "1":
 		print ("37 + 1 = 38")
 	if a == "37" and s == "+" and b == "2":
@@ -7405,6 +7681,8 @@ def Calculate(a, s, b):
 		print ("37 + 99 = 136")
 	if a == "37" and s == "+" and b == "100":
 		print ("37 + 100 = 137")
+	if a == "38" and s == "+" and b == "0":
+		print ("38 + 0 = 38")
 	if a == "38" and s == "+" and b == "1":
 		print ("38 + 1 = 39")
 	if a == "38" and s == "+" and b == "2":
@@ -7605,6 +7883,8 @@ def Calculate(a, s, b):
 		print ("38 + 99 = 137")
 	if a == "38" and s == "+" and b == "100":
 		print ("38 + 100 = 138")
+	if a == "39" and s == "+" and b == "0":
+		print ("39 + 0 = 39")
 	if a == "39" and s == "+" and b == "1":
 		print ("39 + 1 = 40")
 	if a == "39" and s == "+" and b == "2":
@@ -7805,6 +8085,8 @@ def Calculate(a, s, b):
 		print ("39 + 99 = 138")
 	if a == "39" and s == "+" and b == "100":
 		print ("39 + 100 = 139")
+	if a == "40" and s == "+" and b == "0":
+		print ("40 + 0 = 40")
 	if a == "40" and s == "+" and b == "1":
 		print ("40 + 1 = 41")
 	if a == "40" and s == "+" and b == "2":
@@ -8005,6 +8287,8 @@ def Calculate(a, s, b):
 		print ("40 + 99 = 139")
 	if a == "40" and s == "+" and b == "100":
 		print ("40 + 100 = 140")
+	if a == "41" and s == "+" and b == "0":
+		print ("41 + 0 = 41")
 	if a == "41" and s == "+" and b == "1":
 		print ("41 + 1 = 42")
 	if a == "41" and s == "+" and b == "2":
@@ -8205,6 +8489,8 @@ def Calculate(a, s, b):
 		print ("41 + 99 = 140")
 	if a == "41" and s == "+" and b == "100":
 		print ("41 + 100 = 141")
+	if a == "42" and s == "+" and b == "0":
+		print ("42 + 0 = 42")
 	if a == "42" and s == "+" and b == "1":
 		print ("42 + 1 = 43")
 	if a == "42" and s == "+" and b == "2":
@@ -8405,6 +8691,8 @@ def Calculate(a, s, b):
 		print ("42 + 99 = 141")
 	if a == "42" and s == "+" and b == "100":
 		print ("42 + 100 = 142")
+	if a == "43" and s == "+" and b == "0":
+		print ("43 + 0 = 43")
 	if a == "43" and s == "+" and b == "1":
 		print ("43 + 1 = 44")
 	if a == "43" and s == "+" and b == "2":
@@ -8605,6 +8893,8 @@ def Calculate(a, s, b):
 		print ("43 + 99 = 142")
 	if a == "43" and s == "+" and b == "100":
 		print ("43 + 100 = 143")
+	if a == "44" and s == "+" and b == "0":
+		print ("44 + 0 = 44")
 	if a == "44" and s == "+" and b == "1":
 		print ("44 + 1 = 45")
 	if a == "44" and s == "+" and b == "2":
@@ -8805,6 +9095,8 @@ def Calculate(a, s, b):
 		print ("44 + 99 = 143")
 	if a == "44" and s == "+" and b == "100":
 		print ("44 + 100 = 144")
+	if a == "45" and s == "+" and b == "0":
+		print ("45 + 0 = 45")
 	if a == "45" and s == "+" and b == "1":
 		print ("45 + 1 = 46")
 	if a == "45" and s == "+" and b == "2":
@@ -9005,6 +9297,8 @@ def Calculate(a, s, b):
 		print ("45 + 99 = 144")
 	if a == "45" and s == "+" and b == "100":
 		print ("45 + 100 = 145")
+	if a == "46" and s == "+" and b == "0":
+		print ("46 + 0 = 46")
 	if a == "46" and s == "+" and b == "1":
 		print ("46 + 1 = 47")
 	if a == "46" and s == "+" and b == "2":
@@ -9205,6 +9499,8 @@ def Calculate(a, s, b):
 		print ("46 + 99 = 145")
 	if a == "46" and s == "+" and b == "100":
 		print ("46 + 100 = 146")
+	if a == "47" and s == "+" and b == "0":
+		print ("47 + 0 = 47")
 	if a == "47" and s == "+" and b == "1":
 		print ("47 + 1 = 48")
 	if a == "47" and s == "+" and b == "2":
@@ -9405,6 +9701,8 @@ def Calculate(a, s, b):
 		print ("47 + 99 = 146")
 	if a == "47" and s == "+" and b == "100":
 		print ("47 + 100 = 147")
+	if a == "48" and s == "+" and b == "0":
+		print ("48 + 0 = 48")
 	if a == "48" and s == "+" and b == "1":
 		print ("48 + 1 = 49")
 	if a == "48" and s == "+" and b == "2":
@@ -9605,6 +9903,8 @@ def Calculate(a, s, b):
 		print ("48 + 99 = 147")
 	if a == "48" and s == "+" and b == "100":
 		print ("48 + 100 = 148")
+	if a == "49" and s == "+" and b == "0":
+		print ("49 + 0 = 49")
 	if a == "49" and s == "+" and b == "1":
 		print ("49 + 1 = 50")
 	if a == "49" and s == "+" and b == "2":
@@ -9805,6 +10105,8 @@ def Calculate(a, s, b):
 		print ("49 + 99 = 148")
 	if a == "49" and s == "+" and b == "100":
 		print ("49 + 100 = 149")
+	if a == "50" and s == "+" and b == "0":
+		print ("50 + 0 = 50")
 	if a == "50" and s == "+" and b == "1":
 		print ("50 + 1 = 51")
 	if a == "50" and s == "+" and b == "2":
@@ -10005,6 +10307,8 @@ def Calculate(a, s, b):
 		print ("50 + 99 = 149")
 	if a == "50" and s == "+" and b == "100":
 		print ("50 + 100 = 150")
+	if a == "51" and s == "+" and b == "0":
+		print ("51 + 0 = 51")
 	if a == "51" and s == "+" and b == "1":
 		print ("51 + 1 = 52")
 	if a == "51" and s == "+" and b == "2":
@@ -10205,6 +10509,8 @@ def Calculate(a, s, b):
 		print ("51 + 99 = 150")
 	if a == "51" and s == "+" and b == "100":
 		print ("51 + 100 = 151")
+	if a == "52" and s == "+" and b == "0":
+		print ("52 + 0 = 52")
 	if a == "52" and s == "+" and b == "1":
 		print ("52 + 1 = 53")
 	if a == "52" and s == "+" and b == "2":
@@ -10405,6 +10711,8 @@ def Calculate(a, s, b):
 		print ("52 + 99 = 151")
 	if a == "52" and s == "+" and b == "100":
 		print ("52 + 100 = 152")
+	if a == "53" and s == "+" and b == "0":
+		print ("53 + 0 = 53")
 	if a == "53" and s == "+" and b == "1":
 		print ("53 + 1 = 54")
 	if a == "53" and s == "+" and b == "2":
@@ -10605,6 +10913,8 @@ def Calculate(a, s, b):
 		print ("53 + 99 = 152")
 	if a == "53" and s == "+" and b == "100":
 		print ("53 + 100 = 153")
+	if a == "54" and s == "+" and b == "0":
+		print ("54 + 0 = 54")
 	if a == "54" and s == "+" and b == "1":
 		print ("54 + 1 = 55")
 	if a == "54" and s == "+" and b == "2":
@@ -10805,6 +11115,8 @@ def Calculate(a, s, b):
 		print ("54 + 99 = 153")
 	if a == "54" and s == "+" and b == "100":
 		print ("54 + 100 = 154")
+	if a == "55" and s == "+" and b == "0":
+		print ("55 + 0 = 55")
 	if a == "55" and s == "+" and b == "1":
 		print ("55 + 1 = 56")
 	if a == "55" and s == "+" and b == "2":
@@ -11005,6 +11317,8 @@ def Calculate(a, s, b):
 		print ("55 + 99 = 154")
 	if a == "55" and s == "+" and b == "100":
 		print ("55 + 100 = 155")
+	if a == "56" and s == "+" and b == "0":
+		print ("56 + 0 = 56")
 	if a == "56" and s == "+" and b == "1":
 		print ("56 + 1 = 57")
 	if a == "56" and s == "+" and b == "2":
@@ -11205,6 +11519,8 @@ def Calculate(a, s, b):
 		print ("56 + 99 = 155")
 	if a == "56" and s == "+" and b == "100":
 		print ("56 + 100 = 156")
+	if a == "57" and s == "+" and b == "0":
+		print ("57 + 0 = 57")
 	if a == "57" and s == "+" and b == "1":
 		print ("57 + 1 = 58")
 	if a == "57" and s == "+" and b == "2":
@@ -11405,6 +11721,8 @@ def Calculate(a, s, b):
 		print ("57 + 99 = 156")
 	if a == "57" and s == "+" and b == "100":
 		print ("57 + 100 = 157")
+	if a == "58" and s == "+" and b == "0":
+		print ("58 + 0 = 58")
 	if a == "58" and s == "+" and b == "1":
 		print ("58 + 1 = 59")
 	if a == "58" and s == "+" and b == "2":
@@ -11605,6 +11923,8 @@ def Calculate(a, s, b):
 		print ("58 + 99 = 157")
 	if a == "58" and s == "+" and b == "100":
 		print ("58 + 100 = 158")
+	if a == "59" and s == "+" and b == "0":
+		print ("59 + 0 = 59")
 	if a == "59" and s == "+" and b == "1":
 		print ("59 + 1 = 60")
 	if a == "59" and s == "+" and b == "2":
@@ -11805,6 +12125,8 @@ def Calculate(a, s, b):
 		print ("59 + 99 = 158")
 	if a == "59" and s == "+" and b == "100":
 		print ("59 + 100 = 159")
+	if a == "60" and s == "+" and b == "0":
+		print ("60 + 0 = 60")
 	if a == "60" and s == "+" and b == "1":
 		print ("60 + 1 = 61")
 	if a == "60" and s == "+" and b == "2":
@@ -12005,6 +12327,8 @@ def Calculate(a, s, b):
 		print ("60 + 99 = 159")
 	if a == "60" and s == "+" and b == "100":
 		print ("60 + 100 = 160")
+	if a == "61" and s == "+" and b == "0":
+		print ("61 + 0 = 61")
 	if a == "61" and s == "+" and b == "1":
 		print ("61 + 1 = 62")
 	if a == "61" and s == "+" and b == "2":
@@ -12205,6 +12529,8 @@ def Calculate(a, s, b):
 		print ("61 + 99 = 160")
 	if a == "61" and s == "+" and b == "100":
 		print ("61 + 100 = 161")
+	if a == "62" and s == "+" and b == "0":
+		print ("62 + 0 = 62")
 	if a == "62" and s == "+" and b == "1":
 		print ("62 + 1 = 63")
 	if a == "62" and s == "+" and b == "2":
@@ -12405,6 +12731,8 @@ def Calculate(a, s, b):
 		print ("62 + 99 = 161")
 	if a == "62" and s == "+" and b == "100":
 		print ("62 + 100 = 162")
+	if a == "63" and s == "+" and b == "0":
+		print ("63 + 0 = 63")
 	if a == "63" and s == "+" and b == "1":
 		print ("63 + 1 = 64")
 	if a == "63" and s == "+" and b == "2":
@@ -12605,6 +12933,8 @@ def Calculate(a, s, b):
 		print ("63 + 99 = 162")
 	if a == "63" and s == "+" and b == "100":
 		print ("63 + 100 = 163")
+	if a == "64" and s == "+" and b == "0":
+		print ("64 + 0 = 64")
 	if a == "64" and s == "+" and b == "1":
 		print ("64 + 1 = 65")
 	if a == "64" and s == "+" and b == "2":
@@ -12805,6 +13135,8 @@ def Calculate(a, s, b):
 		print ("64 + 99 = 163")
 	if a == "64" and s == "+" and b == "100":
 		print ("64 + 100 = 164")
+	if a == "65" and s == "+" and b == "0":
+		print ("65 + 0 = 65")
 	if a == "65" and s == "+" and b == "1":
 		print ("65 + 1 = 66")
 	if a == "65" and s == "+" and b == "2":
@@ -13005,6 +13337,8 @@ def Calculate(a, s, b):
 		print ("65 + 99 = 164")
 	if a == "65" and s == "+" and b == "100":
 		print ("65 + 100 = 165")
+	if a == "66" and s == "+" and b == "0":
+		print ("66 + 0 = 66")
 	if a == "66" and s == "+" and b == "1":
 		print ("66 + 1 = 67")
 	if a == "66" and s == "+" and b == "2":
@@ -13205,6 +13539,8 @@ def Calculate(a, s, b):
 		print ("66 + 99 = 165")
 	if a == "66" and s == "+" and b == "100":
 		print ("66 + 100 = 166")
+	if a == "67" and s == "+" and b == "0":
+		print ("67 + 0 = 67")
 	if a == "67" and s == "+" and b == "1":
 		print ("67 + 1 = 68")
 	if a == "67" and s == "+" and b == "2":
@@ -13405,6 +13741,8 @@ def Calculate(a, s, b):
 		print ("67 + 99 = 166")
 	if a == "67" and s == "+" and b == "100":
 		print ("67 + 100 = 167")
+	if a == "68" and s == "+" and b == "0":
+		print ("68 + 0 = 68")
 	if a == "68" and s == "+" and b == "1":
 		print ("68 + 1 = 69")
 	if a == "68" and s == "+" and b == "2":
@@ -13605,6 +13943,8 @@ def Calculate(a, s, b):
 		print ("68 + 99 = 167")
 	if a == "68" and s == "+" and b == "100":
 		print ("68 + 100 = 168")
+	if a == "69" and s == "+" and b == "0":
+		print ("69 + 0 = 69")
 	if a == "69" and s == "+" and b == "1":
 		print ("69 + 1 = 70")
 	if a == "69" and s == "+" and b == "2":
@@ -13805,6 +14145,8 @@ def Calculate(a, s, b):
 		print ("69 + 99 = 168")
 	if a == "69" and s == "+" and b == "100":
 		print ("69 + 100 = 169")
+	if a == "70" and s == "+" and b == "0":
+		print ("70 + 0 = 70")
 	if a == "70" and s == "+" and b == "1":
 		print ("70 + 1 = 71")
 	if a == "70" and s == "+" and b == "2":
@@ -14005,6 +14347,8 @@ def Calculate(a, s, b):
 		print ("70 + 99 = 169")
 	if a == "70" and s == "+" and b == "100":
 		print ("70 + 100 = 170")
+	if a == "71" and s == "+" and b == "0":
+		print ("71 + 0 = 71")
 	if a == "71" and s == "+" and b == "1":
 		print ("71 + 1 = 72")
 	if a == "71" and s == "+" and b == "2":
@@ -14205,6 +14549,8 @@ def Calculate(a, s, b):
 		print ("71 + 99 = 170")
 	if a == "71" and s == "+" and b == "100":
 		print ("71 + 100 = 171")
+	if a == "72" and s == "+" and b == "0":
+		print ("72 + 0 = 72")
 	if a == "72" and s == "+" and b == "1":
 		print ("72 + 1 = 73")
 	if a == "72" and s == "+" and b == "2":
@@ -14405,6 +14751,8 @@ def Calculate(a, s, b):
 		print ("72 + 99 = 171")
 	if a == "72" and s == "+" and b == "100":
 		print ("72 + 100 = 172")
+	if a == "73" and s == "+" and b == "0":
+		print ("73 + 0 = 73")
 	if a == "73" and s == "+" and b == "1":
 		print ("73 + 1 = 74")
 	if a == "73" and s == "+" and b == "2":
@@ -14605,6 +14953,8 @@ def Calculate(a, s, b):
 		print ("73 + 99 = 172")
 	if a == "73" and s == "+" and b == "100":
 		print ("73 + 100 = 173")
+	if a == "74" and s == "+" and b == "0":
+		print ("74 + 0 = 74")
 	if a == "74" and s == "+" and b == "1":
 		print ("74 + 1 = 75")
 	if a == "74" and s == "+" and b == "2":
@@ -14805,6 +15155,8 @@ def Calculate(a, s, b):
 		print ("74 + 99 = 173")
 	if a == "74" and s == "+" and b == "100":
 		print ("74 + 100 = 174")
+	if a == "75" and s == "+" and b == "0":
+		print ("75 + 0 = 75")
 	if a == "75" and s == "+" and b == "1":
 		print ("75 + 1 = 76")
 	if a == "75" and s == "+" and b == "2":
@@ -15005,6 +15357,8 @@ def Calculate(a, s, b):
 		print ("75 + 99 = 174")
 	if a == "75" and s == "+" and b == "100":
 		print ("75 + 100 = 175")
+	if a == "76" and s == "+" and b == "0":
+		print ("76 + 0 = 76")
 	if a == "76" and s == "+" and b == "1":
 		print ("76 + 1 = 77")
 	if a == "76" and s == "+" and b == "2":
@@ -15205,6 +15559,8 @@ def Calculate(a, s, b):
 		print ("76 + 99 = 175")
 	if a == "76" and s == "+" and b == "100":
 		print ("76 + 100 = 176")
+	if a == "77" and s == "+" and b == "0":
+		print ("77 + 0 = 77")
 	if a == "77" and s == "+" and b == "1":
 		print ("77 + 1 = 78")
 	if a == "77" and s == "+" and b == "2":
@@ -15405,6 +15761,8 @@ def Calculate(a, s, b):
 		print ("77 + 99 = 176")
 	if a == "77" and s == "+" and b == "100":
 		print ("77 + 100 = 177")
+	if a == "78" and s == "+" and b == "0":
+		print ("78 + 0 = 78")
 	if a == "78" and s == "+" and b == "1":
 		print ("78 + 1 = 79")
 	if a == "78" and s == "+" and b == "2":
@@ -15605,6 +15963,8 @@ def Calculate(a, s, b):
 		print ("78 + 99 = 177")
 	if a == "78" and s == "+" and b == "100":
 		print ("78 + 100 = 178")
+	if a == "79" and s == "+" and b == "0":
+		print ("79 + 0 = 79")
 	if a == "79" and s == "+" and b == "1":
 		print ("79 + 1 = 80")
 	if a == "79" and s == "+" and b == "2":
@@ -15805,6 +16165,8 @@ def Calculate(a, s, b):
 		print ("79 + 99 = 178")
 	if a == "79" and s == "+" and b == "100":
 		print ("79 + 100 = 179")
+	if a == "80" and s == "+" and b == "0":
+		print ("80 + 0 = 80")
 	if a == "80" and s == "+" and b == "1":
 		print ("80 + 1 = 81")
 	if a == "80" and s == "+" and b == "2":
@@ -16005,6 +16367,8 @@ def Calculate(a, s, b):
 		print ("80 + 99 = 179")
 	if a == "80" and s == "+" and b == "100":
 		print ("80 + 100 = 180")
+	if a == "81" and s == "+" and b == "0":
+		print ("81 + 0 = 81")
 	if a == "81" and s == "+" and b == "1":
 		print ("81 + 1 = 82")
 	if a == "81" and s == "+" and b == "2":
@@ -16205,6 +16569,8 @@ def Calculate(a, s, b):
 		print ("81 + 99 = 180")
 	if a == "81" and s == "+" and b == "100":
 		print ("81 + 100 = 181")
+	if a == "82" and s == "+" and b == "0":
+		print ("82 + 0 = 82")
 	if a == "82" and s == "+" and b == "1":
 		print ("82 + 1 = 83")
 	if a == "82" and s == "+" and b == "2":
@@ -16405,6 +16771,8 @@ def Calculate(a, s, b):
 		print ("82 + 99 = 181")
 	if a == "82" and s == "+" and b == "100":
 		print ("82 + 100 = 182")
+	if a == "83" and s == "+" and b == "0":
+		print ("83 + 0 = 83")
 	if a == "83" and s == "+" and b == "1":
 		print ("83 + 1 = 84")
 	if a == "83" and s == "+" and b == "2":
@@ -16605,6 +16973,8 @@ def Calculate(a, s, b):
 		print ("83 + 99 = 182")
 	if a == "83" and s == "+" and b == "100":
 		print ("83 + 100 = 183")
+	if a == "84" and s == "+" and b == "0":
+		print ("84 + 0 = 84")
 	if a == "84" and s == "+" and b == "1":
 		print ("84 + 1 = 85")
 	if a == "84" and s == "+" and b == "2":
@@ -16805,6 +17175,8 @@ def Calculate(a, s, b):
 		print ("84 + 99 = 183")
 	if a == "84" and s == "+" and b == "100":
 		print ("84 + 100 = 184")
+	if a == "85" and s == "+" and b == "0":
+		print ("85 + 0 = 85")
 	if a == "85" and s == "+" and b == "1":
 		print ("85 + 1 = 86")
 	if a == "85" and s == "+" and b == "2":
@@ -17005,6 +17377,8 @@ def Calculate(a, s, b):
 		print ("85 + 99 = 184")
 	if a == "85" and s == "+" and b == "100":
 		print ("85 + 100 = 185")
+	if a == "86" and s == "+" and b == "0":
+		print ("86 + 0 = 86")
 	if a == "86" and s == "+" and b == "1":
 		print ("86 + 1 = 87")
 	if a == "86" and s == "+" and b == "2":
@@ -17205,6 +17579,8 @@ def Calculate(a, s, b):
 		print ("86 + 99 = 185")
 	if a == "86" and s == "+" and b == "100":
 		print ("86 + 100 = 186")
+	if a == "87" and s == "+" and b == "0":
+		print ("87 + 0 = 87")
 	if a == "87" and s == "+" and b == "1":
 		print ("87 + 1 = 88")
 	if a == "87" and s == "+" and b == "2":
@@ -17405,6 +17781,8 @@ def Calculate(a, s, b):
 		print ("87 + 99 = 186")
 	if a == "87" and s == "+" and b == "100":
 		print ("87 + 100 = 187")
+	if a == "88" and s == "+" and b == "0":
+		print ("88 + 0 = 88")
 	if a == "88" and s == "+" and b == "1":
 		print ("88 + 1 = 89")
 	if a == "88" and s == "+" and b == "2":
@@ -17605,6 +17983,8 @@ def Calculate(a, s, b):
 		print ("88 + 99 = 187")
 	if a == "88" and s == "+" and b == "100":
 		print ("88 + 100 = 188")
+	if a == "89" and s == "+" and b == "0":
+		print ("89 + 0 = 89")
 	if a == "89" and s == "+" and b == "1":
 		print ("89 + 1 = 90")
 	if a == "89" and s == "+" and b == "2":
@@ -17805,6 +18185,8 @@ def Calculate(a, s, b):
 		print ("89 + 99 = 188")
 	if a == "89" and s == "+" and b == "100":
 		print ("89 + 100 = 189")
+	if a == "90" and s == "+" and b == "0":
+		print ("90 + 0 = 90")
 	if a == "90" and s == "+" and b == "1":
 		print ("90 + 1 = 91")
 	if a == "90" and s == "+" and b == "2":
@@ -18005,6 +18387,8 @@ def Calculate(a, s, b):
 		print ("90 + 99 = 189")
 	if a == "90" and s == "+" and b == "100":
 		print ("90 + 100 = 190")
+	if a == "91" and s == "+" and b == "0":
+		print ("91 + 0 = 91")
 	if a == "91" and s == "+" and b == "1":
 		print ("91 + 1 = 92")
 	if a == "91" and s == "+" and b == "2":
@@ -18205,6 +18589,8 @@ def Calculate(a, s, b):
 		print ("91 + 99 = 190")
 	if a == "91" and s == "+" and b == "100":
 		print ("91 + 100 = 191")
+	if a == "92" and s == "+" and b == "0":
+		print ("92 + 0 = 92")
 	if a == "92" and s == "+" and b == "1":
 		print ("92 + 1 = 93")
 	if a == "92" and s == "+" and b == "2":
@@ -18405,6 +18791,8 @@ def Calculate(a, s, b):
 		print ("92 + 99 = 191")
 	if a == "92" and s == "+" and b == "100":
 		print ("92 + 100 = 192")
+	if a == "93" and s == "+" and b == "0":
+		print ("93 + 0 = 93")
 	if a == "93" and s == "+" and b == "1":
 		print ("93 + 1 = 94")
 	if a == "93" and s == "+" and b == "2":
@@ -18605,6 +18993,8 @@ def Calculate(a, s, b):
 		print ("93 + 99 = 192")
 	if a == "93" and s == "+" and b == "100":
 		print ("93 + 100 = 193")
+	if a == "94" and s == "+" and b == "0":
+		print ("94 + 0 = 94")
 	if a == "94" and s == "+" and b == "1":
 		print ("94 + 1 = 95")
 	if a == "94" and s == "+" and b == "2":
@@ -18805,6 +19195,8 @@ def Calculate(a, s, b):
 		print ("94 + 99 = 193")
 	if a == "94" and s == "+" and b == "100":
 		print ("94 + 100 = 194")
+	if a == "95" and s == "+" and b == "0":
+		print ("95 + 0 = 95")
 	if a == "95" and s == "+" and b == "1":
 		print ("95 + 1 = 96")
 	if a == "95" and s == "+" and b == "2":
@@ -19005,6 +19397,8 @@ def Calculate(a, s, b):
 		print ("95 + 99 = 194")
 	if a == "95" and s == "+" and b == "100":
 		print ("95 + 100 = 195")
+	if a == "96" and s == "+" and b == "0":
+		print ("96 + 0 = 96")
 	if a == "96" and s == "+" and b == "1":
 		print ("96 + 1 = 97")
 	if a == "96" and s == "+" and b == "2":
@@ -19205,6 +19599,8 @@ def Calculate(a, s, b):
 		print ("96 + 99 = 195")
 	if a == "96" and s == "+" and b == "100":
 		print ("96 + 100 = 196")
+	if a == "97" and s == "+" and b == "0":
+		print ("97 + 0 = 97")
 	if a == "97" and s == "+" and b == "1":
 		print ("97 + 1 = 98")
 	if a == "97" and s == "+" and b == "2":
@@ -19405,6 +19801,8 @@ def Calculate(a, s, b):
 		print ("97 + 99 = 196")
 	if a == "97" and s == "+" and b == "100":
 		print ("97 + 100 = 197")
+	if a == "98" and s == "+" and b == "0":
+		print ("98 + 0 = 98")
 	if a == "98" and s == "+" and b == "1":
 		print ("98 + 1 = 99")
 	if a == "98" and s == "+" and b == "2":
@@ -19605,6 +20003,8 @@ def Calculate(a, s, b):
 		print ("98 + 99 = 197")
 	if a == "98" and s == "+" and b == "100":
 		print ("98 + 100 = 198")
+	if a == "99" and s == "+" and b == "0":
+		print ("99 + 0 = 99")
 	if a == "99" and s == "+" and b == "1":
 		print ("99 + 1 = 100")
 	if a == "99" and s == "+" and b == "2":
@@ -19805,6 +20205,8 @@ def Calculate(a, s, b):
 		print ("99 + 99 = 198")
 	if a == "99" and s == "+" and b == "100":
 		print ("99 + 100 = 199")
+	if a == "100" and s == "+" and b == "0":
+		print ("100 + 0 = 100")
 	if a == "100" and s == "+" and b == "1":
 		print ("100 + 1 = 101")
 	if a == "100" and s == "+" and b == "2":
@@ -20005,6 +20407,210 @@ def Calculate(a, s, b):
 		print ("100 + 99 = 199")
 	if a == "100" and s == "+" and b == "100":
 		print ("100 + 100 = 200")
+	if a == "0" and s == "-" and b == "0":
+		print ("0 - 0 = 0")
+	if a == "0" and s == "-" and b == "1":
+		print ("0 - 1 = -1")
+	if a == "0" and s == "-" and b == "2":
+		print ("0 - 2 = -2")
+	if a == "0" and s == "-" and b == "3":
+		print ("0 - 3 = -3")
+	if a == "0" and s == "-" and b == "4":
+		print ("0 - 4 = -4")
+	if a == "0" and s == "-" and b == "5":
+		print ("0 - 5 = -5")
+	if a == "0" and s == "-" and b == "6":
+		print ("0 - 6 = -6")
+	if a == "0" and s == "-" and b == "7":
+		print ("0 - 7 = -7")
+	if a == "0" and s == "-" and b == "8":
+		print ("0 - 8 = -8")
+	if a == "0" and s == "-" and b == "9":
+		print ("0 - 9 = -9")
+	if a == "0" and s == "-" and b == "10":
+		print ("0 - 10 = -10")
+	if a == "0" and s == "-" and b == "11":
+		print ("0 - 11 = -11")
+	if a == "0" and s == "-" and b == "12":
+		print ("0 - 12 = -12")
+	if a == "0" and s == "-" and b == "13":
+		print ("0 - 13 = -13")
+	if a == "0" and s == "-" and b == "14":
+		print ("0 - 14 = -14")
+	if a == "0" and s == "-" and b == "15":
+		print ("0 - 15 = -15")
+	if a == "0" and s == "-" and b == "16":
+		print ("0 - 16 = -16")
+	if a == "0" and s == "-" and b == "17":
+		print ("0 - 17 = -17")
+	if a == "0" and s == "-" and b == "18":
+		print ("0 - 18 = -18")
+	if a == "0" and s == "-" and b == "19":
+		print ("0 - 19 = -19")
+	if a == "0" and s == "-" and b == "20":
+		print ("0 - 20 = -20")
+	if a == "0" and s == "-" and b == "21":
+		print ("0 - 21 = -21")
+	if a == "0" and s == "-" and b == "22":
+		print ("0 - 22 = -22")
+	if a == "0" and s == "-" and b == "23":
+		print ("0 - 23 = -23")
+	if a == "0" and s == "-" and b == "24":
+		print ("0 - 24 = -24")
+	if a == "0" and s == "-" and b == "25":
+		print ("0 - 25 = -25")
+	if a == "0" and s == "-" and b == "26":
+		print ("0 - 26 = -26")
+	if a == "0" and s == "-" and b == "27":
+		print ("0 - 27 = -27")
+	if a == "0" and s == "-" and b == "28":
+		print ("0 - 28 = -28")
+	if a == "0" and s == "-" and b == "29":
+		print ("0 - 29 = -29")
+	if a == "0" and s == "-" and b == "30":
+		print ("0 - 30 = -30")
+	if a == "0" and s == "-" and b == "31":
+		print ("0 - 31 = -31")
+	if a == "0" and s == "-" and b == "32":
+		print ("0 - 32 = -32")
+	if a == "0" and s == "-" and b == "33":
+		print ("0 - 33 = -33")
+	if a == "0" and s == "-" and b == "34":
+		print ("0 - 34 = -34")
+	if a == "0" and s == "-" and b == "35":
+		print ("0 - 35 = -35")
+	if a == "0" and s == "-" and b == "36":
+		print ("0 - 36 = -36")
+	if a == "0" and s == "-" and b == "37":
+		print ("0 - 37 = -37")
+	if a == "0" and s == "-" and b == "38":
+		print ("0 - 38 = -38")
+	if a == "0" and s == "-" and b == "39":
+		print ("0 - 39 = -39")
+	if a == "0" and s == "-" and b == "40":
+		print ("0 - 40 = -40")
+	if a == "0" and s == "-" and b == "41":
+		print ("0 - 41 = -41")
+	if a == "0" and s == "-" and b == "42":
+		print ("0 - 42 = -42")
+	if a == "0" and s == "-" and b == "43":
+		print ("0 - 43 = -43")
+	if a == "0" and s == "-" and b == "44":
+		print ("0 - 44 = -44")
+	if a == "0" and s == "-" and b == "45":
+		print ("0 - 45 = -45")
+	if a == "0" and s == "-" and b == "46":
+		print ("0 - 46 = -46")
+	if a == "0" and s == "-" and b == "47":
+		print ("0 - 47 = -47")
+	if a == "0" and s == "-" and b == "48":
+		print ("0 - 48 = -48")
+	if a == "0" and s == "-" and b == "49":
+		print ("0 - 49 = -49")
+	if a == "0" and s == "-" and b == "50":
+		print ("0 - 50 = -50")
+	if a == "0" and s == "-" and b == "51":
+		print ("0 - 51 = -51")
+	if a == "0" and s == "-" and b == "52":
+		print ("0 - 52 = -52")
+	if a == "0" and s == "-" and b == "53":
+		print ("0 - 53 = -53")
+	if a == "0" and s == "-" and b == "54":
+		print ("0 - 54 = -54")
+	if a == "0" and s == "-" and b == "55":
+		print ("0 - 55 = -55")
+	if a == "0" and s == "-" and b == "56":
+		print ("0 - 56 = -56")
+	if a == "0" and s == "-" and b == "57":
+		print ("0 - 57 = -57")
+	if a == "0" and s == "-" and b == "58":
+		print ("0 - 58 = -58")
+	if a == "0" and s == "-" and b == "59":
+		print ("0 - 59 = -59")
+	if a == "0" and s == "-" and b == "60":
+		print ("0 - 60 = -60")
+	if a == "0" and s == "-" and b == "61":
+		print ("0 - 61 = -61")
+	if a == "0" and s == "-" and b == "62":
+		print ("0 - 62 = -62")
+	if a == "0" and s == "-" and b == "63":
+		print ("0 - 63 = -63")
+	if a == "0" and s == "-" and b == "64":
+		print ("0 - 64 = -64")
+	if a == "0" and s == "-" and b == "65":
+		print ("0 - 65 = -65")
+	if a == "0" and s == "-" and b == "66":
+		print ("0 - 66 = -66")
+	if a == "0" and s == "-" and b == "67":
+		print ("0 - 67 = -67")
+	if a == "0" and s == "-" and b == "68":
+		print ("0 - 68 = -68")
+	if a == "0" and s == "-" and b == "69":
+		print ("0 - 69 = -69")
+	if a == "0" and s == "-" and b == "70":
+		print ("0 - 70 = -70")
+	if a == "0" and s == "-" and b == "71":
+		print ("0 - 71 = -71")
+	if a == "0" and s == "-" and b == "72":
+		print ("0 - 72 = -72")
+	if a == "0" and s == "-" and b == "73":
+		print ("0 - 73 = -73")
+	if a == "0" and s == "-" and b == "74":
+		print ("0 - 74 = -74")
+	if a == "0" and s == "-" and b == "75":
+		print ("0 - 75 = -75")
+	if a == "0" and s == "-" and b == "76":
+		print ("0 - 76 = -76")
+	if a == "0" and s == "-" and b == "77":
+		print ("0 - 77 = -77")
+	if a == "0" and s == "-" and b == "78":
+		print ("0 - 78 = -78")
+	if a == "0" and s == "-" and b == "79":
+		print ("0 - 79 = -79")
+	if a == "0" and s == "-" and b == "80":
+		print ("0 - 80 = -80")
+	if a == "0" and s == "-" and b == "81":
+		print ("0 - 81 = -81")
+	if a == "0" and s == "-" and b == "82":
+		print ("0 - 82 = -82")
+	if a == "0" and s == "-" and b == "83":
+		print ("0 - 83 = -83")
+	if a == "0" and s == "-" and b == "84":
+		print ("0 - 84 = -84")
+	if a == "0" and s == "-" and b == "85":
+		print ("0 - 85 = -85")
+	if a == "0" and s == "-" and b == "86":
+		print ("0 - 86 = -86")
+	if a == "0" and s == "-" and b == "87":
+		print ("0 - 87 = -87")
+	if a == "0" and s == "-" and b == "88":
+		print ("0 - 88 = -88")
+	if a == "0" and s == "-" and b == "89":
+		print ("0 - 89 = -89")
+	if a == "0" and s == "-" and b == "90":
+		print ("0 - 90 = -90")
+	if a == "0" and s == "-" and b == "91":
+		print ("0 - 91 = -91")
+	if a == "0" and s == "-" and b == "92":
+		print ("0 - 92 = -92")
+	if a == "0" and s == "-" and b == "93":
+		print ("0 - 93 = -93")
+	if a == "0" and s == "-" and b == "94":
+		print ("0 - 94 = -94")
+	if a == "0" and s == "-" and b == "95":
+		print ("0 - 95 = -95")
+	if a == "0" and s == "-" and b == "96":
+		print ("0 - 96 = -96")
+	if a == "0" and s == "-" and b == "97":
+		print ("0 - 97 = -97")
+	if a == "0" and s == "-" and b == "98":
+		print ("0 - 98 = -98")
+	if a == "0" and s == "-" and b == "99":
+		print ("0 - 99 = -99")
+	if a == "0" and s == "-" and b == "100":
+		print ("0 - 100 = -100")
+	if a == "1" and s == "-" and b == "0":
+		print ("1 - 0 = 1")
 	if a == "1" and s == "-" and b == "1":
 		print ("1 - 1 = 0")
 	if a == "1" and s == "-" and b == "2":
@@ -20205,6 +20811,8 @@ def Calculate(a, s, b):
 		print ("1 - 99 = -98")
 	if a == "1" and s == "-" and b == "100":
 		print ("1 - 100 = -99")
+	if a == "2" and s == "-" and b == "0":
+		print ("2 - 0 = 2")
 	if a == "2" and s == "-" and b == "1":
 		print ("2 - 1 = 1")
 	if a == "2" and s == "-" and b == "2":
@@ -20405,6 +21013,8 @@ def Calculate(a, s, b):
 		print ("2 - 99 = -97")
 	if a == "2" and s == "-" and b == "100":
 		print ("2 - 100 = -98")
+	if a == "3" and s == "-" and b == "0":
+		print ("3 - 0 = 3")
 	if a == "3" and s == "-" and b == "1":
 		print ("3 - 1 = 2")
 	if a == "3" and s == "-" and b == "2":
@@ -20605,6 +21215,8 @@ def Calculate(a, s, b):
 		print ("3 - 99 = -96")
 	if a == "3" and s == "-" and b == "100":
 		print ("3 - 100 = -97")
+	if a == "4" and s == "-" and b == "0":
+		print ("4 - 0 = 4")
 	if a == "4" and s == "-" and b == "1":
 		print ("4 - 1 = 3")
 	if a == "4" and s == "-" and b == "2":
@@ -20805,6 +21417,8 @@ def Calculate(a, s, b):
 		print ("4 - 99 = -95")
 	if a == "4" and s == "-" and b == "100":
 		print ("4 - 100 = -96")
+	if a == "5" and s == "-" and b == "0":
+		print ("5 - 0 = 5")
 	if a == "5" and s == "-" and b == "1":
 		print ("5 - 1 = 4")
 	if a == "5" and s == "-" and b == "2":
@@ -21005,6 +21619,8 @@ def Calculate(a, s, b):
 		print ("5 - 99 = -94")
 	if a == "5" and s == "-" and b == "100":
 		print ("5 - 100 = -95")
+	if a == "6" and s == "-" and b == "0":
+		print ("6 - 0 = 6")
 	if a == "6" and s == "-" and b == "1":
 		print ("6 - 1 = 5")
 	if a == "6" and s == "-" and b == "2":
@@ -21205,6 +21821,8 @@ def Calculate(a, s, b):
 		print ("6 - 99 = -93")
 	if a == "6" and s == "-" and b == "100":
 		print ("6 - 100 = -94")
+	if a == "7" and s == "-" and b == "0":
+		print ("7 - 0 = 7")
 	if a == "7" and s == "-" and b == "1":
 		print ("7 - 1 = 6")
 	if a == "7" and s == "-" and b == "2":
@@ -21405,6 +22023,8 @@ def Calculate(a, s, b):
 		print ("7 - 99 = -92")
 	if a == "7" and s == "-" and b == "100":
 		print ("7 - 100 = -93")
+	if a == "8" and s == "-" and b == "0":
+		print ("8 - 0 = 8")
 	if a == "8" and s == "-" and b == "1":
 		print ("8 - 1 = 7")
 	if a == "8" and s == "-" and b == "2":
@@ -21605,6 +22225,8 @@ def Calculate(a, s, b):
 		print ("8 - 99 = -91")
 	if a == "8" and s == "-" and b == "100":
 		print ("8 - 100 = -92")
+	if a == "9" and s == "-" and b == "0":
+		print ("9 - 0 = 9")
 	if a == "9" and s == "-" and b == "1":
 		print ("9 - 1 = 8")
 	if a == "9" and s == "-" and b == "2":
@@ -21805,6 +22427,8 @@ def Calculate(a, s, b):
 		print ("9 - 99 = -90")
 	if a == "9" and s == "-" and b == "100":
 		print ("9 - 100 = -91")
+	if a == "10" and s == "-" and b == "0":
+		print ("10 - 0 = 10")
 	if a == "10" and s == "-" and b == "1":
 		print ("10 - 1 = 9")
 	if a == "10" and s == "-" and b == "2":
@@ -22005,6 +22629,8 @@ def Calculate(a, s, b):
 		print ("10 - 99 = -89")
 	if a == "10" and s == "-" and b == "100":
 		print ("10 - 100 = -90")
+	if a == "11" and s == "-" and b == "0":
+		print ("11 - 0 = 11")
 	if a == "11" and s == "-" and b == "1":
 		print ("11 - 1 = 10")
 	if a == "11" and s == "-" and b == "2":
@@ -22205,6 +22831,8 @@ def Calculate(a, s, b):
 		print ("11 - 99 = -88")
 	if a == "11" and s == "-" and b == "100":
 		print ("11 - 100 = -89")
+	if a == "12" and s == "-" and b == "0":
+		print ("12 - 0 = 12")
 	if a == "12" and s == "-" and b == "1":
 		print ("12 - 1 = 11")
 	if a == "12" and s == "-" and b == "2":
@@ -22405,6 +23033,8 @@ def Calculate(a, s, b):
 		print ("12 - 99 = -87")
 	if a == "12" and s == "-" and b == "100":
 		print ("12 - 100 = -88")
+	if a == "13" and s == "-" and b == "0":
+		print ("13 - 0 = 13")
 	if a == "13" and s == "-" and b == "1":
 		print ("13 - 1 = 12")
 	if a == "13" and s == "-" and b == "2":
@@ -22605,6 +23235,8 @@ def Calculate(a, s, b):
 		print ("13 - 99 = -86")
 	if a == "13" and s == "-" and b == "100":
 		print ("13 - 100 = -87")
+	if a == "14" and s == "-" and b == "0":
+		print ("14 - 0 = 14")
 	if a == "14" and s == "-" and b == "1":
 		print ("14 - 1 = 13")
 	if a == "14" and s == "-" and b == "2":
@@ -22805,6 +23437,8 @@ def Calculate(a, s, b):
 		print ("14 - 99 = -85")
 	if a == "14" and s == "-" and b == "100":
 		print ("14 - 100 = -86")
+	if a == "15" and s == "-" and b == "0":
+		print ("15 - 0 = 15")
 	if a == "15" and s == "-" and b == "1":
 		print ("15 - 1 = 14")
 	if a == "15" and s == "-" and b == "2":
@@ -23005,6 +23639,8 @@ def Calculate(a, s, b):
 		print ("15 - 99 = -84")
 	if a == "15" and s == "-" and b == "100":
 		print ("15 - 100 = -85")
+	if a == "16" and s == "-" and b == "0":
+		print ("16 - 0 = 16")
 	if a == "16" and s == "-" and b == "1":
 		print ("16 - 1 = 15")
 	if a == "16" and s == "-" and b == "2":
@@ -23205,6 +23841,8 @@ def Calculate(a, s, b):
 		print ("16 - 99 = -83")
 	if a == "16" and s == "-" and b == "100":
 		print ("16 - 100 = -84")
+	if a == "17" and s == "-" and b == "0":
+		print ("17 - 0 = 17")
 	if a == "17" and s == "-" and b == "1":
 		print ("17 - 1 = 16")
 	if a == "17" and s == "-" and b == "2":
@@ -23405,6 +24043,8 @@ def Calculate(a, s, b):
 		print ("17 - 99 = -82")
 	if a == "17" and s == "-" and b == "100":
 		print ("17 - 100 = -83")
+	if a == "18" and s == "-" and b == "0":
+		print ("18 - 0 = 18")
 	if a == "18" and s == "-" and b == "1":
 		print ("18 - 1 = 17")
 	if a == "18" and s == "-" and b == "2":
@@ -23605,6 +24245,8 @@ def Calculate(a, s, b):
 		print ("18 - 99 = -81")
 	if a == "18" and s == "-" and b == "100":
 		print ("18 - 100 = -82")
+	if a == "19" and s == "-" and b == "0":
+		print ("19 - 0 = 19")
 	if a == "19" and s == "-" and b == "1":
 		print ("19 - 1 = 18")
 	if a == "19" and s == "-" and b == "2":
@@ -23805,6 +24447,8 @@ def Calculate(a, s, b):
 		print ("19 - 99 = -80")
 	if a == "19" and s == "-" and b == "100":
 		print ("19 - 100 = -81")
+	if a == "20" and s == "-" and b == "0":
+		print ("20 - 0 = 20")
 	if a == "20" and s == "-" and b == "1":
 		print ("20 - 1 = 19")
 	if a == "20" and s == "-" and b == "2":
@@ -24005,6 +24649,8 @@ def Calculate(a, s, b):
 		print ("20 - 99 = -79")
 	if a == "20" and s == "-" and b == "100":
 		print ("20 - 100 = -80")
+	if a == "21" and s == "-" and b == "0":
+		print ("21 - 0 = 21")
 	if a == "21" and s == "-" and b == "1":
 		print ("21 - 1 = 20")
 	if a == "21" and s == "-" and b == "2":
@@ -24205,6 +24851,8 @@ def Calculate(a, s, b):
 		print ("21 - 99 = -78")
 	if a == "21" and s == "-" and b == "100":
 		print ("21 - 100 = -79")
+	if a == "22" and s == "-" and b == "0":
+		print ("22 - 0 = 22")
 	if a == "22" and s == "-" and b == "1":
 		print ("22 - 1 = 21")
 	if a == "22" and s == "-" and b == "2":
@@ -24405,6 +25053,8 @@ def Calculate(a, s, b):
 		print ("22 - 99 = -77")
 	if a == "22" and s == "-" and b == "100":
 		print ("22 - 100 = -78")
+	if a == "23" and s == "-" and b == "0":
+		print ("23 - 0 = 23")
 	if a == "23" and s == "-" and b == "1":
 		print ("23 - 1 = 22")
 	if a == "23" and s == "-" and b == "2":
@@ -24605,6 +25255,8 @@ def Calculate(a, s, b):
 		print ("23 - 99 = -76")
 	if a == "23" and s == "-" and b == "100":
 		print ("23 - 100 = -77")
+	if a == "24" and s == "-" and b == "0":
+		print ("24 - 0 = 24")
 	if a == "24" and s == "-" and b == "1":
 		print ("24 - 1 = 23")
 	if a == "24" and s == "-" and b == "2":
@@ -24805,6 +25457,8 @@ def Calculate(a, s, b):
 		print ("24 - 99 = -75")
 	if a == "24" and s == "-" and b == "100":
 		print ("24 - 100 = -76")
+	if a == "25" and s == "-" and b == "0":
+		print ("25 - 0 = 25")
 	if a == "25" and s == "-" and b == "1":
 		print ("25 - 1 = 24")
 	if a == "25" and s == "-" and b == "2":
@@ -25005,6 +25659,8 @@ def Calculate(a, s, b):
 		print ("25 - 99 = -74")
 	if a == "25" and s == "-" and b == "100":
 		print ("25 - 100 = -75")
+	if a == "26" and s == "-" and b == "0":
+		print ("26 - 0 = 26")
 	if a == "26" and s == "-" and b == "1":
 		print ("26 - 1 = 25")
 	if a == "26" and s == "-" and b == "2":
@@ -25205,6 +25861,8 @@ def Calculate(a, s, b):
 		print ("26 - 99 = -73")
 	if a == "26" and s == "-" and b == "100":
 		print ("26 - 100 = -74")
+	if a == "27" and s == "-" and b == "0":
+		print ("27 - 0 = 27")
 	if a == "27" and s == "-" and b == "1":
 		print ("27 - 1 = 26")
 	if a == "27" and s == "-" and b == "2":
@@ -25405,6 +26063,8 @@ def Calculate(a, s, b):
 		print ("27 - 99 = -72")
 	if a == "27" and s == "-" and b == "100":
 		print ("27 - 100 = -73")
+	if a == "28" and s == "-" and b == "0":
+		print ("28 - 0 = 28")
 	if a == "28" and s == "-" and b == "1":
 		print ("28 - 1 = 27")
 	if a == "28" and s == "-" and b == "2":
@@ -25605,6 +26265,8 @@ def Calculate(a, s, b):
 		print ("28 - 99 = -71")
 	if a == "28" and s == "-" and b == "100":
 		print ("28 - 100 = -72")
+	if a == "29" and s == "-" and b == "0":
+		print ("29 - 0 = 29")
 	if a == "29" and s == "-" and b == "1":
 		print ("29 - 1 = 28")
 	if a == "29" and s == "-" and b == "2":
@@ -25805,6 +26467,8 @@ def Calculate(a, s, b):
 		print ("29 - 99 = -70")
 	if a == "29" and s == "-" and b == "100":
 		print ("29 - 100 = -71")
+	if a == "30" and s == "-" and b == "0":
+		print ("30 - 0 = 30")
 	if a == "30" and s == "-" and b == "1":
 		print ("30 - 1 = 29")
 	if a == "30" and s == "-" and b == "2":
@@ -26005,6 +26669,8 @@ def Calculate(a, s, b):
 		print ("30 - 99 = -69")
 	if a == "30" and s == "-" and b == "100":
 		print ("30 - 100 = -70")
+	if a == "31" and s == "-" and b == "0":
+		print ("31 - 0 = 31")
 	if a == "31" and s == "-" and b == "1":
 		print ("31 - 1 = 30")
 	if a == "31" and s == "-" and b == "2":
@@ -26205,6 +26871,8 @@ def Calculate(a, s, b):
 		print ("31 - 99 = -68")
 	if a == "31" and s == "-" and b == "100":
 		print ("31 - 100 = -69")
+	if a == "32" and s == "-" and b == "0":
+		print ("32 - 0 = 32")
 	if a == "32" and s == "-" and b == "1":
 		print ("32 - 1 = 31")
 	if a == "32" and s == "-" and b == "2":
@@ -26405,6 +27073,8 @@ def Calculate(a, s, b):
 		print ("32 - 99 = -67")
 	if a == "32" and s == "-" and b == "100":
 		print ("32 - 100 = -68")
+	if a == "33" and s == "-" and b == "0":
+		print ("33 - 0 = 33")
 	if a == "33" and s == "-" and b == "1":
 		print ("33 - 1 = 32")
 	if a == "33" and s == "-" and b == "2":
@@ -26605,6 +27275,8 @@ def Calculate(a, s, b):
 		print ("33 - 99 = -66")
 	if a == "33" and s == "-" and b == "100":
 		print ("33 - 100 = -67")
+	if a == "34" and s == "-" and b == "0":
+		print ("34 - 0 = 34")
 	if a == "34" and s == "-" and b == "1":
 		print ("34 - 1 = 33")
 	if a == "34" and s == "-" and b == "2":
@@ -26805,6 +27477,8 @@ def Calculate(a, s, b):
 		print ("34 - 99 = -65")
 	if a == "34" and s == "-" and b == "100":
 		print ("34 - 100 = -66")
+	if a == "35" and s == "-" and b == "0":
+		print ("35 - 0 = 35")
 	if a == "35" and s == "-" and b == "1":
 		print ("35 - 1 = 34")
 	if a == "35" and s == "-" and b == "2":
@@ -27005,6 +27679,8 @@ def Calculate(a, s, b):
 		print ("35 - 99 = -64")
 	if a == "35" and s == "-" and b == "100":
 		print ("35 - 100 = -65")
+	if a == "36" and s == "-" and b == "0":
+		print ("36 - 0 = 36")
 	if a == "36" and s == "-" and b == "1":
 		print ("36 - 1 = 35")
 	if a == "36" and s == "-" and b == "2":
@@ -27205,6 +27881,8 @@ def Calculate(a, s, b):
 		print ("36 - 99 = -63")
 	if a == "36" and s == "-" and b == "100":
 		print ("36 - 100 = -64")
+	if a == "37" and s == "-" and b == "0":
+		print ("37 - 0 = 37")
 	if a == "37" and s == "-" and b == "1":
 		print ("37 - 1 = 36")
 	if a == "37" and s == "-" and b == "2":
@@ -27405,6 +28083,8 @@ def Calculate(a, s, b):
 		print ("37 - 99 = -62")
 	if a == "37" and s == "-" and b == "100":
 		print ("37 - 100 = -63")
+	if a == "38" and s == "-" and b == "0":
+		print ("38 - 0 = 38")
 	if a == "38" and s == "-" and b == "1":
 		print ("38 - 1 = 37")
 	if a == "38" and s == "-" and b == "2":
@@ -27605,6 +28285,8 @@ def Calculate(a, s, b):
 		print ("38 - 99 = -61")
 	if a == "38" and s == "-" and b == "100":
 		print ("38 - 100 = -62")
+	if a == "39" and s == "-" and b == "0":
+		print ("39 - 0 = 39")
 	if a == "39" and s == "-" and b == "1":
 		print ("39 - 1 = 38")
 	if a == "39" and s == "-" and b == "2":
@@ -27805,6 +28487,8 @@ def Calculate(a, s, b):
 		print ("39 - 99 = -60")
 	if a == "39" and s == "-" and b == "100":
 		print ("39 - 100 = -61")
+	if a == "40" and s == "-" and b == "0":
+		print ("40 - 0 = 40")
 	if a == "40" and s == "-" and b == "1":
 		print ("40 - 1 = 39")
 	if a == "40" and s == "-" and b == "2":
@@ -28005,6 +28689,8 @@ def Calculate(a, s, b):
 		print ("40 - 99 = -59")
 	if a == "40" and s == "-" and b == "100":
 		print ("40 - 100 = -60")
+	if a == "41" and s == "-" and b == "0":
+		print ("41 - 0 = 41")
 	if a == "41" and s == "-" and b == "1":
 		print ("41 - 1 = 40")
 	if a == "41" and s == "-" and b == "2":
@@ -28205,6 +28891,8 @@ def Calculate(a, s, b):
 		print ("41 - 99 = -58")
 	if a == "41" and s == "-" and b == "100":
 		print ("41 - 100 = -59")
+	if a == "42" and s == "-" and b == "0":
+		print ("42 - 0 = 42")
 	if a == "42" and s == "-" and b == "1":
 		print ("42 - 1 = 41")
 	if a == "42" and s == "-" and b == "2":
@@ -28405,6 +29093,8 @@ def Calculate(a, s, b):
 		print ("42 - 99 = -57")
 	if a == "42" and s == "-" and b == "100":
 		print ("42 - 100 = -58")
+	if a == "43" and s == "-" and b == "0":
+		print ("43 - 0 = 43")
 	if a == "43" and s == "-" and b == "1":
 		print ("43 - 1 = 42")
 	if a == "43" and s == "-" and b == "2":
@@ -28605,6 +29295,8 @@ def Calculate(a, s, b):
 		print ("43 - 99 = -56")
 	if a == "43" and s == "-" and b == "100":
 		print ("43 - 100 = -57")
+	if a == "44" and s == "-" and b == "0":
+		print ("44 - 0 = 44")
 	if a == "44" and s == "-" and b == "1":
 		print ("44 - 1 = 43")
 	if a == "44" and s == "-" and b == "2":
@@ -28805,6 +29497,8 @@ def Calculate(a, s, b):
 		print ("44 - 99 = -55")
 	if a == "44" and s == "-" and b == "100":
 		print ("44 - 100 = -56")
+	if a == "45" and s == "-" and b == "0":
+		print ("45 - 0 = 45")
 	if a == "45" and s == "-" and b == "1":
 		print ("45 - 1 = 44")
 	if a == "45" and s == "-" and b == "2":
@@ -29005,6 +29699,8 @@ def Calculate(a, s, b):
 		print ("45 - 99 = -54")
 	if a == "45" and s == "-" and b == "100":
 		print ("45 - 100 = -55")
+	if a == "46" and s == "-" and b == "0":
+		print ("46 - 0 = 46")
 	if a == "46" and s == "-" and b == "1":
 		print ("46 - 1 = 45")
 	if a == "46" and s == "-" and b == "2":
@@ -29205,6 +29901,8 @@ def Calculate(a, s, b):
 		print ("46 - 99 = -53")
 	if a == "46" and s == "-" and b == "100":
 		print ("46 - 100 = -54")
+	if a == "47" and s == "-" and b == "0":
+		print ("47 - 0 = 47")
 	if a == "47" and s == "-" and b == "1":
 		print ("47 - 1 = 46")
 	if a == "47" and s == "-" and b == "2":
@@ -29405,6 +30103,8 @@ def Calculate(a, s, b):
 		print ("47 - 99 = -52")
 	if a == "47" and s == "-" and b == "100":
 		print ("47 - 100 = -53")
+	if a == "48" and s == "-" and b == "0":
+		print ("48 - 0 = 48")
 	if a == "48" and s == "-" and b == "1":
 		print ("48 - 1 = 47")
 	if a == "48" and s == "-" and b == "2":
@@ -29605,6 +30305,8 @@ def Calculate(a, s, b):
 		print ("48 - 99 = -51")
 	if a == "48" and s == "-" and b == "100":
 		print ("48 - 100 = -52")
+	if a == "49" and s == "-" and b == "0":
+		print ("49 - 0 = 49")
 	if a == "49" and s == "-" and b == "1":
 		print ("49 - 1 = 48")
 	if a == "49" and s == "-" and b == "2":
@@ -29805,6 +30507,8 @@ def Calculate(a, s, b):
 		print ("49 - 99 = -50")
 	if a == "49" and s == "-" and b == "100":
 		print ("49 - 100 = -51")
+	if a == "50" and s == "-" and b == "0":
+		print ("50 - 0 = 50")
 	if a == "50" and s == "-" and b == "1":
 		print ("50 - 1 = 49")
 	if a == "50" and s == "-" and b == "2":
@@ -30005,6 +30709,8 @@ def Calculate(a, s, b):
 		print ("50 - 99 = -49")
 	if a == "50" and s == "-" and b == "100":
 		print ("50 - 100 = -50")
+	if a == "51" and s == "-" and b == "0":
+		print ("51 - 0 = 51")
 	if a == "51" and s == "-" and b == "1":
 		print ("51 - 1 = 50")
 	if a == "51" and s == "-" and b == "2":
@@ -30205,6 +30911,8 @@ def Calculate(a, s, b):
 		print ("51 - 99 = -48")
 	if a == "51" and s == "-" and b == "100":
 		print ("51 - 100 = -49")
+	if a == "52" and s == "-" and b == "0":
+		print ("52 - 0 = 52")
 	if a == "52" and s == "-" and b == "1":
 		print ("52 - 1 = 51")
 	if a == "52" and s == "-" and b == "2":
@@ -30405,6 +31113,8 @@ def Calculate(a, s, b):
 		print ("52 - 99 = -47")
 	if a == "52" and s == "-" and b == "100":
 		print ("52 - 100 = -48")
+	if a == "53" and s == "-" and b == "0":
+		print ("53 - 0 = 53")
 	if a == "53" and s == "-" and b == "1":
 		print ("53 - 1 = 52")
 	if a == "53" and s == "-" and b == "2":
@@ -30605,6 +31315,8 @@ def Calculate(a, s, b):
 		print ("53 - 99 = -46")
 	if a == "53" and s == "-" and b == "100":
 		print ("53 - 100 = -47")
+	if a == "54" and s == "-" and b == "0":
+		print ("54 - 0 = 54")
 	if a == "54" and s == "-" and b == "1":
 		print ("54 - 1 = 53")
 	if a == "54" and s == "-" and b == "2":
@@ -30805,6 +31517,8 @@ def Calculate(a, s, b):
 		print ("54 - 99 = -45")
 	if a == "54" and s == "-" and b == "100":
 		print ("54 - 100 = -46")
+	if a == "55" and s == "-" and b == "0":
+		print ("55 - 0 = 55")
 	if a == "55" and s == "-" and b == "1":
 		print ("55 - 1 = 54")
 	if a == "55" and s == "-" and b == "2":
@@ -31005,6 +31719,8 @@ def Calculate(a, s, b):
 		print ("55 - 99 = -44")
 	if a == "55" and s == "-" and b == "100":
 		print ("55 - 100 = -45")
+	if a == "56" and s == "-" and b == "0":
+		print ("56 - 0 = 56")
 	if a == "56" and s == "-" and b == "1":
 		print ("56 - 1 = 55")
 	if a == "56" and s == "-" and b == "2":
@@ -31205,6 +31921,8 @@ def Calculate(a, s, b):
 		print ("56 - 99 = -43")
 	if a == "56" and s == "-" and b == "100":
 		print ("56 - 100 = -44")
+	if a == "57" and s == "-" and b == "0":
+		print ("57 - 0 = 57")
 	if a == "57" and s == "-" and b == "1":
 		print ("57 - 1 = 56")
 	if a == "57" and s == "-" and b == "2":
@@ -31405,6 +32123,8 @@ def Calculate(a, s, b):
 		print ("57 - 99 = -42")
 	if a == "57" and s == "-" and b == "100":
 		print ("57 - 100 = -43")
+	if a == "58" and s == "-" and b == "0":
+		print ("58 - 0 = 58")
 	if a == "58" and s == "-" and b == "1":
 		print ("58 - 1 = 57")
 	if a == "58" and s == "-" and b == "2":
@@ -31605,6 +32325,8 @@ def Calculate(a, s, b):
 		print ("58 - 99 = -41")
 	if a == "58" and s == "-" and b == "100":
 		print ("58 - 100 = -42")
+	if a == "59" and s == "-" and b == "0":
+		print ("59 - 0 = 59")
 	if a == "59" and s == "-" and b == "1":
 		print ("59 - 1 = 58")
 	if a == "59" and s == "-" and b == "2":
@@ -31805,6 +32527,8 @@ def Calculate(a, s, b):
 		print ("59 - 99 = -40")
 	if a == "59" and s == "-" and b == "100":
 		print ("59 - 100 = -41")
+	if a == "60" and s == "-" and b == "0":
+		print ("60 - 0 = 60")
 	if a == "60" and s == "-" and b == "1":
 		print ("60 - 1 = 59")
 	if a == "60" and s == "-" and b == "2":
@@ -32005,6 +32729,8 @@ def Calculate(a, s, b):
 		print ("60 - 99 = -39")
 	if a == "60" and s == "-" and b == "100":
 		print ("60 - 100 = -40")
+	if a == "61" and s == "-" and b == "0":
+		print ("61 - 0 = 61")
 	if a == "61" and s == "-" and b == "1":
 		print ("61 - 1 = 60")
 	if a == "61" and s == "-" and b == "2":
@@ -32205,6 +32931,8 @@ def Calculate(a, s, b):
 		print ("61 - 99 = -38")
 	if a == "61" and s == "-" and b == "100":
 		print ("61 - 100 = -39")
+	if a == "62" and s == "-" and b == "0":
+		print ("62 - 0 = 62")
 	if a == "62" and s == "-" and b == "1":
 		print ("62 - 1 = 61")
 	if a == "62" and s == "-" and b == "2":
@@ -32405,6 +33133,8 @@ def Calculate(a, s, b):
 		print ("62 - 99 = -37")
 	if a == "62" and s == "-" and b == "100":
 		print ("62 - 100 = -38")
+	if a == "63" and s == "-" and b == "0":
+		print ("63 - 0 = 63")
 	if a == "63" and s == "-" and b == "1":
 		print ("63 - 1 = 62")
 	if a == "63" and s == "-" and b == "2":
@@ -32605,6 +33335,8 @@ def Calculate(a, s, b):
 		print ("63 - 99 = -36")
 	if a == "63" and s == "-" and b == "100":
 		print ("63 - 100 = -37")
+	if a == "64" and s == "-" and b == "0":
+		print ("64 - 0 = 64")
 	if a == "64" and s == "-" and b == "1":
 		print ("64 - 1 = 63")
 	if a == "64" and s == "-" and b == "2":
@@ -32805,6 +33537,8 @@ def Calculate(a, s, b):
 		print ("64 - 99 = -35")
 	if a == "64" and s == "-" and b == "100":
 		print ("64 - 100 = -36")
+	if a == "65" and s == "-" and b == "0":
+		print ("65 - 0 = 65")
 	if a == "65" and s == "-" and b == "1":
 		print ("65 - 1 = 64")
 	if a == "65" and s == "-" and b == "2":
@@ -33005,6 +33739,8 @@ def Calculate(a, s, b):
 		print ("65 - 99 = -34")
 	if a == "65" and s == "-" and b == "100":
 		print ("65 - 100 = -35")
+	if a == "66" and s == "-" and b == "0":
+		print ("66 - 0 = 66")
 	if a == "66" and s == "-" and b == "1":
 		print ("66 - 1 = 65")
 	if a == "66" and s == "-" and b == "2":
@@ -33205,6 +33941,8 @@ def Calculate(a, s, b):
 		print ("66 - 99 = -33")
 	if a == "66" and s == "-" and b == "100":
 		print ("66 - 100 = -34")
+	if a == "67" and s == "-" and b == "0":
+		print ("67 - 0 = 67")
 	if a == "67" and s == "-" and b == "1":
 		print ("67 - 1 = 66")
 	if a == "67" and s == "-" and b == "2":
@@ -33405,6 +34143,8 @@ def Calculate(a, s, b):
 		print ("67 - 99 = -32")
 	if a == "67" and s == "-" and b == "100":
 		print ("67 - 100 = -33")
+	if a == "68" and s == "-" and b == "0":
+		print ("68 - 0 = 68")
 	if a == "68" and s == "-" and b == "1":
 		print ("68 - 1 = 67")
 	if a == "68" and s == "-" and b == "2":
@@ -33605,6 +34345,8 @@ def Calculate(a, s, b):
 		print ("68 - 99 = -31")
 	if a == "68" and s == "-" and b == "100":
 		print ("68 - 100 = -32")
+	if a == "69" and s == "-" and b == "0":
+		print ("69 - 0 = 69")
 	if a == "69" and s == "-" and b == "1":
 		print ("69 - 1 = 68")
 	if a == "69" and s == "-" and b == "2":
@@ -33805,6 +34547,8 @@ def Calculate(a, s, b):
 		print ("69 - 99 = -30")
 	if a == "69" and s == "-" and b == "100":
 		print ("69 - 100 = -31")
+	if a == "70" and s == "-" and b == "0":
+		print ("70 - 0 = 70")
 	if a == "70" and s == "-" and b == "1":
 		print ("70 - 1 = 69")
 	if a == "70" and s == "-" and b == "2":
@@ -34005,6 +34749,8 @@ def Calculate(a, s, b):
 		print ("70 - 99 = -29")
 	if a == "70" and s == "-" and b == "100":
 		print ("70 - 100 = -30")
+	if a == "71" and s == "-" and b == "0":
+		print ("71 - 0 = 71")
 	if a == "71" and s == "-" and b == "1":
 		print ("71 - 1 = 70")
 	if a == "71" and s == "-" and b == "2":
@@ -34205,6 +34951,8 @@ def Calculate(a, s, b):
 		print ("71 - 99 = -28")
 	if a == "71" and s == "-" and b == "100":
 		print ("71 - 100 = -29")
+	if a == "72" and s == "-" and b == "0":
+		print ("72 - 0 = 72")
 	if a == "72" and s == "-" and b == "1":
 		print ("72 - 1 = 71")
 	if a == "72" and s == "-" and b == "2":
@@ -34405,6 +35153,8 @@ def Calculate(a, s, b):
 		print ("72 - 99 = -27")
 	if a == "72" and s == "-" and b == "100":
 		print ("72 - 100 = -28")
+	if a == "73" and s == "-" and b == "0":
+		print ("73 - 0 = 73")
 	if a == "73" and s == "-" and b == "1":
 		print ("73 - 1 = 72")
 	if a == "73" and s == "-" and b == "2":
@@ -34605,6 +35355,8 @@ def Calculate(a, s, b):
 		print ("73 - 99 = -26")
 	if a == "73" and s == "-" and b == "100":
 		print ("73 - 100 = -27")
+	if a == "74" and s == "-" and b == "0":
+		print ("74 - 0 = 74")
 	if a == "74" and s == "-" and b == "1":
 		print ("74 - 1 = 73")
 	if a == "74" and s == "-" and b == "2":
@@ -34805,6 +35557,8 @@ def Calculate(a, s, b):
 		print ("74 - 99 = -25")
 	if a == "74" and s == "-" and b == "100":
 		print ("74 - 100 = -26")
+	if a == "75" and s == "-" and b == "0":
+		print ("75 - 0 = 75")
 	if a == "75" and s == "-" and b == "1":
 		print ("75 - 1 = 74")
 	if a == "75" and s == "-" and b == "2":
@@ -35005,6 +35759,8 @@ def Calculate(a, s, b):
 		print ("75 - 99 = -24")
 	if a == "75" and s == "-" and b == "100":
 		print ("75 - 100 = -25")
+	if a == "76" and s == "-" and b == "0":
+		print ("76 - 0 = 76")
 	if a == "76" and s == "-" and b == "1":
 		print ("76 - 1 = 75")
 	if a == "76" and s == "-" and b == "2":
@@ -35205,6 +35961,8 @@ def Calculate(a, s, b):
 		print ("76 - 99 = -23")
 	if a == "76" and s == "-" and b == "100":
 		print ("76 - 100 = -24")
+	if a == "77" and s == "-" and b == "0":
+		print ("77 - 0 = 77")
 	if a == "77" and s == "-" and b == "1":
 		print ("77 - 1 = 76")
 	if a == "77" and s == "-" and b == "2":
@@ -35405,6 +36163,8 @@ def Calculate(a, s, b):
 		print ("77 - 99 = -22")
 	if a == "77" and s == "-" and b == "100":
 		print ("77 - 100 = -23")
+	if a == "78" and s == "-" and b == "0":
+		print ("78 - 0 = 78")
 	if a == "78" and s == "-" and b == "1":
 		print ("78 - 1 = 77")
 	if a == "78" and s == "-" and b == "2":
@@ -35605,6 +36365,8 @@ def Calculate(a, s, b):
 		print ("78 - 99 = -21")
 	if a == "78" and s == "-" and b == "100":
 		print ("78 - 100 = -22")
+	if a == "79" and s == "-" and b == "0":
+		print ("79 - 0 = 79")
 	if a == "79" and s == "-" and b == "1":
 		print ("79 - 1 = 78")
 	if a == "79" and s == "-" and b == "2":
@@ -35805,6 +36567,8 @@ def Calculate(a, s, b):
 		print ("79 - 99 = -20")
 	if a == "79" and s == "-" and b == "100":
 		print ("79 - 100 = -21")
+	if a == "80" and s == "-" and b == "0":
+		print ("80 - 0 = 80")
 	if a == "80" and s == "-" and b == "1":
 		print ("80 - 1 = 79")
 	if a == "80" and s == "-" and b == "2":
@@ -36005,6 +36769,8 @@ def Calculate(a, s, b):
 		print ("80 - 99 = -19")
 	if a == "80" and s == "-" and b == "100":
 		print ("80 - 100 = -20")
+	if a == "81" and s == "-" and b == "0":
+		print ("81 - 0 = 81")
 	if a == "81" and s == "-" and b == "1":
 		print ("81 - 1 = 80")
 	if a == "81" and s == "-" and b == "2":
@@ -36205,6 +36971,8 @@ def Calculate(a, s, b):
 		print ("81 - 99 = -18")
 	if a == "81" and s == "-" and b == "100":
 		print ("81 - 100 = -19")
+	if a == "82" and s == "-" and b == "0":
+		print ("82 - 0 = 82")
 	if a == "82" and s == "-" and b == "1":
 		print ("82 - 1 = 81")
 	if a == "82" and s == "-" and b == "2":
@@ -36405,6 +37173,8 @@ def Calculate(a, s, b):
 		print ("82 - 99 = -17")
 	if a == "82" and s == "-" and b == "100":
 		print ("82 - 100 = -18")
+	if a == "83" and s == "-" and b == "0":
+		print ("83 - 0 = 83")
 	if a == "83" and s == "-" and b == "1":
 		print ("83 - 1 = 82")
 	if a == "83" and s == "-" and b == "2":
@@ -36605,6 +37375,8 @@ def Calculate(a, s, b):
 		print ("83 - 99 = -16")
 	if a == "83" and s == "-" and b == "100":
 		print ("83 - 100 = -17")
+	if a == "84" and s == "-" and b == "0":
+		print ("84 - 0 = 84")
 	if a == "84" and s == "-" and b == "1":
 		print ("84 - 1 = 83")
 	if a == "84" and s == "-" and b == "2":
@@ -36805,6 +37577,8 @@ def Calculate(a, s, b):
 		print ("84 - 99 = -15")
 	if a == "84" and s == "-" and b == "100":
 		print ("84 - 100 = -16")
+	if a == "85" and s == "-" and b == "0":
+		print ("85 - 0 = 85")
 	if a == "85" and s == "-" and b == "1":
 		print ("85 - 1 = 84")
 	if a == "85" and s == "-" and b == "2":
@@ -37005,6 +37779,8 @@ def Calculate(a, s, b):
 		print ("85 - 99 = -14")
 	if a == "85" and s == "-" and b == "100":
 		print ("85 - 100 = -15")
+	if a == "86" and s == "-" and b == "0":
+		print ("86 - 0 = 86")
 	if a == "86" and s == "-" and b == "1":
 		print ("86 - 1 = 85")
 	if a == "86" and s == "-" and b == "2":
@@ -37205,6 +37981,8 @@ def Calculate(a, s, b):
 		print ("86 - 99 = -13")
 	if a == "86" and s == "-" and b == "100":
 		print ("86 - 100 = -14")
+	if a == "87" and s == "-" and b == "0":
+		print ("87 - 0 = 87")
 	if a == "87" and s == "-" and b == "1":
 		print ("87 - 1 = 86")
 	if a == "87" and s == "-" and b == "2":
@@ -37405,6 +38183,8 @@ def Calculate(a, s, b):
 		print ("87 - 99 = -12")
 	if a == "87" and s == "-" and b == "100":
 		print ("87 - 100 = -13")
+	if a == "88" and s == "-" and b == "0":
+		print ("88 - 0 = 88")
 	if a == "88" and s == "-" and b == "1":
 		print ("88 - 1 = 87")
 	if a == "88" and s == "-" and b == "2":
@@ -37605,6 +38385,8 @@ def Calculate(a, s, b):
 		print ("88 - 99 = -11")
 	if a == "88" and s == "-" and b == "100":
 		print ("88 - 100 = -12")
+	if a == "89" and s == "-" and b == "0":
+		print ("89 - 0 = 89")
 	if a == "89" and s == "-" and b == "1":
 		print ("89 - 1 = 88")
 	if a == "89" and s == "-" and b == "2":
@@ -37805,6 +38587,8 @@ def Calculate(a, s, b):
 		print ("89 - 99 = -10")
 	if a == "89" and s == "-" and b == "100":
 		print ("89 - 100 = -11")
+	if a == "90" and s == "-" and b == "0":
+		print ("90 - 0 = 90")
 	if a == "90" and s == "-" and b == "1":
 		print ("90 - 1 = 89")
 	if a == "90" and s == "-" and b == "2":
@@ -38005,6 +38789,8 @@ def Calculate(a, s, b):
 		print ("90 - 99 = -9")
 	if a == "90" and s == "-" and b == "100":
 		print ("90 - 100 = -10")
+	if a == "91" and s == "-" and b == "0":
+		print ("91 - 0 = 91")
 	if a == "91" and s == "-" and b == "1":
 		print ("91 - 1 = 90")
 	if a == "91" and s == "-" and b == "2":
@@ -38205,6 +38991,8 @@ def Calculate(a, s, b):
 		print ("91 - 99 = -8")
 	if a == "91" and s == "-" and b == "100":
 		print ("91 - 100 = -9")
+	if a == "92" and s == "-" and b == "0":
+		print ("92 - 0 = 92")
 	if a == "92" and s == "-" and b == "1":
 		print ("92 - 1 = 91")
 	if a == "92" and s == "-" and b == "2":
@@ -38405,6 +39193,8 @@ def Calculate(a, s, b):
 		print ("92 - 99 = -7")
 	if a == "92" and s == "-" and b == "100":
 		print ("92 - 100 = -8")
+	if a == "93" and s == "-" and b == "0":
+		print ("93 - 0 = 93")
 	if a == "93" and s == "-" and b == "1":
 		print ("93 - 1 = 92")
 	if a == "93" and s == "-" and b == "2":
@@ -38605,6 +39395,8 @@ def Calculate(a, s, b):
 		print ("93 - 99 = -6")
 	if a == "93" and s == "-" and b == "100":
 		print ("93 - 100 = -7")
+	if a == "94" and s == "-" and b == "0":
+		print ("94 - 0 = 94")
 	if a == "94" and s == "-" and b == "1":
 		print ("94 - 1 = 93")
 	if a == "94" and s == "-" and b == "2":
@@ -38805,6 +39597,8 @@ def Calculate(a, s, b):
 		print ("94 - 99 = -5")
 	if a == "94" and s == "-" and b == "100":
 		print ("94 - 100 = -6")
+	if a == "95" and s == "-" and b == "0":
+		print ("95 - 0 = 95")
 	if a == "95" and s == "-" and b == "1":
 		print ("95 - 1 = 94")
 	if a == "95" and s == "-" and b == "2":
@@ -39005,6 +39799,8 @@ def Calculate(a, s, b):
 		print ("95 - 99 = -4")
 	if a == "95" and s == "-" and b == "100":
 		print ("95 - 100 = -5")
+	if a == "96" and s == "-" and b == "0":
+		print ("96 - 0 = 96")
 	if a == "96" and s == "-" and b == "1":
 		print ("96 - 1 = 95")
 	if a == "96" and s == "-" and b == "2":
@@ -39205,6 +40001,8 @@ def Calculate(a, s, b):
 		print ("96 - 99 = -3")
 	if a == "96" and s == "-" and b == "100":
 		print ("96 - 100 = -4")
+	if a == "97" and s == "-" and b == "0":
+		print ("97 - 0 = 97")
 	if a == "97" and s == "-" and b == "1":
 		print ("97 - 1 = 96")
 	if a == "97" and s == "-" and b == "2":
@@ -39405,6 +40203,8 @@ def Calculate(a, s, b):
 		print ("97 - 99 = -2")
 	if a == "97" and s == "-" and b == "100":
 		print ("97 - 100 = -3")
+	if a == "98" and s == "-" and b == "0":
+		print ("98 - 0 = 98")
 	if a == "98" and s == "-" and b == "1":
 		print ("98 - 1 = 97")
 	if a == "98" and s == "-" and b == "2":
@@ -39605,6 +40405,8 @@ def Calculate(a, s, b):
 		print ("98 - 99 = -1")
 	if a == "98" and s == "-" and b == "100":
 		print ("98 - 100 = -2")
+	if a == "99" and s == "-" and b == "0":
+		print ("99 - 0 = 99")
 	if a == "99" and s == "-" and b == "1":
 		print ("99 - 1 = 98")
 	if a == "99" and s == "-" and b == "2":
@@ -39805,6 +40607,8 @@ def Calculate(a, s, b):
 		print ("99 - 99 = 0")
 	if a == "99" and s == "-" and b == "100":
 		print ("99 - 100 = -1")
+	if a == "100" and s == "-" and b == "0":
+		print ("100 - 0 = 100")
 	if a == "100" and s == "-" and b == "1":
 		print ("100 - 1 = 99")
 	if a == "100" and s == "-" and b == "2":
@@ -40005,6 +40809,210 @@ def Calculate(a, s, b):
 		print ("100 - 99 = 1")
 	if a == "100" and s == "-" and b == "100":
 		print ("100 - 100 = 0")
+	if a == "0" and s == "*" and b == "0":
+		print ("0 * 0 = 0")
+	if a == "0" and s == "*" and b == "1":
+		print ("0 * 1 = 0")
+	if a == "0" and s == "*" and b == "2":
+		print ("0 * 2 = 0")
+	if a == "0" and s == "*" and b == "3":
+		print ("0 * 3 = 0")
+	if a == "0" and s == "*" and b == "4":
+		print ("0 * 4 = 0")
+	if a == "0" and s == "*" and b == "5":
+		print ("0 * 5 = 0")
+	if a == "0" and s == "*" and b == "6":
+		print ("0 * 6 = 0")
+	if a == "0" and s == "*" and b == "7":
+		print ("0 * 7 = 0")
+	if a == "0" and s == "*" and b == "8":
+		print ("0 * 8 = 0")
+	if a == "0" and s == "*" and b == "9":
+		print ("0 * 9 = 0")
+	if a == "0" and s == "*" and b == "10":
+		print ("0 * 10 = 0")
+	if a == "0" and s == "*" and b == "11":
+		print ("0 * 11 = 0")
+	if a == "0" and s == "*" and b == "12":
+		print ("0 * 12 = 0")
+	if a == "0" and s == "*" and b == "13":
+		print ("0 * 13 = 0")
+	if a == "0" and s == "*" and b == "14":
+		print ("0 * 14 = 0")
+	if a == "0" and s == "*" and b == "15":
+		print ("0 * 15 = 0")
+	if a == "0" and s == "*" and b == "16":
+		print ("0 * 16 = 0")
+	if a == "0" and s == "*" and b == "17":
+		print ("0 * 17 = 0")
+	if a == "0" and s == "*" and b == "18":
+		print ("0 * 18 = 0")
+	if a == "0" and s == "*" and b == "19":
+		print ("0 * 19 = 0")
+	if a == "0" and s == "*" and b == "20":
+		print ("0 * 20 = 0")
+	if a == "0" and s == "*" and b == "21":
+		print ("0 * 21 = 0")
+	if a == "0" and s == "*" and b == "22":
+		print ("0 * 22 = 0")
+	if a == "0" and s == "*" and b == "23":
+		print ("0 * 23 = 0")
+	if a == "0" and s == "*" and b == "24":
+		print ("0 * 24 = 0")
+	if a == "0" and s == "*" and b == "25":
+		print ("0 * 25 = 0")
+	if a == "0" and s == "*" and b == "26":
+		print ("0 * 26 = 0")
+	if a == "0" and s == "*" and b == "27":
+		print ("0 * 27 = 0")
+	if a == "0" and s == "*" and b == "28":
+		print ("0 * 28 = 0")
+	if a == "0" and s == "*" and b == "29":
+		print ("0 * 29 = 0")
+	if a == "0" and s == "*" and b == "30":
+		print ("0 * 30 = 0")
+	if a == "0" and s == "*" and b == "31":
+		print ("0 * 31 = 0")
+	if a == "0" and s == "*" and b == "32":
+		print ("0 * 32 = 0")
+	if a == "0" and s == "*" and b == "33":
+		print ("0 * 33 = 0")
+	if a == "0" and s == "*" and b == "34":
+		print ("0 * 34 = 0")
+	if a == "0" and s == "*" and b == "35":
+		print ("0 * 35 = 0")
+	if a == "0" and s == "*" and b == "36":
+		print ("0 * 36 = 0")
+	if a == "0" and s == "*" and b == "37":
+		print ("0 * 37 = 0")
+	if a == "0" and s == "*" and b == "38":
+		print ("0 * 38 = 0")
+	if a == "0" and s == "*" and b == "39":
+		print ("0 * 39 = 0")
+	if a == "0" and s == "*" and b == "40":
+		print ("0 * 40 = 0")
+	if a == "0" and s == "*" and b == "41":
+		print ("0 * 41 = 0")
+	if a == "0" and s == "*" and b == "42":
+		print ("0 * 42 = 0")
+	if a == "0" and s == "*" and b == "43":
+		print ("0 * 43 = 0")
+	if a == "0" and s == "*" and b == "44":
+		print ("0 * 44 = 0")
+	if a == "0" and s == "*" and b == "45":
+		print ("0 * 45 = 0")
+	if a == "0" and s == "*" and b == "46":
+		print ("0 * 46 = 0")
+	if a == "0" and s == "*" and b == "47":
+		print ("0 * 47 = 0")
+	if a == "0" and s == "*" and b == "48":
+		print ("0 * 48 = 0")
+	if a == "0" and s == "*" and b == "49":
+		print ("0 * 49 = 0")
+	if a == "0" and s == "*" and b == "50":
+		print ("0 * 50 = 0")
+	if a == "0" and s == "*" and b == "51":
+		print ("0 * 51 = 0")
+	if a == "0" and s == "*" and b == "52":
+		print ("0 * 52 = 0")
+	if a == "0" and s == "*" and b == "53":
+		print ("0 * 53 = 0")
+	if a == "0" and s == "*" and b == "54":
+		print ("0 * 54 = 0")
+	if a == "0" and s == "*" and b == "55":
+		print ("0 * 55 = 0")
+	if a == "0" and s == "*" and b == "56":
+		print ("0 * 56 = 0")
+	if a == "0" and s == "*" and b == "57":
+		print ("0 * 57 = 0")
+	if a == "0" and s == "*" and b == "58":
+		print ("0 * 58 = 0")
+	if a == "0" and s == "*" and b == "59":
+		print ("0 * 59 = 0")
+	if a == "0" and s == "*" and b == "60":
+		print ("0 * 60 = 0")
+	if a == "0" and s == "*" and b == "61":
+		print ("0 * 61 = 0")
+	if a == "0" and s == "*" and b == "62":
+		print ("0 * 62 = 0")
+	if a == "0" and s == "*" and b == "63":
+		print ("0 * 63 = 0")
+	if a == "0" and s == "*" and b == "64":
+		print ("0 * 64 = 0")
+	if a == "0" and s == "*" and b == "65":
+		print ("0 * 65 = 0")
+	if a == "0" and s == "*" and b == "66":
+		print ("0 * 66 = 0")
+	if a == "0" and s == "*" and b == "67":
+		print ("0 * 67 = 0")
+	if a == "0" and s == "*" and b == "68":
+		print ("0 * 68 = 0")
+	if a == "0" and s == "*" and b == "69":
+		print ("0 * 69 = 0")
+	if a == "0" and s == "*" and b == "70":
+		print ("0 * 70 = 0")
+	if a == "0" and s == "*" and b == "71":
+		print ("0 * 71 = 0")
+	if a == "0" and s == "*" and b == "72":
+		print ("0 * 72 = 0")
+	if a == "0" and s == "*" and b == "73":
+		print ("0 * 73 = 0")
+	if a == "0" and s == "*" and b == "74":
+		print ("0 * 74 = 0")
+	if a == "0" and s == "*" and b == "75":
+		print ("0 * 75 = 0")
+	if a == "0" and s == "*" and b == "76":
+		print ("0 * 76 = 0")
+	if a == "0" and s == "*" and b == "77":
+		print ("0 * 77 = 0")
+	if a == "0" and s == "*" and b == "78":
+		print ("0 * 78 = 0")
+	if a == "0" and s == "*" and b == "79":
+		print ("0 * 79 = 0")
+	if a == "0" and s == "*" and b == "80":
+		print ("0 * 80 = 0")
+	if a == "0" and s == "*" and b == "81":
+		print ("0 * 81 = 0")
+	if a == "0" and s == "*" and b == "82":
+		print ("0 * 82 = 0")
+	if a == "0" and s == "*" and b == "83":
+		print ("0 * 83 = 0")
+	if a == "0" and s == "*" and b == "84":
+		print ("0 * 84 = 0")
+	if a == "0" and s == "*" and b == "85":
+		print ("0 * 85 = 0")
+	if a == "0" and s == "*" and b == "86":
+		print ("0 * 86 = 0")
+	if a == "0" and s == "*" and b == "87":
+		print ("0 * 87 = 0")
+	if a == "0" and s == "*" and b == "88":
+		print ("0 * 88 = 0")
+	if a == "0" and s == "*" and b == "89":
+		print ("0 * 89 = 0")
+	if a == "0" and s == "*" and b == "90":
+		print ("0 * 90 = 0")
+	if a == "0" and s == "*" and b == "91":
+		print ("0 * 91 = 0")
+	if a == "0" and s == "*" and b == "92":
+		print ("0 * 92 = 0")
+	if a == "0" and s == "*" and b == "93":
+		print ("0 * 93 = 0")
+	if a == "0" and s == "*" and b == "94":
+		print ("0 * 94 = 0")
+	if a == "0" and s == "*" and b == "95":
+		print ("0 * 95 = 0")
+	if a == "0" and s == "*" and b == "96":
+		print ("0 * 96 = 0")
+	if a == "0" and s == "*" and b == "97":
+		print ("0 * 97 = 0")
+	if a == "0" and s == "*" and b == "98":
+		print ("0 * 98 = 0")
+	if a == "0" and s == "*" and b == "99":
+		print ("0 * 99 = 0")
+	if a == "0" and s == "*" and b == "100":
+		print ("0 * 100 = 0")
+	if a == "1" and s == "*" and b == "0":
+		print ("1 * 0 = 0")
 	if a == "1" and s == "*" and b == "1":
 		print ("1 * 1 = 1")
 	if a == "1" and s == "*" and b == "2":
@@ -40205,6 +41213,8 @@ def Calculate(a, s, b):
 		print ("1 * 99 = 99")
 	if a == "1" and s == "*" and b == "100":
 		print ("1 * 100 = 100")
+	if a == "2" and s == "*" and b == "0":
+		print ("2 * 0 = 0")
 	if a == "2" and s == "*" and b == "1":
 		print ("2 * 1 = 2")
 	if a == "2" and s == "*" and b == "2":
@@ -40405,6 +41415,8 @@ def Calculate(a, s, b):
 		print ("2 * 99 = 198")
 	if a == "2" and s == "*" and b == "100":
 		print ("2 * 100 = 200")
+	if a == "3" and s == "*" and b == "0":
+		print ("3 * 0 = 0")
 	if a == "3" and s == "*" and b == "1":
 		print ("3 * 1 = 3")
 	if a == "3" and s == "*" and b == "2":
@@ -40605,6 +41617,8 @@ def Calculate(a, s, b):
 		print ("3 * 99 = 297")
 	if a == "3" and s == "*" and b == "100":
 		print ("3 * 100 = 300")
+	if a == "4" and s == "*" and b == "0":
+		print ("4 * 0 = 0")
 	if a == "4" and s == "*" and b == "1":
 		print ("4 * 1 = 4")
 	if a == "4" and s == "*" and b == "2":
@@ -40805,6 +41819,8 @@ def Calculate(a, s, b):
 		print ("4 * 99 = 396")
 	if a == "4" and s == "*" and b == "100":
 		print ("4 * 100 = 400")
+	if a == "5" and s == "*" and b == "0":
+		print ("5 * 0 = 0")
 	if a == "5" and s == "*" and b == "1":
 		print ("5 * 1 = 5")
 	if a == "5" and s == "*" and b == "2":
@@ -41005,6 +42021,8 @@ def Calculate(a, s, b):
 		print ("5 * 99 = 495")
 	if a == "5" and s == "*" and b == "100":
 		print ("5 * 100 = 500")
+	if a == "6" and s == "*" and b == "0":
+		print ("6 * 0 = 0")
 	if a == "6" and s == "*" and b == "1":
 		print ("6 * 1 = 6")
 	if a == "6" and s == "*" and b == "2":
@@ -41205,6 +42223,8 @@ def Calculate(a, s, b):
 		print ("6 * 99 = 594")
 	if a == "6" and s == "*" and b == "100":
 		print ("6 * 100 = 600")
+	if a == "7" and s == "*" and b == "0":
+		print ("7 * 0 = 0")
 	if a == "7" and s == "*" and b == "1":
 		print ("7 * 1 = 7")
 	if a == "7" and s == "*" and b == "2":
@@ -41405,6 +42425,8 @@ def Calculate(a, s, b):
 		print ("7 * 99 = 693")
 	if a == "7" and s == "*" and b == "100":
 		print ("7 * 100 = 700")
+	if a == "8" and s == "*" and b == "0":
+		print ("8 * 0 = 0")
 	if a == "8" and s == "*" and b == "1":
 		print ("8 * 1 = 8")
 	if a == "8" and s == "*" and b == "2":
@@ -41605,6 +42627,8 @@ def Calculate(a, s, b):
 		print ("8 * 99 = 792")
 	if a == "8" and s == "*" and b == "100":
 		print ("8 * 100 = 800")
+	if a == "9" and s == "*" and b == "0":
+		print ("9 * 0 = 0")
 	if a == "9" and s == "*" and b == "1":
 		print ("9 * 1 = 9")
 	if a == "9" and s == "*" and b == "2":
@@ -41805,6 +42829,8 @@ def Calculate(a, s, b):
 		print ("9 * 99 = 891")
 	if a == "9" and s == "*" and b == "100":
 		print ("9 * 100 = 900")
+	if a == "10" and s == "*" and b == "0":
+		print ("10 * 0 = 0")
 	if a == "10" and s == "*" and b == "1":
 		print ("10 * 1 = 10")
 	if a == "10" and s == "*" and b == "2":
@@ -42005,6 +43031,8 @@ def Calculate(a, s, b):
 		print ("10 * 99 = 990")
 	if a == "10" and s == "*" and b == "100":
 		print ("10 * 100 = 1000")
+	if a == "11" and s == "*" and b == "0":
+		print ("11 * 0 = 0")
 	if a == "11" and s == "*" and b == "1":
 		print ("11 * 1 = 11")
 	if a == "11" and s == "*" and b == "2":
@@ -42205,6 +43233,8 @@ def Calculate(a, s, b):
 		print ("11 * 99 = 1089")
 	if a == "11" and s == "*" and b == "100":
 		print ("11 * 100 = 1100")
+	if a == "12" and s == "*" and b == "0":
+		print ("12 * 0 = 0")
 	if a == "12" and s == "*" and b == "1":
 		print ("12 * 1 = 12")
 	if a == "12" and s == "*" and b == "2":
@@ -42405,6 +43435,8 @@ def Calculate(a, s, b):
 		print ("12 * 99 = 1188")
 	if a == "12" and s == "*" and b == "100":
 		print ("12 * 100 = 1200")
+	if a == "13" and s == "*" and b == "0":
+		print ("13 * 0 = 0")
 	if a == "13" and s == "*" and b == "1":
 		print ("13 * 1 = 13")
 	if a == "13" and s == "*" and b == "2":
@@ -42605,6 +43637,8 @@ def Calculate(a, s, b):
 		print ("13 * 99 = 1287")
 	if a == "13" and s == "*" and b == "100":
 		print ("13 * 100 = 1300")
+	if a == "14" and s == "*" and b == "0":
+		print ("14 * 0 = 0")
 	if a == "14" and s == "*" and b == "1":
 		print ("14 * 1 = 14")
 	if a == "14" and s == "*" and b == "2":
@@ -42805,6 +43839,8 @@ def Calculate(a, s, b):
 		print ("14 * 99 = 1386")
 	if a == "14" and s == "*" and b == "100":
 		print ("14 * 100 = 1400")
+	if a == "15" and s == "*" and b == "0":
+		print ("15 * 0 = 0")
 	if a == "15" and s == "*" and b == "1":
 		print ("15 * 1 = 15")
 	if a == "15" and s == "*" and b == "2":
@@ -43005,6 +44041,8 @@ def Calculate(a, s, b):
 		print ("15 * 99 = 1485")
 	if a == "15" and s == "*" and b == "100":
 		print ("15 * 100 = 1500")
+	if a == "16" and s == "*" and b == "0":
+		print ("16 * 0 = 0")
 	if a == "16" and s == "*" and b == "1":
 		print ("16 * 1 = 16")
 	if a == "16" and s == "*" and b == "2":
@@ -43205,6 +44243,8 @@ def Calculate(a, s, b):
 		print ("16 * 99 = 1584")
 	if a == "16" and s == "*" and b == "100":
 		print ("16 * 100 = 1600")
+	if a == "17" and s == "*" and b == "0":
+		print ("17 * 0 = 0")
 	if a == "17" and s == "*" and b == "1":
 		print ("17 * 1 = 17")
 	if a == "17" and s == "*" and b == "2":
@@ -43405,6 +44445,8 @@ def Calculate(a, s, b):
 		print ("17 * 99 = 1683")
 	if a == "17" and s == "*" and b == "100":
 		print ("17 * 100 = 1700")
+	if a == "18" and s == "*" and b == "0":
+		print ("18 * 0 = 0")
 	if a == "18" and s == "*" and b == "1":
 		print ("18 * 1 = 18")
 	if a == "18" and s == "*" and b == "2":
@@ -43605,6 +44647,8 @@ def Calculate(a, s, b):
 		print ("18 * 99 = 1782")
 	if a == "18" and s == "*" and b == "100":
 		print ("18 * 100 = 1800")
+	if a == "19" and s == "*" and b == "0":
+		print ("19 * 0 = 0")
 	if a == "19" and s == "*" and b == "1":
 		print ("19 * 1 = 19")
 	if a == "19" and s == "*" and b == "2":
@@ -43805,6 +44849,8 @@ def Calculate(a, s, b):
 		print ("19 * 99 = 1881")
 	if a == "19" and s == "*" and b == "100":
 		print ("19 * 100 = 1900")
+	if a == "20" and s == "*" and b == "0":
+		print ("20 * 0 = 0")
 	if a == "20" and s == "*" and b == "1":
 		print ("20 * 1 = 20")
 	if a == "20" and s == "*" and b == "2":
@@ -44005,6 +45051,8 @@ def Calculate(a, s, b):
 		print ("20 * 99 = 1980")
 	if a == "20" and s == "*" and b == "100":
 		print ("20 * 100 = 2000")
+	if a == "21" and s == "*" and b == "0":
+		print ("21 * 0 = 0")
 	if a == "21" and s == "*" and b == "1":
 		print ("21 * 1 = 21")
 	if a == "21" and s == "*" and b == "2":
@@ -44205,6 +45253,8 @@ def Calculate(a, s, b):
 		print ("21 * 99 = 2079")
 	if a == "21" and s == "*" and b == "100":
 		print ("21 * 100 = 2100")
+	if a == "22" and s == "*" and b == "0":
+		print ("22 * 0 = 0")
 	if a == "22" and s == "*" and b == "1":
 		print ("22 * 1 = 22")
 	if a == "22" and s == "*" and b == "2":
@@ -44405,6 +45455,8 @@ def Calculate(a, s, b):
 		print ("22 * 99 = 2178")
 	if a == "22" and s == "*" and b == "100":
 		print ("22 * 100 = 2200")
+	if a == "23" and s == "*" and b == "0":
+		print ("23 * 0 = 0")
 	if a == "23" and s == "*" and b == "1":
 		print ("23 * 1 = 23")
 	if a == "23" and s == "*" and b == "2":
@@ -44605,6 +45657,8 @@ def Calculate(a, s, b):
 		print ("23 * 99 = 2277")
 	if a == "23" and s == "*" and b == "100":
 		print ("23 * 100 = 2300")
+	if a == "24" and s == "*" and b == "0":
+		print ("24 * 0 = 0")
 	if a == "24" and s == "*" and b == "1":
 		print ("24 * 1 = 24")
 	if a == "24" and s == "*" and b == "2":
@@ -44805,6 +45859,8 @@ def Calculate(a, s, b):
 		print ("24 * 99 = 2376")
 	if a == "24" and s == "*" and b == "100":
 		print ("24 * 100 = 2400")
+	if a == "25" and s == "*" and b == "0":
+		print ("25 * 0 = 0")
 	if a == "25" and s == "*" and b == "1":
 		print ("25 * 1 = 25")
 	if a == "25" and s == "*" and b == "2":
@@ -45005,6 +46061,8 @@ def Calculate(a, s, b):
 		print ("25 * 99 = 2475")
 	if a == "25" and s == "*" and b == "100":
 		print ("25 * 100 = 2500")
+	if a == "26" and s == "*" and b == "0":
+		print ("26 * 0 = 0")
 	if a == "26" and s == "*" and b == "1":
 		print ("26 * 1 = 26")
 	if a == "26" and s == "*" and b == "2":
@@ -45205,6 +46263,8 @@ def Calculate(a, s, b):
 		print ("26 * 99 = 2574")
 	if a == "26" and s == "*" and b == "100":
 		print ("26 * 100 = 2600")
+	if a == "27" and s == "*" and b == "0":
+		print ("27 * 0 = 0")
 	if a == "27" and s == "*" and b == "1":
 		print ("27 * 1 = 27")
 	if a == "27" and s == "*" and b == "2":
@@ -45405,6 +46465,8 @@ def Calculate(a, s, b):
 		print ("27 * 99 = 2673")
 	if a == "27" and s == "*" and b == "100":
 		print ("27 * 100 = 2700")
+	if a == "28" and s == "*" and b == "0":
+		print ("28 * 0 = 0")
 	if a == "28" and s == "*" and b == "1":
 		print ("28 * 1 = 28")
 	if a == "28" and s == "*" and b == "2":
@@ -45605,6 +46667,8 @@ def Calculate(a, s, b):
 		print ("28 * 99 = 2772")
 	if a == "28" and s == "*" and b == "100":
 		print ("28 * 100 = 2800")
+	if a == "29" and s == "*" and b == "0":
+		print ("29 * 0 = 0")
 	if a == "29" and s == "*" and b == "1":
 		print ("29 * 1 = 29")
 	if a == "29" and s == "*" and b == "2":
@@ -45805,6 +46869,8 @@ def Calculate(a, s, b):
 		print ("29 * 99 = 2871")
 	if a == "29" and s == "*" and b == "100":
 		print ("29 * 100 = 2900")
+	if a == "30" and s == "*" and b == "0":
+		print ("30 * 0 = 0")
 	if a == "30" and s == "*" and b == "1":
 		print ("30 * 1 = 30")
 	if a == "30" and s == "*" and b == "2":
@@ -46005,6 +47071,8 @@ def Calculate(a, s, b):
 		print ("30 * 99 = 2970")
 	if a == "30" and s == "*" and b == "100":
 		print ("30 * 100 = 3000")
+	if a == "31" and s == "*" and b == "0":
+		print ("31 * 0 = 0")
 	if a == "31" and s == "*" and b == "1":
 		print ("31 * 1 = 31")
 	if a == "31" and s == "*" and b == "2":
@@ -46205,6 +47273,8 @@ def Calculate(a, s, b):
 		print ("31 * 99 = 3069")
 	if a == "31" and s == "*" and b == "100":
 		print ("31 * 100 = 3100")
+	if a == "32" and s == "*" and b == "0":
+		print ("32 * 0 = 0")
 	if a == "32" and s == "*" and b == "1":
 		print ("32 * 1 = 32")
 	if a == "32" and s == "*" and b == "2":
@@ -46405,6 +47475,8 @@ def Calculate(a, s, b):
 		print ("32 * 99 = 3168")
 	if a == "32" and s == "*" and b == "100":
 		print ("32 * 100 = 3200")
+	if a == "33" and s == "*" and b == "0":
+		print ("33 * 0 = 0")
 	if a == "33" and s == "*" and b == "1":
 		print ("33 * 1 = 33")
 	if a == "33" and s == "*" and b == "2":
@@ -46605,6 +47677,8 @@ def Calculate(a, s, b):
 		print ("33 * 99 = 3267")
 	if a == "33" and s == "*" and b == "100":
 		print ("33 * 100 = 3300")
+	if a == "34" and s == "*" and b == "0":
+		print ("34 * 0 = 0")
 	if a == "34" and s == "*" and b == "1":
 		print ("34 * 1 = 34")
 	if a == "34" and s == "*" and b == "2":
@@ -46805,6 +47879,8 @@ def Calculate(a, s, b):
 		print ("34 * 99 = 3366")
 	if a == "34" and s == "*" and b == "100":
 		print ("34 * 100 = 3400")
+	if a == "35" and s == "*" and b == "0":
+		print ("35 * 0 = 0")
 	if a == "35" and s == "*" and b == "1":
 		print ("35 * 1 = 35")
 	if a == "35" and s == "*" and b == "2":
@@ -47005,6 +48081,8 @@ def Calculate(a, s, b):
 		print ("35 * 99 = 3465")
 	if a == "35" and s == "*" and b == "100":
 		print ("35 * 100 = 3500")
+	if a == "36" and s == "*" and b == "0":
+		print ("36 * 0 = 0")
 	if a == "36" and s == "*" and b == "1":
 		print ("36 * 1 = 36")
 	if a == "36" and s == "*" and b == "2":
@@ -47205,6 +48283,8 @@ def Calculate(a, s, b):
 		print ("36 * 99 = 3564")
 	if a == "36" and s == "*" and b == "100":
 		print ("36 * 100 = 3600")
+	if a == "37" and s == "*" and b == "0":
+		print ("37 * 0 = 0")
 	if a == "37" and s == "*" and b == "1":
 		print ("37 * 1 = 37")
 	if a == "37" and s == "*" and b == "2":
@@ -47405,6 +48485,8 @@ def Calculate(a, s, b):
 		print ("37 * 99 = 3663")
 	if a == "37" and s == "*" and b == "100":
 		print ("37 * 100 = 3700")
+	if a == "38" and s == "*" and b == "0":
+		print ("38 * 0 = 0")
 	if a == "38" and s == "*" and b == "1":
 		print ("38 * 1 = 38")
 	if a == "38" and s == "*" and b == "2":
@@ -47605,6 +48687,8 @@ def Calculate(a, s, b):
 		print ("38 * 99 = 3762")
 	if a == "38" and s == "*" and b == "100":
 		print ("38 * 100 = 3800")
+	if a == "39" and s == "*" and b == "0":
+		print ("39 * 0 = 0")
 	if a == "39" and s == "*" and b == "1":
 		print ("39 * 1 = 39")
 	if a == "39" and s == "*" and b == "2":
@@ -47805,6 +48889,8 @@ def Calculate(a, s, b):
 		print ("39 * 99 = 3861")
 	if a == "39" and s == "*" and b == "100":
 		print ("39 * 100 = 3900")
+	if a == "40" and s == "*" and b == "0":
+		print ("40 * 0 = 0")
 	if a == "40" and s == "*" and b == "1":
 		print ("40 * 1 = 40")
 	if a == "40" and s == "*" and b == "2":
@@ -48005,6 +49091,8 @@ def Calculate(a, s, b):
 		print ("40 * 99 = 3960")
 	if a == "40" and s == "*" and b == "100":
 		print ("40 * 100 = 4000")
+	if a == "41" and s == "*" and b == "0":
+		print ("41 * 0 = 0")
 	if a == "41" and s == "*" and b == "1":
 		print ("41 * 1 = 41")
 	if a == "41" and s == "*" and b == "2":
@@ -48205,6 +49293,8 @@ def Calculate(a, s, b):
 		print ("41 * 99 = 4059")
 	if a == "41" and s == "*" and b == "100":
 		print ("41 * 100 = 4100")
+	if a == "42" and s == "*" and b == "0":
+		print ("42 * 0 = 0")
 	if a == "42" and s == "*" and b == "1":
 		print ("42 * 1 = 42")
 	if a == "42" and s == "*" and b == "2":
@@ -48405,6 +49495,8 @@ def Calculate(a, s, b):
 		print ("42 * 99 = 4158")
 	if a == "42" and s == "*" and b == "100":
 		print ("42 * 100 = 4200")
+	if a == "43" and s == "*" and b == "0":
+		print ("43 * 0 = 0")
 	if a == "43" and s == "*" and b == "1":
 		print ("43 * 1 = 43")
 	if a == "43" and s == "*" and b == "2":
@@ -48605,6 +49697,8 @@ def Calculate(a, s, b):
 		print ("43 * 99 = 4257")
 	if a == "43" and s == "*" and b == "100":
 		print ("43 * 100 = 4300")
+	if a == "44" and s == "*" and b == "0":
+		print ("44 * 0 = 0")
 	if a == "44" and s == "*" and b == "1":
 		print ("44 * 1 = 44")
 	if a == "44" and s == "*" and b == "2":
@@ -48805,6 +49899,8 @@ def Calculate(a, s, b):
 		print ("44 * 99 = 4356")
 	if a == "44" and s == "*" and b == "100":
 		print ("44 * 100 = 4400")
+	if a == "45" and s == "*" and b == "0":
+		print ("45 * 0 = 0")
 	if a == "45" and s == "*" and b == "1":
 		print ("45 * 1 = 45")
 	if a == "45" and s == "*" and b == "2":
@@ -49005,6 +50101,8 @@ def Calculate(a, s, b):
 		print ("45 * 99 = 4455")
 	if a == "45" and s == "*" and b == "100":
 		print ("45 * 100 = 4500")
+	if a == "46" and s == "*" and b == "0":
+		print ("46 * 0 = 0")
 	if a == "46" and s == "*" and b == "1":
 		print ("46 * 1 = 46")
 	if a == "46" and s == "*" and b == "2":
@@ -49205,6 +50303,8 @@ def Calculate(a, s, b):
 		print ("46 * 99 = 4554")
 	if a == "46" and s == "*" and b == "100":
 		print ("46 * 100 = 4600")
+	if a == "47" and s == "*" and b == "0":
+		print ("47 * 0 = 0")
 	if a == "47" and s == "*" and b == "1":
 		print ("47 * 1 = 47")
 	if a == "47" and s == "*" and b == "2":
@@ -49405,6 +50505,8 @@ def Calculate(a, s, b):
 		print ("47 * 99 = 4653")
 	if a == "47" and s == "*" and b == "100":
 		print ("47 * 100 = 4700")
+	if a == "48" and s == "*" and b == "0":
+		print ("48 * 0 = 0")
 	if a == "48" and s == "*" and b == "1":
 		print ("48 * 1 = 48")
 	if a == "48" and s == "*" and b == "2":
@@ -49605,6 +50707,8 @@ def Calculate(a, s, b):
 		print ("48 * 99 = 4752")
 	if a == "48" and s == "*" and b == "100":
 		print ("48 * 100 = 4800")
+	if a == "49" and s == "*" and b == "0":
+		print ("49 * 0 = 0")
 	if a == "49" and s == "*" and b == "1":
 		print ("49 * 1 = 49")
 	if a == "49" and s == "*" and b == "2":
@@ -49805,6 +50909,8 @@ def Calculate(a, s, b):
 		print ("49 * 99 = 4851")
 	if a == "49" and s == "*" and b == "100":
 		print ("49 * 100 = 4900")
+	if a == "50" and s == "*" and b == "0":
+		print ("50 * 0 = 0")
 	if a == "50" and s == "*" and b == "1":
 		print ("50 * 1 = 50")
 	if a == "50" and s == "*" and b == "2":
@@ -50005,6 +51111,8 @@ def Calculate(a, s, b):
 		print ("50 * 99 = 4950")
 	if a == "50" and s == "*" and b == "100":
 		print ("50 * 100 = 5000")
+	if a == "51" and s == "*" and b == "0":
+		print ("51 * 0 = 0")
 	if a == "51" and s == "*" and b == "1":
 		print ("51 * 1 = 51")
 	if a == "51" and s == "*" and b == "2":
@@ -50205,6 +51313,8 @@ def Calculate(a, s, b):
 		print ("51 * 99 = 5049")
 	if a == "51" and s == "*" and b == "100":
 		print ("51 * 100 = 5100")
+	if a == "52" and s == "*" and b == "0":
+		print ("52 * 0 = 0")
 	if a == "52" and s == "*" and b == "1":
 		print ("52 * 1 = 52")
 	if a == "52" and s == "*" and b == "2":
@@ -50405,6 +51515,8 @@ def Calculate(a, s, b):
 		print ("52 * 99 = 5148")
 	if a == "52" and s == "*" and b == "100":
 		print ("52 * 100 = 5200")
+	if a == "53" and s == "*" and b == "0":
+		print ("53 * 0 = 0")
 	if a == "53" and s == "*" and b == "1":
 		print ("53 * 1 = 53")
 	if a == "53" and s == "*" and b == "2":
@@ -50605,6 +51717,8 @@ def Calculate(a, s, b):
 		print ("53 * 99 = 5247")
 	if a == "53" and s == "*" and b == "100":
 		print ("53 * 100 = 5300")
+	if a == "54" and s == "*" and b == "0":
+		print ("54 * 0 = 0")
 	if a == "54" and s == "*" and b == "1":
 		print ("54 * 1 = 54")
 	if a == "54" and s == "*" and b == "2":
@@ -50805,6 +51919,8 @@ def Calculate(a, s, b):
 		print ("54 * 99 = 5346")
 	if a == "54" and s == "*" and b == "100":
 		print ("54 * 100 = 5400")
+	if a == "55" and s == "*" and b == "0":
+		print ("55 * 0 = 0")
 	if a == "55" and s == "*" and b == "1":
 		print ("55 * 1 = 55")
 	if a == "55" and s == "*" and b == "2":
@@ -51005,6 +52121,8 @@ def Calculate(a, s, b):
 		print ("55 * 99 = 5445")
 	if a == "55" and s == "*" and b == "100":
 		print ("55 * 100 = 5500")
+	if a == "56" and s == "*" and b == "0":
+		print ("56 * 0 = 0")
 	if a == "56" and s == "*" and b == "1":
 		print ("56 * 1 = 56")
 	if a == "56" and s == "*" and b == "2":
@@ -51205,6 +52323,8 @@ def Calculate(a, s, b):
 		print ("56 * 99 = 5544")
 	if a == "56" and s == "*" and b == "100":
 		print ("56 * 100 = 5600")
+	if a == "57" and s == "*" and b == "0":
+		print ("57 * 0 = 0")
 	if a == "57" and s == "*" and b == "1":
 		print ("57 * 1 = 57")
 	if a == "57" and s == "*" and b == "2":
@@ -51405,6 +52525,8 @@ def Calculate(a, s, b):
 		print ("57 * 99 = 5643")
 	if a == "57" and s == "*" and b == "100":
 		print ("57 * 100 = 5700")
+	if a == "58" and s == "*" and b == "0":
+		print ("58 * 0 = 0")
 	if a == "58" and s == "*" and b == "1":
 		print ("58 * 1 = 58")
 	if a == "58" and s == "*" and b == "2":
@@ -51605,6 +52727,8 @@ def Calculate(a, s, b):
 		print ("58 * 99 = 5742")
 	if a == "58" and s == "*" and b == "100":
 		print ("58 * 100 = 5800")
+	if a == "59" and s == "*" and b == "0":
+		print ("59 * 0 = 0")
 	if a == "59" and s == "*" and b == "1":
 		print ("59 * 1 = 59")
 	if a == "59" and s == "*" and b == "2":
@@ -51805,6 +52929,8 @@ def Calculate(a, s, b):
 		print ("59 * 99 = 5841")
 	if a == "59" and s == "*" and b == "100":
 		print ("59 * 100 = 5900")
+	if a == "60" and s == "*" and b == "0":
+		print ("60 * 0 = 0")
 	if a == "60" and s == "*" and b == "1":
 		print ("60 * 1 = 60")
 	if a == "60" and s == "*" and b == "2":
@@ -52005,6 +53131,8 @@ def Calculate(a, s, b):
 		print ("60 * 99 = 5940")
 	if a == "60" and s == "*" and b == "100":
 		print ("60 * 100 = 6000")
+	if a == "61" and s == "*" and b == "0":
+		print ("61 * 0 = 0")
 	if a == "61" and s == "*" and b == "1":
 		print ("61 * 1 = 61")
 	if a == "61" and s == "*" and b == "2":
@@ -52205,6 +53333,8 @@ def Calculate(a, s, b):
 		print ("61 * 99 = 6039")
 	if a == "61" and s == "*" and b == "100":
 		print ("61 * 100 = 6100")
+	if a == "62" and s == "*" and b == "0":
+		print ("62 * 0 = 0")
 	if a == "62" and s == "*" and b == "1":
 		print ("62 * 1 = 62")
 	if a == "62" and s == "*" and b == "2":
@@ -52405,6 +53535,8 @@ def Calculate(a, s, b):
 		print ("62 * 99 = 6138")
 	if a == "62" and s == "*" and b == "100":
 		print ("62 * 100 = 6200")
+	if a == "63" and s == "*" and b == "0":
+		print ("63 * 0 = 0")
 	if a == "63" and s == "*" and b == "1":
 		print ("63 * 1 = 63")
 	if a == "63" and s == "*" and b == "2":
@@ -52605,6 +53737,8 @@ def Calculate(a, s, b):
 		print ("63 * 99 = 6237")
 	if a == "63" and s == "*" and b == "100":
 		print ("63 * 100 = 6300")
+	if a == "64" and s == "*" and b == "0":
+		print ("64 * 0 = 0")
 	if a == "64" and s == "*" and b == "1":
 		print ("64 * 1 = 64")
 	if a == "64" and s == "*" and b == "2":
@@ -52805,6 +53939,8 @@ def Calculate(a, s, b):
 		print ("64 * 99 = 6336")
 	if a == "64" and s == "*" and b == "100":
 		print ("64 * 100 = 6400")
+	if a == "65" and s == "*" and b == "0":
+		print ("65 * 0 = 0")
 	if a == "65" and s == "*" and b == "1":
 		print ("65 * 1 = 65")
 	if a == "65" and s == "*" and b == "2":
@@ -53005,6 +54141,8 @@ def Calculate(a, s, b):
 		print ("65 * 99 = 6435")
 	if a == "65" and s == "*" and b == "100":
 		print ("65 * 100 = 6500")
+	if a == "66" and s == "*" and b == "0":
+		print ("66 * 0 = 0")
 	if a == "66" and s == "*" and b == "1":
 		print ("66 * 1 = 66")
 	if a == "66" and s == "*" and b == "2":
@@ -53205,6 +54343,8 @@ def Calculate(a, s, b):
 		print ("66 * 99 = 6534")
 	if a == "66" and s == "*" and b == "100":
 		print ("66 * 100 = 6600")
+	if a == "67" and s == "*" and b == "0":
+		print ("67 * 0 = 0")
 	if a == "67" and s == "*" and b == "1":
 		print ("67 * 1 = 67")
 	if a == "67" and s == "*" and b == "2":
@@ -53405,6 +54545,8 @@ def Calculate(a, s, b):
 		print ("67 * 99 = 6633")
 	if a == "67" and s == "*" and b == "100":
 		print ("67 * 100 = 6700")
+	if a == "68" and s == "*" and b == "0":
+		print ("68 * 0 = 0")
 	if a == "68" and s == "*" and b == "1":
 		print ("68 * 1 = 68")
 	if a == "68" and s == "*" and b == "2":
@@ -53605,6 +54747,8 @@ def Calculate(a, s, b):
 		print ("68 * 99 = 6732")
 	if a == "68" and s == "*" and b == "100":
 		print ("68 * 100 = 6800")
+	if a == "69" and s == "*" and b == "0":
+		print ("69 * 0 = 0")
 	if a == "69" and s == "*" and b == "1":
 		print ("69 * 1 = 69")
 	if a == "69" and s == "*" and b == "2":
@@ -53805,6 +54949,8 @@ def Calculate(a, s, b):
 		print ("69 * 99 = 6831")
 	if a == "69" and s == "*" and b == "100":
 		print ("69 * 100 = 6900")
+	if a == "70" and s == "*" and b == "0":
+		print ("70 * 0 = 0")
 	if a == "70" and s == "*" and b == "1":
 		print ("70 * 1 = 70")
 	if a == "70" and s == "*" and b == "2":
@@ -54005,6 +55151,8 @@ def Calculate(a, s, b):
 		print ("70 * 99 = 6930")
 	if a == "70" and s == "*" and b == "100":
 		print ("70 * 100 = 7000")
+	if a == "71" and s == "*" and b == "0":
+		print ("71 * 0 = 0")
 	if a == "71" and s == "*" and b == "1":
 		print ("71 * 1 = 71")
 	if a == "71" and s == "*" and b == "2":
@@ -54205,6 +55353,8 @@ def Calculate(a, s, b):
 		print ("71 * 99 = 7029")
 	if a == "71" and s == "*" and b == "100":
 		print ("71 * 100 = 7100")
+	if a == "72" and s == "*" and b == "0":
+		print ("72 * 0 = 0")
 	if a == "72" and s == "*" and b == "1":
 		print ("72 * 1 = 72")
 	if a == "72" and s == "*" and b == "2":
@@ -54405,6 +55555,8 @@ def Calculate(a, s, b):
 		print ("72 * 99 = 7128")
 	if a == "72" and s == "*" and b == "100":
 		print ("72 * 100 = 7200")
+	if a == "73" and s == "*" and b == "0":
+		print ("73 * 0 = 0")
 	if a == "73" and s == "*" and b == "1":
 		print ("73 * 1 = 73")
 	if a == "73" and s == "*" and b == "2":
@@ -54605,6 +55757,8 @@ def Calculate(a, s, b):
 		print ("73 * 99 = 7227")
 	if a == "73" and s == "*" and b == "100":
 		print ("73 * 100 = 7300")
+	if a == "74" and s == "*" and b == "0":
+		print ("74 * 0 = 0")
 	if a == "74" and s == "*" and b == "1":
 		print ("74 * 1 = 74")
 	if a == "74" and s == "*" and b == "2":
@@ -54805,6 +55959,8 @@ def Calculate(a, s, b):
 		print ("74 * 99 = 7326")
 	if a == "74" and s == "*" and b == "100":
 		print ("74 * 100 = 7400")
+	if a == "75" and s == "*" and b == "0":
+		print ("75 * 0 = 0")
 	if a == "75" and s == "*" and b == "1":
 		print ("75 * 1 = 75")
 	if a == "75" and s == "*" and b == "2":
@@ -55005,6 +56161,8 @@ def Calculate(a, s, b):
 		print ("75 * 99 = 7425")
 	if a == "75" and s == "*" and b == "100":
 		print ("75 * 100 = 7500")
+	if a == "76" and s == "*" and b == "0":
+		print ("76 * 0 = 0")
 	if a == "76" and s == "*" and b == "1":
 		print ("76 * 1 = 76")
 	if a == "76" and s == "*" and b == "2":
@@ -55205,6 +56363,8 @@ def Calculate(a, s, b):
 		print ("76 * 99 = 7524")
 	if a == "76" and s == "*" and b == "100":
 		print ("76 * 100 = 7600")
+	if a == "77" and s == "*" and b == "0":
+		print ("77 * 0 = 0")
 	if a == "77" and s == "*" and b == "1":
 		print ("77 * 1 = 77")
 	if a == "77" and s == "*" and b == "2":
@@ -55405,6 +56565,8 @@ def Calculate(a, s, b):
 		print ("77 * 99 = 7623")
 	if a == "77" and s == "*" and b == "100":
 		print ("77 * 100 = 7700")
+	if a == "78" and s == "*" and b == "0":
+		print ("78 * 0 = 0")
 	if a == "78" and s == "*" and b == "1":
 		print ("78 * 1 = 78")
 	if a == "78" and s == "*" and b == "2":
@@ -55605,6 +56767,8 @@ def Calculate(a, s, b):
 		print ("78 * 99 = 7722")
 	if a == "78" and s == "*" and b == "100":
 		print ("78 * 100 = 7800")
+	if a == "79" and s == "*" and b == "0":
+		print ("79 * 0 = 0")
 	if a == "79" and s == "*" and b == "1":
 		print ("79 * 1 = 79")
 	if a == "79" and s == "*" and b == "2":
@@ -55805,6 +56969,8 @@ def Calculate(a, s, b):
 		print ("79 * 99 = 7821")
 	if a == "79" and s == "*" and b == "100":
 		print ("79 * 100 = 7900")
+	if a == "80" and s == "*" and b == "0":
+		print ("80 * 0 = 0")
 	if a == "80" and s == "*" and b == "1":
 		print ("80 * 1 = 80")
 	if a == "80" and s == "*" and b == "2":
@@ -56005,6 +57171,8 @@ def Calculate(a, s, b):
 		print ("80 * 99 = 7920")
 	if a == "80" and s == "*" and b == "100":
 		print ("80 * 100 = 8000")
+	if a == "81" and s == "*" and b == "0":
+		print ("81 * 0 = 0")
 	if a == "81" and s == "*" and b == "1":
 		print ("81 * 1 = 81")
 	if a == "81" and s == "*" and b == "2":
@@ -56205,6 +57373,8 @@ def Calculate(a, s, b):
 		print ("81 * 99 = 8019")
 	if a == "81" and s == "*" and b == "100":
 		print ("81 * 100 = 8100")
+	if a == "82" and s == "*" and b == "0":
+		print ("82 * 0 = 0")
 	if a == "82" and s == "*" and b == "1":
 		print ("82 * 1 = 82")
 	if a == "82" and s == "*" and b == "2":
@@ -56405,6 +57575,8 @@ def Calculate(a, s, b):
 		print ("82 * 99 = 8118")
 	if a == "82" and s == "*" and b == "100":
 		print ("82 * 100 = 8200")
+	if a == "83" and s == "*" and b == "0":
+		print ("83 * 0 = 0")
 	if a == "83" and s == "*" and b == "1":
 		print ("83 * 1 = 83")
 	if a == "83" and s == "*" and b == "2":
@@ -56605,6 +57777,8 @@ def Calculate(a, s, b):
 		print ("83 * 99 = 8217")
 	if a == "83" and s == "*" and b == "100":
 		print ("83 * 100 = 8300")
+	if a == "84" and s == "*" and b == "0":
+		print ("84 * 0 = 0")
 	if a == "84" and s == "*" and b == "1":
 		print ("84 * 1 = 84")
 	if a == "84" and s == "*" and b == "2":
@@ -56805,6 +57979,8 @@ def Calculate(a, s, b):
 		print ("84 * 99 = 8316")
 	if a == "84" and s == "*" and b == "100":
 		print ("84 * 100 = 8400")
+	if a == "85" and s == "*" and b == "0":
+		print ("85 * 0 = 0")
 	if a == "85" and s == "*" and b == "1":
 		print ("85 * 1 = 85")
 	if a == "85" and s == "*" and b == "2":
@@ -57005,6 +58181,8 @@ def Calculate(a, s, b):
 		print ("85 * 99 = 8415")
 	if a == "85" and s == "*" and b == "100":
 		print ("85 * 100 = 8500")
+	if a == "86" and s == "*" and b == "0":
+		print ("86 * 0 = 0")
 	if a == "86" and s == "*" and b == "1":
 		print ("86 * 1 = 86")
 	if a == "86" and s == "*" and b == "2":
@@ -57205,6 +58383,8 @@ def Calculate(a, s, b):
 		print ("86 * 99 = 8514")
 	if a == "86" and s == "*" and b == "100":
 		print ("86 * 100 = 8600")
+	if a == "87" and s == "*" and b == "0":
+		print ("87 * 0 = 0")
 	if a == "87" and s == "*" and b == "1":
 		print ("87 * 1 = 87")
 	if a == "87" and s == "*" and b == "2":
@@ -57405,6 +58585,8 @@ def Calculate(a, s, b):
 		print ("87 * 99 = 8613")
 	if a == "87" and s == "*" and b == "100":
 		print ("87 * 100 = 8700")
+	if a == "88" and s == "*" and b == "0":
+		print ("88 * 0 = 0")
 	if a == "88" and s == "*" and b == "1":
 		print ("88 * 1 = 88")
 	if a == "88" and s == "*" and b == "2":
@@ -57605,6 +58787,8 @@ def Calculate(a, s, b):
 		print ("88 * 99 = 8712")
 	if a == "88" and s == "*" and b == "100":
 		print ("88 * 100 = 8800")
+	if a == "89" and s == "*" and b == "0":
+		print ("89 * 0 = 0")
 	if a == "89" and s == "*" and b == "1":
 		print ("89 * 1 = 89")
 	if a == "89" and s == "*" and b == "2":
@@ -57805,6 +58989,8 @@ def Calculate(a, s, b):
 		print ("89 * 99 = 8811")
 	if a == "89" and s == "*" and b == "100":
 		print ("89 * 100 = 8900")
+	if a == "90" and s == "*" and b == "0":
+		print ("90 * 0 = 0")
 	if a == "90" and s == "*" and b == "1":
 		print ("90 * 1 = 90")
 	if a == "90" and s == "*" and b == "2":
@@ -58005,6 +59191,8 @@ def Calculate(a, s, b):
 		print ("90 * 99 = 8910")
 	if a == "90" and s == "*" and b == "100":
 		print ("90 * 100 = 9000")
+	if a == "91" and s == "*" and b == "0":
+		print ("91 * 0 = 0")
 	if a == "91" and s == "*" and b == "1":
 		print ("91 * 1 = 91")
 	if a == "91" and s == "*" and b == "2":
@@ -58205,6 +59393,8 @@ def Calculate(a, s, b):
 		print ("91 * 99 = 9009")
 	if a == "91" and s == "*" and b == "100":
 		print ("91 * 100 = 9100")
+	if a == "92" and s == "*" and b == "0":
+		print ("92 * 0 = 0")
 	if a == "92" and s == "*" and b == "1":
 		print ("92 * 1 = 92")
 	if a == "92" and s == "*" and b == "2":
@@ -58405,6 +59595,8 @@ def Calculate(a, s, b):
 		print ("92 * 99 = 9108")
 	if a == "92" and s == "*" and b == "100":
 		print ("92 * 100 = 9200")
+	if a == "93" and s == "*" and b == "0":
+		print ("93 * 0 = 0")
 	if a == "93" and s == "*" and b == "1":
 		print ("93 * 1 = 93")
 	if a == "93" and s == "*" and b == "2":
@@ -58605,6 +59797,8 @@ def Calculate(a, s, b):
 		print ("93 * 99 = 9207")
 	if a == "93" and s == "*" and b == "100":
 		print ("93 * 100 = 9300")
+	if a == "94" and s == "*" and b == "0":
+		print ("94 * 0 = 0")
 	if a == "94" and s == "*" and b == "1":
 		print ("94 * 1 = 94")
 	if a == "94" and s == "*" and b == "2":
@@ -58805,6 +59999,8 @@ def Calculate(a, s, b):
 		print ("94 * 99 = 9306")
 	if a == "94" and s == "*" and b == "100":
 		print ("94 * 100 = 9400")
+	if a == "95" and s == "*" and b == "0":
+		print ("95 * 0 = 0")
 	if a == "95" and s == "*" and b == "1":
 		print ("95 * 1 = 95")
 	if a == "95" and s == "*" and b == "2":
@@ -59005,6 +60201,8 @@ def Calculate(a, s, b):
 		print ("95 * 99 = 9405")
 	if a == "95" and s == "*" and b == "100":
 		print ("95 * 100 = 9500")
+	if a == "96" and s == "*" and b == "0":
+		print ("96 * 0 = 0")
 	if a == "96" and s == "*" and b == "1":
 		print ("96 * 1 = 96")
 	if a == "96" and s == "*" and b == "2":
@@ -59205,6 +60403,8 @@ def Calculate(a, s, b):
 		print ("96 * 99 = 9504")
 	if a == "96" and s == "*" and b == "100":
 		print ("96 * 100 = 9600")
+	if a == "97" and s == "*" and b == "0":
+		print ("97 * 0 = 0")
 	if a == "97" and s == "*" and b == "1":
 		print ("97 * 1 = 97")
 	if a == "97" and s == "*" and b == "2":
@@ -59405,6 +60605,8 @@ def Calculate(a, s, b):
 		print ("97 * 99 = 9603")
 	if a == "97" and s == "*" and b == "100":
 		print ("97 * 100 = 9700")
+	if a == "98" and s == "*" and b == "0":
+		print ("98 * 0 = 0")
 	if a == "98" and s == "*" and b == "1":
 		print ("98 * 1 = 98")
 	if a == "98" and s == "*" and b == "2":
@@ -59605,6 +60807,8 @@ def Calculate(a, s, b):
 		print ("98 * 99 = 9702")
 	if a == "98" and s == "*" and b == "100":
 		print ("98 * 100 = 9800")
+	if a == "99" and s == "*" and b == "0":
+		print ("99 * 0 = 0")
 	if a == "99" and s == "*" and b == "1":
 		print ("99 * 1 = 99")
 	if a == "99" and s == "*" and b == "2":
@@ -59805,6 +61009,8 @@ def Calculate(a, s, b):
 		print ("99 * 99 = 9801")
 	if a == "99" and s == "*" and b == "100":
 		print ("99 * 100 = 9900")
+	if a == "100" and s == "*" and b == "0":
+		print ("100 * 0 = 0")
 	if a == "100" and s == "*" and b == "1":
 		print ("100 * 1 = 100")
 	if a == "100" and s == "*" and b == "2":
@@ -60005,6 +61211,210 @@ def Calculate(a, s, b):
 		print ("100 * 99 = 9900")
 	if a == "100" and s == "*" and b == "100":
 		print ("100 * 100 = 10000")
+	if a == "0" and s == "/" and b == "0":
+		print ("0 / 0 = inf")
+	if a == "0" and s == "/" and b == "1":
+		print ("0 / 1 = 0.0")
+	if a == "0" and s == "/" and b == "2":
+		print ("0 / 2 = 0.0")
+	if a == "0" and s == "/" and b == "3":
+		print ("0 / 3 = 0.0")
+	if a == "0" and s == "/" and b == "4":
+		print ("0 / 4 = 0.0")
+	if a == "0" and s == "/" and b == "5":
+		print ("0 / 5 = 0.0")
+	if a == "0" and s == "/" and b == "6":
+		print ("0 / 6 = 0.0")
+	if a == "0" and s == "/" and b == "7":
+		print ("0 / 7 = 0.0")
+	if a == "0" and s == "/" and b == "8":
+		print ("0 / 8 = 0.0")
+	if a == "0" and s == "/" and b == "9":
+		print ("0 / 9 = 0.0")
+	if a == "0" and s == "/" and b == "10":
+		print ("0 / 10 = 0.0")
+	if a == "0" and s == "/" and b == "11":
+		print ("0 / 11 = 0.0")
+	if a == "0" and s == "/" and b == "12":
+		print ("0 / 12 = 0.0")
+	if a == "0" and s == "/" and b == "13":
+		print ("0 / 13 = 0.0")
+	if a == "0" and s == "/" and b == "14":
+		print ("0 / 14 = 0.0")
+	if a == "0" and s == "/" and b == "15":
+		print ("0 / 15 = 0.0")
+	if a == "0" and s == "/" and b == "16":
+		print ("0 / 16 = 0.0")
+	if a == "0" and s == "/" and b == "17":
+		print ("0 / 17 = 0.0")
+	if a == "0" and s == "/" and b == "18":
+		print ("0 / 18 = 0.0")
+	if a == "0" and s == "/" and b == "19":
+		print ("0 / 19 = 0.0")
+	if a == "0" and s == "/" and b == "20":
+		print ("0 / 20 = 0.0")
+	if a == "0" and s == "/" and b == "21":
+		print ("0 / 21 = 0.0")
+	if a == "0" and s == "/" and b == "22":
+		print ("0 / 22 = 0.0")
+	if a == "0" and s == "/" and b == "23":
+		print ("0 / 23 = 0.0")
+	if a == "0" and s == "/" and b == "24":
+		print ("0 / 24 = 0.0")
+	if a == "0" and s == "/" and b == "25":
+		print ("0 / 25 = 0.0")
+	if a == "0" and s == "/" and b == "26":
+		print ("0 / 26 = 0.0")
+	if a == "0" and s == "/" and b == "27":
+		print ("0 / 27 = 0.0")
+	if a == "0" and s == "/" and b == "28":
+		print ("0 / 28 = 0.0")
+	if a == "0" and s == "/" and b == "29":
+		print ("0 / 29 = 0.0")
+	if a == "0" and s == "/" and b == "30":
+		print ("0 / 30 = 0.0")
+	if a == "0" and s == "/" and b == "31":
+		print ("0 / 31 = 0.0")
+	if a == "0" and s == "/" and b == "32":
+		print ("0 / 32 = 0.0")
+	if a == "0" and s == "/" and b == "33":
+		print ("0 / 33 = 0.0")
+	if a == "0" and s == "/" and b == "34":
+		print ("0 / 34 = 0.0")
+	if a == "0" and s == "/" and b == "35":
+		print ("0 / 35 = 0.0")
+	if a == "0" and s == "/" and b == "36":
+		print ("0 / 36 = 0.0")
+	if a == "0" and s == "/" and b == "37":
+		print ("0 / 37 = 0.0")
+	if a == "0" and s == "/" and b == "38":
+		print ("0 / 38 = 0.0")
+	if a == "0" and s == "/" and b == "39":
+		print ("0 / 39 = 0.0")
+	if a == "0" and s == "/" and b == "40":
+		print ("0 / 40 = 0.0")
+	if a == "0" and s == "/" and b == "41":
+		print ("0 / 41 = 0.0")
+	if a == "0" and s == "/" and b == "42":
+		print ("0 / 42 = 0.0")
+	if a == "0" and s == "/" and b == "43":
+		print ("0 / 43 = 0.0")
+	if a == "0" and s == "/" and b == "44":
+		print ("0 / 44 = 0.0")
+	if a == "0" and s == "/" and b == "45":
+		print ("0 / 45 = 0.0")
+	if a == "0" and s == "/" and b == "46":
+		print ("0 / 46 = 0.0")
+	if a == "0" and s == "/" and b == "47":
+		print ("0 / 47 = 0.0")
+	if a == "0" and s == "/" and b == "48":
+		print ("0 / 48 = 0.0")
+	if a == "0" and s == "/" and b == "49":
+		print ("0 / 49 = 0.0")
+	if a == "0" and s == "/" and b == "50":
+		print ("0 / 50 = 0.0")
+	if a == "0" and s == "/" and b == "51":
+		print ("0 / 51 = 0.0")
+	if a == "0" and s == "/" and b == "52":
+		print ("0 / 52 = 0.0")
+	if a == "0" and s == "/" and b == "53":
+		print ("0 / 53 = 0.0")
+	if a == "0" and s == "/" and b == "54":
+		print ("0 / 54 = 0.0")
+	if a == "0" and s == "/" and b == "55":
+		print ("0 / 55 = 0.0")
+	if a == "0" and s == "/" and b == "56":
+		print ("0 / 56 = 0.0")
+	if a == "0" and s == "/" and b == "57":
+		print ("0 / 57 = 0.0")
+	if a == "0" and s == "/" and b == "58":
+		print ("0 / 58 = 0.0")
+	if a == "0" and s == "/" and b == "59":
+		print ("0 / 59 = 0.0")
+	if a == "0" and s == "/" and b == "60":
+		print ("0 / 60 = 0.0")
+	if a == "0" and s == "/" and b == "61":
+		print ("0 / 61 = 0.0")
+	if a == "0" and s == "/" and b == "62":
+		print ("0 / 62 = 0.0")
+	if a == "0" and s == "/" and b == "63":
+		print ("0 / 63 = 0.0")
+	if a == "0" and s == "/" and b == "64":
+		print ("0 / 64 = 0.0")
+	if a == "0" and s == "/" and b == "65":
+		print ("0 / 65 = 0.0")
+	if a == "0" and s == "/" and b == "66":
+		print ("0 / 66 = 0.0")
+	if a == "0" and s == "/" and b == "67":
+		print ("0 / 67 = 0.0")
+	if a == "0" and s == "/" and b == "68":
+		print ("0 / 68 = 0.0")
+	if a == "0" and s == "/" and b == "69":
+		print ("0 / 69 = 0.0")
+	if a == "0" and s == "/" and b == "70":
+		print ("0 / 70 = 0.0")
+	if a == "0" and s == "/" and b == "71":
+		print ("0 / 71 = 0.0")
+	if a == "0" and s == "/" and b == "72":
+		print ("0 / 72 = 0.0")
+	if a == "0" and s == "/" and b == "73":
+		print ("0 / 73 = 0.0")
+	if a == "0" and s == "/" and b == "74":
+		print ("0 / 74 = 0.0")
+	if a == "0" and s == "/" and b == "75":
+		print ("0 / 75 = 0.0")
+	if a == "0" and s == "/" and b == "76":
+		print ("0 / 76 = 0.0")
+	if a == "0" and s == "/" and b == "77":
+		print ("0 / 77 = 0.0")
+	if a == "0" and s == "/" and b == "78":
+		print ("0 / 78 = 0.0")
+	if a == "0" and s == "/" and b == "79":
+		print ("0 / 79 = 0.0")
+	if a == "0" and s == "/" and b == "80":
+		print ("0 / 80 = 0.0")
+	if a == "0" and s == "/" and b == "81":
+		print ("0 / 81 = 0.0")
+	if a == "0" and s == "/" and b == "82":
+		print ("0 / 82 = 0.0")
+	if a == "0" and s == "/" and b == "83":
+		print ("0 / 83 = 0.0")
+	if a == "0" and s == "/" and b == "84":
+		print ("0 / 84 = 0.0")
+	if a == "0" and s == "/" and b == "85":
+		print ("0 / 85 = 0.0")
+	if a == "0" and s == "/" and b == "86":
+		print ("0 / 86 = 0.0")
+	if a == "0" and s == "/" and b == "87":
+		print ("0 / 87 = 0.0")
+	if a == "0" and s == "/" and b == "88":
+		print ("0 / 88 = 0.0")
+	if a == "0" and s == "/" and b == "89":
+		print ("0 / 89 = 0.0")
+	if a == "0" and s == "/" and b == "90":
+		print ("0 / 90 = 0.0")
+	if a == "0" and s == "/" and b == "91":
+		print ("0 / 91 = 0.0")
+	if a == "0" and s == "/" and b == "92":
+		print ("0 / 92 = 0.0")
+	if a == "0" and s == "/" and b == "93":
+		print ("0 / 93 = 0.0")
+	if a == "0" and s == "/" and b == "94":
+		print ("0 / 94 = 0.0")
+	if a == "0" and s == "/" and b == "95":
+		print ("0 / 95 = 0.0")
+	if a == "0" and s == "/" and b == "96":
+		print ("0 / 96 = 0.0")
+	if a == "0" and s == "/" and b == "97":
+		print ("0 / 97 = 0.0")
+	if a == "0" and s == "/" and b == "98":
+		print ("0 / 98 = 0.0")
+	if a == "0" and s == "/" and b == "99":
+		print ("0 / 99 = 0.0")
+	if a == "0" and s == "/" and b == "100":
+		print ("0 / 100 = 0.0")
+	if a == "1" and s == "/" and b == "0":
+		print ("1 / 0 = inf")
 	if a == "1" and s == "/" and b == "1":
 		print ("1 / 1 = 1.0")
 	if a == "1" and s == "/" and b == "2":
@@ -60205,6 +61615,8 @@ def Calculate(a, s, b):
 		print ("1 / 99 = 0.010101010101010102")
 	if a == "1" and s == "/" and b == "100":
 		print ("1 / 100 = 0.01")
+	if a == "2" and s == "/" and b == "0":
+		print ("2 / 0 = inf")
 	if a == "2" and s == "/" and b == "1":
 		print ("2 / 1 = 2.0")
 	if a == "2" and s == "/" and b == "2":
@@ -60405,6 +61817,8 @@ def Calculate(a, s, b):
 		print ("2 / 99 = 0.020202020202020204")
 	if a == "2" and s == "/" and b == "100":
 		print ("2 / 100 = 0.02")
+	if a == "3" and s == "/" and b == "0":
+		print ("3 / 0 = inf")
 	if a == "3" and s == "/" and b == "1":
 		print ("3 / 1 = 3.0")
 	if a == "3" and s == "/" and b == "2":
@@ -60605,6 +62019,8 @@ def Calculate(a, s, b):
 		print ("3 / 99 = 0.030303030303030304")
 	if a == "3" and s == "/" and b == "100":
 		print ("3 / 100 = 0.03")
+	if a == "4" and s == "/" and b == "0":
+		print ("4 / 0 = inf")
 	if a == "4" and s == "/" and b == "1":
 		print ("4 / 1 = 4.0")
 	if a == "4" and s == "/" and b == "2":
@@ -60805,6 +62221,8 @@ def Calculate(a, s, b):
 		print ("4 / 99 = 0.04040404040404041")
 	if a == "4" and s == "/" and b == "100":
 		print ("4 / 100 = 0.04")
+	if a == "5" and s == "/" and b == "0":
+		print ("5 / 0 = inf")
 	if a == "5" and s == "/" and b == "1":
 		print ("5 / 1 = 5.0")
 	if a == "5" and s == "/" and b == "2":
@@ -61005,6 +62423,8 @@ def Calculate(a, s, b):
 		print ("5 / 99 = 0.050505050505050504")
 	if a == "5" and s == "/" and b == "100":
 		print ("5 / 100 = 0.05")
+	if a == "6" and s == "/" and b == "0":
+		print ("6 / 0 = inf")
 	if a == "6" and s == "/" and b == "1":
 		print ("6 / 1 = 6.0")
 	if a == "6" and s == "/" and b == "2":
@@ -61205,6 +62625,8 @@ def Calculate(a, s, b):
 		print ("6 / 99 = 0.06060606060606061")
 	if a == "6" and s == "/" and b == "100":
 		print ("6 / 100 = 0.06")
+	if a == "7" and s == "/" and b == "0":
+		print ("7 / 0 = inf")
 	if a == "7" and s == "/" and b == "1":
 		print ("7 / 1 = 7.0")
 	if a == "7" and s == "/" and b == "2":
@@ -61405,6 +62827,8 @@ def Calculate(a, s, b):
 		print ("7 / 99 = 0.0707070707070707")
 	if a == "7" and s == "/" and b == "100":
 		print ("7 / 100 = 0.07")
+	if a == "8" and s == "/" and b == "0":
+		print ("8 / 0 = inf")
 	if a == "8" and s == "/" and b == "1":
 		print ("8 / 1 = 8.0")
 	if a == "8" and s == "/" and b == "2":
@@ -61605,6 +63029,8 @@ def Calculate(a, s, b):
 		print ("8 / 99 = 0.08080808080808081")
 	if a == "8" and s == "/" and b == "100":
 		print ("8 / 100 = 0.08")
+	if a == "9" and s == "/" and b == "0":
+		print ("9 / 0 = inf")
 	if a == "9" and s == "/" and b == "1":
 		print ("9 / 1 = 9.0")
 	if a == "9" and s == "/" and b == "2":
@@ -61805,6 +63231,8 @@ def Calculate(a, s, b):
 		print ("9 / 99 = 0.09090909090909091")
 	if a == "9" and s == "/" and b == "100":
 		print ("9 / 100 = 0.09")
+	if a == "10" and s == "/" and b == "0":
+		print ("10 / 0 = inf")
 	if a == "10" and s == "/" and b == "1":
 		print ("10 / 1 = 10.0")
 	if a == "10" and s == "/" and b == "2":
@@ -62005,6 +63433,8 @@ def Calculate(a, s, b):
 		print ("10 / 99 = 0.10101010101010101")
 	if a == "10" and s == "/" and b == "100":
 		print ("10 / 100 = 0.1")
+	if a == "11" and s == "/" and b == "0":
+		print ("11 / 0 = inf")
 	if a == "11" and s == "/" and b == "1":
 		print ("11 / 1 = 11.0")
 	if a == "11" and s == "/" and b == "2":
@@ -62205,6 +63635,8 @@ def Calculate(a, s, b):
 		print ("11 / 99 = 0.1111111111111111")
 	if a == "11" and s == "/" and b == "100":
 		print ("11 / 100 = 0.11")
+	if a == "12" and s == "/" and b == "0":
+		print ("12 / 0 = inf")
 	if a == "12" and s == "/" and b == "1":
 		print ("12 / 1 = 12.0")
 	if a == "12" and s == "/" and b == "2":
@@ -62405,6 +63837,8 @@ def Calculate(a, s, b):
 		print ("12 / 99 = 0.12121212121212122")
 	if a == "12" and s == "/" and b == "100":
 		print ("12 / 100 = 0.12")
+	if a == "13" and s == "/" and b == "0":
+		print ("13 / 0 = inf")
 	if a == "13" and s == "/" and b == "1":
 		print ("13 / 1 = 13.0")
 	if a == "13" and s == "/" and b == "2":
@@ -62605,6 +64039,8 @@ def Calculate(a, s, b):
 		print ("13 / 99 = 0.13131313131313133")
 	if a == "13" and s == "/" and b == "100":
 		print ("13 / 100 = 0.13")
+	if a == "14" and s == "/" and b == "0":
+		print ("14 / 0 = inf")
 	if a == "14" and s == "/" and b == "1":
 		print ("14 / 1 = 14.0")
 	if a == "14" and s == "/" and b == "2":
@@ -62805,6 +64241,8 @@ def Calculate(a, s, b):
 		print ("14 / 99 = 0.1414141414141414")
 	if a == "14" and s == "/" and b == "100":
 		print ("14 / 100 = 0.14")
+	if a == "15" and s == "/" and b == "0":
+		print ("15 / 0 = inf")
 	if a == "15" and s == "/" and b == "1":
 		print ("15 / 1 = 15.0")
 	if a == "15" and s == "/" and b == "2":
@@ -63005,6 +64443,8 @@ def Calculate(a, s, b):
 		print ("15 / 99 = 0.15151515151515152")
 	if a == "15" and s == "/" and b == "100":
 		print ("15 / 100 = 0.15")
+	if a == "16" and s == "/" and b == "0":
+		print ("16 / 0 = inf")
 	if a == "16" and s == "/" and b == "1":
 		print ("16 / 1 = 16.0")
 	if a == "16" and s == "/" and b == "2":
@@ -63205,6 +64645,8 @@ def Calculate(a, s, b):
 		print ("16 / 99 = 0.16161616161616163")
 	if a == "16" and s == "/" and b == "100":
 		print ("16 / 100 = 0.16")
+	if a == "17" and s == "/" and b == "0":
+		print ("17 / 0 = inf")
 	if a == "17" and s == "/" and b == "1":
 		print ("17 / 1 = 17.0")
 	if a == "17" and s == "/" and b == "2":
@@ -63405,6 +64847,8 @@ def Calculate(a, s, b):
 		print ("17 / 99 = 0.1717171717171717")
 	if a == "17" and s == "/" and b == "100":
 		print ("17 / 100 = 0.17")
+	if a == "18" and s == "/" and b == "0":
+		print ("18 / 0 = inf")
 	if a == "18" and s == "/" and b == "1":
 		print ("18 / 1 = 18.0")
 	if a == "18" and s == "/" and b == "2":
@@ -63605,6 +65049,8 @@ def Calculate(a, s, b):
 		print ("18 / 99 = 0.18181818181818182")
 	if a == "18" and s == "/" and b == "100":
 		print ("18 / 100 = 0.18")
+	if a == "19" and s == "/" and b == "0":
+		print ("19 / 0 = inf")
 	if a == "19" and s == "/" and b == "1":
 		print ("19 / 1 = 19.0")
 	if a == "19" and s == "/" and b == "2":
@@ -63805,6 +65251,8 @@ def Calculate(a, s, b):
 		print ("19 / 99 = 0.1919191919191919")
 	if a == "19" and s == "/" and b == "100":
 		print ("19 / 100 = 0.19")
+	if a == "20" and s == "/" and b == "0":
+		print ("20 / 0 = inf")
 	if a == "20" and s == "/" and b == "1":
 		print ("20 / 1 = 20.0")
 	if a == "20" and s == "/" and b == "2":
@@ -64005,6 +65453,8 @@ def Calculate(a, s, b):
 		print ("20 / 99 = 0.20202020202020202")
 	if a == "20" and s == "/" and b == "100":
 		print ("20 / 100 = 0.2")
+	if a == "21" and s == "/" and b == "0":
+		print ("21 / 0 = inf")
 	if a == "21" and s == "/" and b == "1":
 		print ("21 / 1 = 21.0")
 	if a == "21" and s == "/" and b == "2":
@@ -64205,6 +65655,8 @@ def Calculate(a, s, b):
 		print ("21 / 99 = 0.21212121212121213")
 	if a == "21" and s == "/" and b == "100":
 		print ("21 / 100 = 0.21")
+	if a == "22" and s == "/" and b == "0":
+		print ("22 / 0 = inf")
 	if a == "22" and s == "/" and b == "1":
 		print ("22 / 1 = 22.0")
 	if a == "22" and s == "/" and b == "2":
@@ -64405,6 +65857,8 @@ def Calculate(a, s, b):
 		print ("22 / 99 = 0.2222222222222222")
 	if a == "22" and s == "/" and b == "100":
 		print ("22 / 100 = 0.22")
+	if a == "23" and s == "/" and b == "0":
+		print ("23 / 0 = inf")
 	if a == "23" and s == "/" and b == "1":
 		print ("23 / 1 = 23.0")
 	if a == "23" and s == "/" and b == "2":
@@ -64605,6 +66059,8 @@ def Calculate(a, s, b):
 		print ("23 / 99 = 0.23232323232323232")
 	if a == "23" and s == "/" and b == "100":
 		print ("23 / 100 = 0.23")
+	if a == "24" and s == "/" and b == "0":
+		print ("24 / 0 = inf")
 	if a == "24" and s == "/" and b == "1":
 		print ("24 / 1 = 24.0")
 	if a == "24" and s == "/" and b == "2":
@@ -64805,6 +66261,8 @@ def Calculate(a, s, b):
 		print ("24 / 99 = 0.24242424242424243")
 	if a == "24" and s == "/" and b == "100":
 		print ("24 / 100 = 0.24")
+	if a == "25" and s == "/" and b == "0":
+		print ("25 / 0 = inf")
 	if a == "25" and s == "/" and b == "1":
 		print ("25 / 1 = 25.0")
 	if a == "25" and s == "/" and b == "2":
@@ -65005,6 +66463,8 @@ def Calculate(a, s, b):
 		print ("25 / 99 = 0.25252525252525254")
 	if a == "25" and s == "/" and b == "100":
 		print ("25 / 100 = 0.25")
+	if a == "26" and s == "/" and b == "0":
+		print ("26 / 0 = inf")
 	if a == "26" and s == "/" and b == "1":
 		print ("26 / 1 = 26.0")
 	if a == "26" and s == "/" and b == "2":
@@ -65205,6 +66665,8 @@ def Calculate(a, s, b):
 		print ("26 / 99 = 0.26262626262626265")
 	if a == "26" and s == "/" and b == "100":
 		print ("26 / 100 = 0.26")
+	if a == "27" and s == "/" and b == "0":
+		print ("27 / 0 = inf")
 	if a == "27" and s == "/" and b == "1":
 		print ("27 / 1 = 27.0")
 	if a == "27" and s == "/" and b == "2":
@@ -65405,6 +66867,8 @@ def Calculate(a, s, b):
 		print ("27 / 99 = 0.2727272727272727")
 	if a == "27" and s == "/" and b == "100":
 		print ("27 / 100 = 0.27")
+	if a == "28" and s == "/" and b == "0":
+		print ("28 / 0 = inf")
 	if a == "28" and s == "/" and b == "1":
 		print ("28 / 1 = 28.0")
 	if a == "28" and s == "/" and b == "2":
@@ -65605,6 +67069,8 @@ def Calculate(a, s, b):
 		print ("28 / 99 = 0.2828282828282828")
 	if a == "28" and s == "/" and b == "100":
 		print ("28 / 100 = 0.28")
+	if a == "29" and s == "/" and b == "0":
+		print ("29 / 0 = inf")
 	if a == "29" and s == "/" and b == "1":
 		print ("29 / 1 = 29.0")
 	if a == "29" and s == "/" and b == "2":
@@ -65805,6 +67271,8 @@ def Calculate(a, s, b):
 		print ("29 / 99 = 0.29292929292929293")
 	if a == "29" and s == "/" and b == "100":
 		print ("29 / 100 = 0.29")
+	if a == "30" and s == "/" and b == "0":
+		print ("30 / 0 = inf")
 	if a == "30" and s == "/" and b == "1":
 		print ("30 / 1 = 30.0")
 	if a == "30" and s == "/" and b == "2":
@@ -66005,6 +67473,8 @@ def Calculate(a, s, b):
 		print ("30 / 99 = 0.30303030303030304")
 	if a == "30" and s == "/" and b == "100":
 		print ("30 / 100 = 0.3")
+	if a == "31" and s == "/" and b == "0":
+		print ("31 / 0 = inf")
 	if a == "31" and s == "/" and b == "1":
 		print ("31 / 1 = 31.0")
 	if a == "31" and s == "/" and b == "2":
@@ -66205,6 +67675,8 @@ def Calculate(a, s, b):
 		print ("31 / 99 = 0.31313131313131315")
 	if a == "31" and s == "/" and b == "100":
 		print ("31 / 100 = 0.31")
+	if a == "32" and s == "/" and b == "0":
+		print ("32 / 0 = inf")
 	if a == "32" and s == "/" and b == "1":
 		print ("32 / 1 = 32.0")
 	if a == "32" and s == "/" and b == "2":
@@ -66405,6 +67877,8 @@ def Calculate(a, s, b):
 		print ("32 / 99 = 0.32323232323232326")
 	if a == "32" and s == "/" and b == "100":
 		print ("32 / 100 = 0.32")
+	if a == "33" and s == "/" and b == "0":
+		print ("33 / 0 = inf")
 	if a == "33" and s == "/" and b == "1":
 		print ("33 / 1 = 33.0")
 	if a == "33" and s == "/" and b == "2":
@@ -66605,6 +68079,8 @@ def Calculate(a, s, b):
 		print ("33 / 99 = 0.3333333333333333")
 	if a == "33" and s == "/" and b == "100":
 		print ("33 / 100 = 0.33")
+	if a == "34" and s == "/" and b == "0":
+		print ("34 / 0 = inf")
 	if a == "34" and s == "/" and b == "1":
 		print ("34 / 1 = 34.0")
 	if a == "34" and s == "/" and b == "2":
@@ -66805,6 +68281,8 @@ def Calculate(a, s, b):
 		print ("34 / 99 = 0.3434343434343434")
 	if a == "34" and s == "/" and b == "100":
 		print ("34 / 100 = 0.34")
+	if a == "35" and s == "/" and b == "0":
+		print ("35 / 0 = inf")
 	if a == "35" and s == "/" and b == "1":
 		print ("35 / 1 = 35.0")
 	if a == "35" and s == "/" and b == "2":
@@ -67005,6 +68483,8 @@ def Calculate(a, s, b):
 		print ("35 / 99 = 0.35353535353535354")
 	if a == "35" and s == "/" and b == "100":
 		print ("35 / 100 = 0.35")
+	if a == "36" and s == "/" and b == "0":
+		print ("36 / 0 = inf")
 	if a == "36" and s == "/" and b == "1":
 		print ("36 / 1 = 36.0")
 	if a == "36" and s == "/" and b == "2":
@@ -67205,6 +68685,8 @@ def Calculate(a, s, b):
 		print ("36 / 99 = 0.36363636363636365")
 	if a == "36" and s == "/" and b == "100":
 		print ("36 / 100 = 0.36")
+	if a == "37" and s == "/" and b == "0":
+		print ("37 / 0 = inf")
 	if a == "37" and s == "/" and b == "1":
 		print ("37 / 1 = 37.0")
 	if a == "37" and s == "/" and b == "2":
@@ -67405,6 +68887,8 @@ def Calculate(a, s, b):
 		print ("37 / 99 = 0.37373737373737376")
 	if a == "37" and s == "/" and b == "100":
 		print ("37 / 100 = 0.37")
+	if a == "38" and s == "/" and b == "0":
+		print ("38 / 0 = inf")
 	if a == "38" and s == "/" and b == "1":
 		print ("38 / 1 = 38.0")
 	if a == "38" and s == "/" and b == "2":
@@ -67605,6 +69089,8 @@ def Calculate(a, s, b):
 		print ("38 / 99 = 0.3838383838383838")
 	if a == "38" and s == "/" and b == "100":
 		print ("38 / 100 = 0.38")
+	if a == "39" and s == "/" and b == "0":
+		print ("39 / 0 = inf")
 	if a == "39" and s == "/" and b == "1":
 		print ("39 / 1 = 39.0")
 	if a == "39" and s == "/" and b == "2":
@@ -67805,6 +69291,8 @@ def Calculate(a, s, b):
 		print ("39 / 99 = 0.3939393939393939")
 	if a == "39" and s == "/" and b == "100":
 		print ("39 / 100 = 0.39")
+	if a == "40" and s == "/" and b == "0":
+		print ("40 / 0 = inf")
 	if a == "40" and s == "/" and b == "1":
 		print ("40 / 1 = 40.0")
 	if a == "40" and s == "/" and b == "2":
@@ -68005,6 +69493,8 @@ def Calculate(a, s, b):
 		print ("40 / 99 = 0.40404040404040403")
 	if a == "40" and s == "/" and b == "100":
 		print ("40 / 100 = 0.4")
+	if a == "41" and s == "/" and b == "0":
+		print ("41 / 0 = inf")
 	if a == "41" and s == "/" and b == "1":
 		print ("41 / 1 = 41.0")
 	if a == "41" and s == "/" and b == "2":
@@ -68205,6 +69695,8 @@ def Calculate(a, s, b):
 		print ("41 / 99 = 0.41414141414141414")
 	if a == "41" and s == "/" and b == "100":
 		print ("41 / 100 = 0.41")
+	if a == "42" and s == "/" and b == "0":
+		print ("42 / 0 = inf")
 	if a == "42" and s == "/" and b == "1":
 		print ("42 / 1 = 42.0")
 	if a == "42" and s == "/" and b == "2":
@@ -68405,6 +69897,8 @@ def Calculate(a, s, b):
 		print ("42 / 99 = 0.42424242424242425")
 	if a == "42" and s == "/" and b == "100":
 		print ("42 / 100 = 0.42")
+	if a == "43" and s == "/" and b == "0":
+		print ("43 / 0 = inf")
 	if a == "43" and s == "/" and b == "1":
 		print ("43 / 1 = 43.0")
 	if a == "43" and s == "/" and b == "2":
@@ -68605,6 +70099,8 @@ def Calculate(a, s, b):
 		print ("43 / 99 = 0.43434343434343436")
 	if a == "43" and s == "/" and b == "100":
 		print ("43 / 100 = 0.43")
+	if a == "44" and s == "/" and b == "0":
+		print ("44 / 0 = inf")
 	if a == "44" and s == "/" and b == "1":
 		print ("44 / 1 = 44.0")
 	if a == "44" and s == "/" and b == "2":
@@ -68805,6 +70301,8 @@ def Calculate(a, s, b):
 		print ("44 / 99 = 0.4444444444444444")
 	if a == "44" and s == "/" and b == "100":
 		print ("44 / 100 = 0.44")
+	if a == "45" and s == "/" and b == "0":
+		print ("45 / 0 = inf")
 	if a == "45" and s == "/" and b == "1":
 		print ("45 / 1 = 45.0")
 	if a == "45" and s == "/" and b == "2":
@@ -69005,6 +70503,8 @@ def Calculate(a, s, b):
 		print ("45 / 99 = 0.45454545454545453")
 	if a == "45" and s == "/" and b == "100":
 		print ("45 / 100 = 0.45")
+	if a == "46" and s == "/" and b == "0":
+		print ("46 / 0 = inf")
 	if a == "46" and s == "/" and b == "1":
 		print ("46 / 1 = 46.0")
 	if a == "46" and s == "/" and b == "2":
@@ -69205,6 +70705,8 @@ def Calculate(a, s, b):
 		print ("46 / 99 = 0.46464646464646464")
 	if a == "46" and s == "/" and b == "100":
 		print ("46 / 100 = 0.46")
+	if a == "47" and s == "/" and b == "0":
+		print ("47 / 0 = inf")
 	if a == "47" and s == "/" and b == "1":
 		print ("47 / 1 = 47.0")
 	if a == "47" and s == "/" and b == "2":
@@ -69405,6 +70907,8 @@ def Calculate(a, s, b):
 		print ("47 / 99 = 0.47474747474747475")
 	if a == "47" and s == "/" and b == "100":
 		print ("47 / 100 = 0.47")
+	if a == "48" and s == "/" and b == "0":
+		print ("48 / 0 = inf")
 	if a == "48" and s == "/" and b == "1":
 		print ("48 / 1 = 48.0")
 	if a == "48" and s == "/" and b == "2":
@@ -69605,6 +71109,8 @@ def Calculate(a, s, b):
 		print ("48 / 99 = 0.48484848484848486")
 	if a == "48" and s == "/" and b == "100":
 		print ("48 / 100 = 0.48")
+	if a == "49" and s == "/" and b == "0":
+		print ("49 / 0 = inf")
 	if a == "49" and s == "/" and b == "1":
 		print ("49 / 1 = 49.0")
 	if a == "49" and s == "/" and b == "2":
@@ -69805,6 +71311,8 @@ def Calculate(a, s, b):
 		print ("49 / 99 = 0.494949494949495")
 	if a == "49" and s == "/" and b == "100":
 		print ("49 / 100 = 0.49")
+	if a == "50" and s == "/" and b == "0":
+		print ("50 / 0 = inf")
 	if a == "50" and s == "/" and b == "1":
 		print ("50 / 1 = 50.0")
 	if a == "50" and s == "/" and b == "2":
@@ -70005,6 +71513,8 @@ def Calculate(a, s, b):
 		print ("50 / 99 = 0.5050505050505051")
 	if a == "50" and s == "/" and b == "100":
 		print ("50 / 100 = 0.5")
+	if a == "51" and s == "/" and b == "0":
+		print ("51 / 0 = inf")
 	if a == "51" and s == "/" and b == "1":
 		print ("51 / 1 = 51.0")
 	if a == "51" and s == "/" and b == "2":
@@ -70205,6 +71715,8 @@ def Calculate(a, s, b):
 		print ("51 / 99 = 0.5151515151515151")
 	if a == "51" and s == "/" and b == "100":
 		print ("51 / 100 = 0.51")
+	if a == "52" and s == "/" and b == "0":
+		print ("52 / 0 = inf")
 	if a == "52" and s == "/" and b == "1":
 		print ("52 / 1 = 52.0")
 	if a == "52" and s == "/" and b == "2":
@@ -70405,6 +71917,8 @@ def Calculate(a, s, b):
 		print ("52 / 99 = 0.5252525252525253")
 	if a == "52" and s == "/" and b == "100":
 		print ("52 / 100 = 0.52")
+	if a == "53" and s == "/" and b == "0":
+		print ("53 / 0 = inf")
 	if a == "53" and s == "/" and b == "1":
 		print ("53 / 1 = 53.0")
 	if a == "53" and s == "/" and b == "2":
@@ -70605,6 +72119,8 @@ def Calculate(a, s, b):
 		print ("53 / 99 = 0.5353535353535354")
 	if a == "53" and s == "/" and b == "100":
 		print ("53 / 100 = 0.53")
+	if a == "54" and s == "/" and b == "0":
+		print ("54 / 0 = inf")
 	if a == "54" and s == "/" and b == "1":
 		print ("54 / 1 = 54.0")
 	if a == "54" and s == "/" and b == "2":
@@ -70805,6 +72321,8 @@ def Calculate(a, s, b):
 		print ("54 / 99 = 0.5454545454545454")
 	if a == "54" and s == "/" and b == "100":
 		print ("54 / 100 = 0.54")
+	if a == "55" and s == "/" and b == "0":
+		print ("55 / 0 = inf")
 	if a == "55" and s == "/" and b == "1":
 		print ("55 / 1 = 55.0")
 	if a == "55" and s == "/" and b == "2":
@@ -71005,6 +72523,8 @@ def Calculate(a, s, b):
 		print ("55 / 99 = 0.5555555555555556")
 	if a == "55" and s == "/" and b == "100":
 		print ("55 / 100 = 0.55")
+	if a == "56" and s == "/" and b == "0":
+		print ("56 / 0 = inf")
 	if a == "56" and s == "/" and b == "1":
 		print ("56 / 1 = 56.0")
 	if a == "56" and s == "/" and b == "2":
@@ -71205,6 +72725,8 @@ def Calculate(a, s, b):
 		print ("56 / 99 = 0.5656565656565656")
 	if a == "56" and s == "/" and b == "100":
 		print ("56 / 100 = 0.56")
+	if a == "57" and s == "/" and b == "0":
+		print ("57 / 0 = inf")
 	if a == "57" and s == "/" and b == "1":
 		print ("57 / 1 = 57.0")
 	if a == "57" and s == "/" and b == "2":
@@ -71405,6 +72927,8 @@ def Calculate(a, s, b):
 		print ("57 / 99 = 0.5757575757575758")
 	if a == "57" and s == "/" and b == "100":
 		print ("57 / 100 = 0.57")
+	if a == "58" and s == "/" and b == "0":
+		print ("58 / 0 = inf")
 	if a == "58" and s == "/" and b == "1":
 		print ("58 / 1 = 58.0")
 	if a == "58" and s == "/" and b == "2":
@@ -71605,6 +73129,8 @@ def Calculate(a, s, b):
 		print ("58 / 99 = 0.5858585858585859")
 	if a == "58" and s == "/" and b == "100":
 		print ("58 / 100 = 0.58")
+	if a == "59" and s == "/" and b == "0":
+		print ("59 / 0 = inf")
 	if a == "59" and s == "/" and b == "1":
 		print ("59 / 1 = 59.0")
 	if a == "59" and s == "/" and b == "2":
@@ -71805,6 +73331,8 @@ def Calculate(a, s, b):
 		print ("59 / 99 = 0.5959595959595959")
 	if a == "59" and s == "/" and b == "100":
 		print ("59 / 100 = 0.59")
+	if a == "60" and s == "/" and b == "0":
+		print ("60 / 0 = inf")
 	if a == "60" and s == "/" and b == "1":
 		print ("60 / 1 = 60.0")
 	if a == "60" and s == "/" and b == "2":
@@ -72005,6 +73533,8 @@ def Calculate(a, s, b):
 		print ("60 / 99 = 0.6060606060606061")
 	if a == "60" and s == "/" and b == "100":
 		print ("60 / 100 = 0.6")
+	if a == "61" and s == "/" and b == "0":
+		print ("61 / 0 = inf")
 	if a == "61" and s == "/" and b == "1":
 		print ("61 / 1 = 61.0")
 	if a == "61" and s == "/" and b == "2":
@@ -72205,6 +73735,8 @@ def Calculate(a, s, b):
 		print ("61 / 99 = 0.6161616161616161")
 	if a == "61" and s == "/" and b == "100":
 		print ("61 / 100 = 0.61")
+	if a == "62" and s == "/" and b == "0":
+		print ("62 / 0 = inf")
 	if a == "62" and s == "/" and b == "1":
 		print ("62 / 1 = 62.0")
 	if a == "62" and s == "/" and b == "2":
@@ -72405,6 +73937,8 @@ def Calculate(a, s, b):
 		print ("62 / 99 = 0.6262626262626263")
 	if a == "62" and s == "/" and b == "100":
 		print ("62 / 100 = 0.62")
+	if a == "63" and s == "/" and b == "0":
+		print ("63 / 0 = inf")
 	if a == "63" and s == "/" and b == "1":
 		print ("63 / 1 = 63.0")
 	if a == "63" and s == "/" and b == "2":
@@ -72605,6 +74139,8 @@ def Calculate(a, s, b):
 		print ("63 / 99 = 0.6363636363636364")
 	if a == "63" and s == "/" and b == "100":
 		print ("63 / 100 = 0.63")
+	if a == "64" and s == "/" and b == "0":
+		print ("64 / 0 = inf")
 	if a == "64" and s == "/" and b == "1":
 		print ("64 / 1 = 64.0")
 	if a == "64" and s == "/" and b == "2":
@@ -72805,6 +74341,8 @@ def Calculate(a, s, b):
 		print ("64 / 99 = 0.6464646464646465")
 	if a == "64" and s == "/" and b == "100":
 		print ("64 / 100 = 0.64")
+	if a == "65" and s == "/" and b == "0":
+		print ("65 / 0 = inf")
 	if a == "65" and s == "/" and b == "1":
 		print ("65 / 1 = 65.0")
 	if a == "65" and s == "/" and b == "2":
@@ -73005,6 +74543,8 @@ def Calculate(a, s, b):
 		print ("65 / 99 = 0.6565656565656566")
 	if a == "65" and s == "/" and b == "100":
 		print ("65 / 100 = 0.65")
+	if a == "66" and s == "/" and b == "0":
+		print ("66 / 0 = inf")
 	if a == "66" and s == "/" and b == "1":
 		print ("66 / 1 = 66.0")
 	if a == "66" and s == "/" and b == "2":
@@ -73205,6 +74745,8 @@ def Calculate(a, s, b):
 		print ("66 / 99 = 0.6666666666666666")
 	if a == "66" and s == "/" and b == "100":
 		print ("66 / 100 = 0.66")
+	if a == "67" and s == "/" and b == "0":
+		print ("67 / 0 = inf")
 	if a == "67" and s == "/" and b == "1":
 		print ("67 / 1 = 67.0")
 	if a == "67" and s == "/" and b == "2":
@@ -73405,6 +74947,8 @@ def Calculate(a, s, b):
 		print ("67 / 99 = 0.6767676767676768")
 	if a == "67" and s == "/" and b == "100":
 		print ("67 / 100 = 0.67")
+	if a == "68" and s == "/" and b == "0":
+		print ("68 / 0 = inf")
 	if a == "68" and s == "/" and b == "1":
 		print ("68 / 1 = 68.0")
 	if a == "68" and s == "/" and b == "2":
@@ -73605,6 +75149,8 @@ def Calculate(a, s, b):
 		print ("68 / 99 = 0.6868686868686869")
 	if a == "68" and s == "/" and b == "100":
 		print ("68 / 100 = 0.68")
+	if a == "69" and s == "/" and b == "0":
+		print ("69 / 0 = inf")
 	if a == "69" and s == "/" and b == "1":
 		print ("69 / 1 = 69.0")
 	if a == "69" and s == "/" and b == "2":
@@ -73805,6 +75351,8 @@ def Calculate(a, s, b):
 		print ("69 / 99 = 0.696969696969697")
 	if a == "69" and s == "/" and b == "100":
 		print ("69 / 100 = 0.69")
+	if a == "70" and s == "/" and b == "0":
+		print ("70 / 0 = inf")
 	if a == "70" and s == "/" and b == "1":
 		print ("70 / 1 = 70.0")
 	if a == "70" and s == "/" and b == "2":
@@ -74005,6 +75553,8 @@ def Calculate(a, s, b):
 		print ("70 / 99 = 0.7070707070707071")
 	if a == "70" and s == "/" and b == "100":
 		print ("70 / 100 = 0.7")
+	if a == "71" and s == "/" and b == "0":
+		print ("71 / 0 = inf")
 	if a == "71" and s == "/" and b == "1":
 		print ("71 / 1 = 71.0")
 	if a == "71" and s == "/" and b == "2":
@@ -74205,6 +75755,8 @@ def Calculate(a, s, b):
 		print ("71 / 99 = 0.7171717171717171")
 	if a == "71" and s == "/" and b == "100":
 		print ("71 / 100 = 0.71")
+	if a == "72" and s == "/" and b == "0":
+		print ("72 / 0 = inf")
 	if a == "72" and s == "/" and b == "1":
 		print ("72 / 1 = 72.0")
 	if a == "72" and s == "/" and b == "2":
@@ -74405,6 +75957,8 @@ def Calculate(a, s, b):
 		print ("72 / 99 = 0.7272727272727273")
 	if a == "72" and s == "/" and b == "100":
 		print ("72 / 100 = 0.72")
+	if a == "73" and s == "/" and b == "0":
+		print ("73 / 0 = inf")
 	if a == "73" and s == "/" and b == "1":
 		print ("73 / 1 = 73.0")
 	if a == "73" and s == "/" and b == "2":
@@ -74605,6 +76159,8 @@ def Calculate(a, s, b):
 		print ("73 / 99 = 0.7373737373737373")
 	if a == "73" and s == "/" and b == "100":
 		print ("73 / 100 = 0.73")
+	if a == "74" and s == "/" and b == "0":
+		print ("74 / 0 = inf")
 	if a == "74" and s == "/" and b == "1":
 		print ("74 / 1 = 74.0")
 	if a == "74" and s == "/" and b == "2":
@@ -74805,6 +76361,8 @@ def Calculate(a, s, b):
 		print ("74 / 99 = 0.7474747474747475")
 	if a == "74" and s == "/" and b == "100":
 		print ("74 / 100 = 0.74")
+	if a == "75" and s == "/" and b == "0":
+		print ("75 / 0 = inf")
 	if a == "75" and s == "/" and b == "1":
 		print ("75 / 1 = 75.0")
 	if a == "75" and s == "/" and b == "2":
@@ -75005,6 +76563,8 @@ def Calculate(a, s, b):
 		print ("75 / 99 = 0.7575757575757576")
 	if a == "75" and s == "/" and b == "100":
 		print ("75 / 100 = 0.75")
+	if a == "76" and s == "/" and b == "0":
+		print ("76 / 0 = inf")
 	if a == "76" and s == "/" and b == "1":
 		print ("76 / 1 = 76.0")
 	if a == "76" and s == "/" and b == "2":
@@ -75205,6 +76765,8 @@ def Calculate(a, s, b):
 		print ("76 / 99 = 0.7676767676767676")
 	if a == "76" and s == "/" and b == "100":
 		print ("76 / 100 = 0.76")
+	if a == "77" and s == "/" and b == "0":
+		print ("77 / 0 = inf")
 	if a == "77" and s == "/" and b == "1":
 		print ("77 / 1 = 77.0")
 	if a == "77" and s == "/" and b == "2":
@@ -75405,6 +76967,8 @@ def Calculate(a, s, b):
 		print ("77 / 99 = 0.7777777777777778")
 	if a == "77" and s == "/" and b == "100":
 		print ("77 / 100 = 0.77")
+	if a == "78" and s == "/" and b == "0":
+		print ("78 / 0 = inf")
 	if a == "78" and s == "/" and b == "1":
 		print ("78 / 1 = 78.0")
 	if a == "78" and s == "/" and b == "2":
@@ -75605,6 +77169,8 @@ def Calculate(a, s, b):
 		print ("78 / 99 = 0.7878787878787878")
 	if a == "78" and s == "/" and b == "100":
 		print ("78 / 100 = 0.78")
+	if a == "79" and s == "/" and b == "0":
+		print ("79 / 0 = inf")
 	if a == "79" and s == "/" and b == "1":
 		print ("79 / 1 = 79.0")
 	if a == "79" and s == "/" and b == "2":
@@ -75805,6 +77371,8 @@ def Calculate(a, s, b):
 		print ("79 / 99 = 0.797979797979798")
 	if a == "79" and s == "/" and b == "100":
 		print ("79 / 100 = 0.79")
+	if a == "80" and s == "/" and b == "0":
+		print ("80 / 0 = inf")
 	if a == "80" and s == "/" and b == "1":
 		print ("80 / 1 = 80.0")
 	if a == "80" and s == "/" and b == "2":
@@ -76005,6 +77573,8 @@ def Calculate(a, s, b):
 		print ("80 / 99 = 0.8080808080808081")
 	if a == "80" and s == "/" and b == "100":
 		print ("80 / 100 = 0.8")
+	if a == "81" and s == "/" and b == "0":
+		print ("81 / 0 = inf")
 	if a == "81" and s == "/" and b == "1":
 		print ("81 / 1 = 81.0")
 	if a == "81" and s == "/" and b == "2":
@@ -76205,6 +77775,8 @@ def Calculate(a, s, b):
 		print ("81 / 99 = 0.8181818181818182")
 	if a == "81" and s == "/" and b == "100":
 		print ("81 / 100 = 0.81")
+	if a == "82" and s == "/" and b == "0":
+		print ("82 / 0 = inf")
 	if a == "82" and s == "/" and b == "1":
 		print ("82 / 1 = 82.0")
 	if a == "82" and s == "/" and b == "2":
@@ -76405,6 +77977,8 @@ def Calculate(a, s, b):
 		print ("82 / 99 = 0.8282828282828283")
 	if a == "82" and s == "/" and b == "100":
 		print ("82 / 100 = 0.82")
+	if a == "83" and s == "/" and b == "0":
+		print ("83 / 0 = inf")
 	if a == "83" and s == "/" and b == "1":
 		print ("83 / 1 = 83.0")
 	if a == "83" and s == "/" and b == "2":
@@ -76605,6 +78179,8 @@ def Calculate(a, s, b):
 		print ("83 / 99 = 0.8383838383838383")
 	if a == "83" and s == "/" and b == "100":
 		print ("83 / 100 = 0.83")
+	if a == "84" and s == "/" and b == "0":
+		print ("84 / 0 = inf")
 	if a == "84" and s == "/" and b == "1":
 		print ("84 / 1 = 84.0")
 	if a == "84" and s == "/" and b == "2":
@@ -76805,6 +78381,8 @@ def Calculate(a, s, b):
 		print ("84 / 99 = 0.8484848484848485")
 	if a == "84" and s == "/" and b == "100":
 		print ("84 / 100 = 0.84")
+	if a == "85" and s == "/" and b == "0":
+		print ("85 / 0 = inf")
 	if a == "85" and s == "/" and b == "1":
 		print ("85 / 1 = 85.0")
 	if a == "85" and s == "/" and b == "2":
@@ -77005,6 +78583,8 @@ def Calculate(a, s, b):
 		print ("85 / 99 = 0.8585858585858586")
 	if a == "85" and s == "/" and b == "100":
 		print ("85 / 100 = 0.85")
+	if a == "86" and s == "/" and b == "0":
+		print ("86 / 0 = inf")
 	if a == "86" and s == "/" and b == "1":
 		print ("86 / 1 = 86.0")
 	if a == "86" and s == "/" and b == "2":
@@ -77205,6 +78785,8 @@ def Calculate(a, s, b):
 		print ("86 / 99 = 0.8686868686868687")
 	if a == "86" and s == "/" and b == "100":
 		print ("86 / 100 = 0.86")
+	if a == "87" and s == "/" and b == "0":
+		print ("87 / 0 = inf")
 	if a == "87" and s == "/" and b == "1":
 		print ("87 / 1 = 87.0")
 	if a == "87" and s == "/" and b == "2":
@@ -77405,6 +78987,8 @@ def Calculate(a, s, b):
 		print ("87 / 99 = 0.8787878787878788")
 	if a == "87" and s == "/" and b == "100":
 		print ("87 / 100 = 0.87")
+	if a == "88" and s == "/" and b == "0":
+		print ("88 / 0 = inf")
 	if a == "88" and s == "/" and b == "1":
 		print ("88 / 1 = 88.0")
 	if a == "88" and s == "/" and b == "2":
@@ -77605,6 +79189,8 @@ def Calculate(a, s, b):
 		print ("88 / 99 = 0.8888888888888888")
 	if a == "88" and s == "/" and b == "100":
 		print ("88 / 100 = 0.88")
+	if a == "89" and s == "/" and b == "0":
+		print ("89 / 0 = inf")
 	if a == "89" and s == "/" and b == "1":
 		print ("89 / 1 = 89.0")
 	if a == "89" and s == "/" and b == "2":
@@ -77805,6 +79391,8 @@ def Calculate(a, s, b):
 		print ("89 / 99 = 0.898989898989899")
 	if a == "89" and s == "/" and b == "100":
 		print ("89 / 100 = 0.89")
+	if a == "90" and s == "/" and b == "0":
+		print ("90 / 0 = inf")
 	if a == "90" and s == "/" and b == "1":
 		print ("90 / 1 = 90.0")
 	if a == "90" and s == "/" and b == "2":
@@ -78005,6 +79593,8 @@ def Calculate(a, s, b):
 		print ("90 / 99 = 0.9090909090909091")
 	if a == "90" and s == "/" and b == "100":
 		print ("90 / 100 = 0.9")
+	if a == "91" and s == "/" and b == "0":
+		print ("91 / 0 = inf")
 	if a == "91" and s == "/" and b == "1":
 		print ("91 / 1 = 91.0")
 	if a == "91" and s == "/" and b == "2":
@@ -78205,6 +79795,8 @@ def Calculate(a, s, b):
 		print ("91 / 99 = 0.9191919191919192")
 	if a == "91" and s == "/" and b == "100":
 		print ("91 / 100 = 0.91")
+	if a == "92" and s == "/" and b == "0":
+		print ("92 / 0 = inf")
 	if a == "92" and s == "/" and b == "1":
 		print ("92 / 1 = 92.0")
 	if a == "92" and s == "/" and b == "2":
@@ -78405,6 +79997,8 @@ def Calculate(a, s, b):
 		print ("92 / 99 = 0.9292929292929293")
 	if a == "92" and s == "/" and b == "100":
 		print ("92 / 100 = 0.92")
+	if a == "93" and s == "/" and b == "0":
+		print ("93 / 0 = inf")
 	if a == "93" and s == "/" and b == "1":
 		print ("93 / 1 = 93.0")
 	if a == "93" and s == "/" and b == "2":
@@ -78605,6 +80199,8 @@ def Calculate(a, s, b):
 		print ("93 / 99 = 0.9393939393939394")
 	if a == "93" and s == "/" and b == "100":
 		print ("93 / 100 = 0.93")
+	if a == "94" and s == "/" and b == "0":
+		print ("94 / 0 = inf")
 	if a == "94" and s == "/" and b == "1":
 		print ("94 / 1 = 94.0")
 	if a == "94" and s == "/" and b == "2":
@@ -78805,6 +80401,8 @@ def Calculate(a, s, b):
 		print ("94 / 99 = 0.9494949494949495")
 	if a == "94" and s == "/" and b == "100":
 		print ("94 / 100 = 0.94")
+	if a == "95" and s == "/" and b == "0":
+		print ("95 / 0 = inf")
 	if a == "95" and s == "/" and b == "1":
 		print ("95 / 1 = 95.0")
 	if a == "95" and s == "/" and b == "2":
@@ -79005,6 +80603,8 @@ def Calculate(a, s, b):
 		print ("95 / 99 = 0.9595959595959596")
 	if a == "95" and s == "/" and b == "100":
 		print ("95 / 100 = 0.95")
+	if a == "96" and s == "/" and b == "0":
+		print ("96 / 0 = inf")
 	if a == "96" and s == "/" and b == "1":
 		print ("96 / 1 = 96.0")
 	if a == "96" and s == "/" and b == "2":
@@ -79205,6 +80805,8 @@ def Calculate(a, s, b):
 		print ("96 / 99 = 0.9696969696969697")
 	if a == "96" and s == "/" and b == "100":
 		print ("96 / 100 = 0.96")
+	if a == "97" and s == "/" and b == "0":
+		print ("97 / 0 = inf")
 	if a == "97" and s == "/" and b == "1":
 		print ("97 / 1 = 97.0")
 	if a == "97" and s == "/" and b == "2":
@@ -79405,6 +81007,8 @@ def Calculate(a, s, b):
 		print ("97 / 99 = 0.9797979797979798")
 	if a == "97" and s == "/" and b == "100":
 		print ("97 / 100 = 0.97")
+	if a == "98" and s == "/" and b == "0":
+		print ("98 / 0 = inf")
 	if a == "98" and s == "/" and b == "1":
 		print ("98 / 1 = 98.0")
 	if a == "98" and s == "/" and b == "2":
@@ -79605,6 +81209,8 @@ def Calculate(a, s, b):
 		print ("98 / 99 = 0.98989898989899")
 	if a == "98" and s == "/" and b == "100":
 		print ("98 / 100 = 0.98")
+	if a == "99" and s == "/" and b == "0":
+		print ("99 / 0 = inf")
 	if a == "99" and s == "/" and b == "1":
 		print ("99 / 1 = 99.0")
 	if a == "99" and s == "/" and b == "2":
@@ -79805,6 +81411,8 @@ def Calculate(a, s, b):
 		print ("99 / 99 = 1.0")
 	if a == "99" and s == "/" and b == "100":
 		print ("99 / 100 = 0.99")
+	if a == "100" and s == "/" and b == "0":
+		print ("100 / 0 = inf")
 	if a == "100" and s == "/" and b == "1":
 		print ("100 / 1 = 100.0")
 	if a == "100" and s == "/" and b == "2":
