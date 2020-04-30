@@ -3,18 +3,21 @@ __author__ = "Ryan Bergeron"
 
 import os
 
+start = 0
+end = 101 # Up to but not including
+
 # Initialize
 f = open("calculator.py", 'w')
 f.write("# My first calculator\n")
-f.write("__author__ = \"Ryan Bergeron\"\n\nimport os")
+f.write("__author__ = \"{a}\"\n\nimport os".format(a=__author__))
 f.write("\n\n# THE FUNCTION\n")
 f.write("def Calculate(a, s, b):\n")
 
 signs = ["+", "-", "*", "/"]
 
 for i in signs:
-    for j in range (0, 101):
-        for k in range (0, 101):
+    for j in range (start, end):
+        for k in range (start, end):
             if i == "/" and k == 0: # Check for division by 0
                 ans = "inf"
             else:
