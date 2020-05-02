@@ -9,7 +9,7 @@ end = 101 # Up to but not including
 # Initialize
 f = open("calculator.py", 'w')
 f.write("# My first calculator\n")
-f.write("__author__ = \"{a}\"\n\nimport os".format(a=__author__))
+f.write("__author__ = \"{a}\"".format(a=__author__))
 f.write("\n\n# THE FUNCTION\n")
 f.write("def Calculate(a, s, b):\n")
 

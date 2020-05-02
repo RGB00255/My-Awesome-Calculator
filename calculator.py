@@ -1,8 +1,6 @@
 # My first calculator
 __author__ = "Ryan Bergeron"
 
-import os
-
 # THE FUNCTION
 def Calculate(a, s, b):
 	if a == "0" and s == "+" and b == "0":
